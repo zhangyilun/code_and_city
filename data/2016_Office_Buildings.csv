@@ -1,0 +1,622 @@
+﻿FID,BuildingID,BuildingNa,StreetAddr,OfficeType,SourceGFA_,SourceGFA1,Storeys,YearBuilt
+1,1,Airway Centre II,5915 Airport Rd,Major Office,15167,163256.229188,11,1983
+2,2,"Building ""A"" - Orlando Airport Business Park",6205 Airport Rd,Secondary Office,5379,57899.074095,5,1971
+3,3,"Building ""B"" - Orlando Airport Business Park",6205 Airport Rd,Secondary Office,3149,33895.553881,3,1968
+4,4,Pentecostal Assemblies Of Canada,2450 Milltower Crt,Secondary Office,2387,25693.454149,2,1999
+5,5,Bell Mobility,5099 Creekbank Rd,Major Office,46097,496183.97817,6,1999
+6,6,Skymark/Orbitor Place - Phase II,2475 Skymark Ave,Secondary Office,2103,22636.503592,2, 
+7,7,Orlando Executive Centre - Bldg I,6299 Airport Rd,Major Office,10767,115895.023384,7,1975
+8,8, ,6465 Airport Rd,Secondary Office,1161,12496.899986,2,1973
+9,9, ,6509 Airport Rd,Secondary Office,5585,60116.43964,2,1982
+10,10,Airport Business Park,6655 Airport Rd,Secondary Office,6231,67069.925765,1,1987
+11,11,Airport Executive Centre,6695 Airport Rd,Secondary Office,2688,28933.391182,2,1984
+12,13,Airport Executive Centre II,6715 Airport Rd,Major Office,10033,107994.313144,6,1988
+13,14,Airport Executive Centre I,6725 Airport Rd,Major Office,10128,109016.884632,7,1985
+14,15, ,7420 Airport Rd,Secondary Office,3407,36672.642767,2,1986
+15,18,1804 Alstep,1804 Alstep Dr,Secondary Office,2230,24003.520214,2,1990
+16,20,Wal-Mart Canada,1940 Argentia Rd,Major Office,14119,151975.651079,1, 
+17,21,Meadowvale Corporate Centre Plaza 2,2000 Argentia Rd,Secondary Office,4350,46823.010283,4,1974
+18,22,Meadowvale Corporate Centre Plaza 4,2000 Argentia Rd,Secondary Office,4350,46823.010283,4,1974
+19,23,Meadowvale Corporate Centre Plaza 1,2000 Argentia Rd,Secondary Office,4350,46823.010283,4,1977
+20,24,Meadowvale Corporate Centre Plaza 5,2000 Argentia Rd,Secondary Office,5844,62904.292436,4,1975
+21,25,Meadowvale Corporate Centre Plaza 3,2000 Argentia Rd,Secondary Office,4350,46823.010283,4,1975
+22,26, ,2121 Argentia Rd,Secondary Office,5937,63905.336104,4,1980
+23,27,UFCW Local 175,2200 Argentia Rd,Secondary Office,3148,33884.789971,2,1984/2005
+24,28,Agra Building,2233 Argentia Rd,Major Office,12704,136744.717849,4,1982
+25,32,Sun Life Assurance Company of Canada,2476 Argentia Rd,Secondary Office,9183.16,98846.711521,4,2015
+26,33,Pentagon Building,2550 Argentia Rd,Secondary Office,5005,53873.371602,2,1988
+27,35,Maple Leaf,2626 Argentia Rd,Secondary Office,1968,21183.375687,2,1987
+28,36,Britannia Place,5995 Avebury Rd,Major Office,14823,159553.444007,9,1991
+29,44,Diblasio Group,111 Brunel Rd,Secondary Office,2147,23110.11565,2,1988
+30,45,Diblasio Group,141 Brunel Rd,Secondary Office,1431,15403.155797,2,1989
+31,46,Burnhamthorpe Professional Centre,1420 Burnhamthorpe Rd E,Secondary Office,3811,41021.262573,4,1992
+32,47,Sussex Centre - Phs I,50 Burnhamthorpe Rd W,Major Office,29723,319935.709116,14,1987
+33,48,Sussex Centre - Phs II,90 Burnhamthorpe Rd W,Major Office,27790,299129.070294,15,1989
+34,49,PHH Centre - Phs I,350 Burnhamthorpe Rd W,Major Office,13788,148412.796733,10,1988
+35,50,Erindale Business Centre,1140 Burnhamthorpe Rd W,Secondary Office,5831,62764.361601,2,1986
+36,51,Ontario Milk Marketing Board,6780 Campobello Rd,Secondary Office,2944,31688.952247,2,1983
+37,52,Direct Protect,5600 Cancross Crt,Secondary Office,9639,103753.332442,2,1989
+38,53,Canadian Red Cross Society,5700 Cancross Crt,Secondary Office,2787,29999.018313,2,1988
+39,54,Erinpark Commercial Centre-Phs I,1100 Central Pky W,Secondary Office,8594,92505.046064,2,1985
+40,55,Kaneff Corporate Centre - Phs II,1270 Central Pky W,Secondary Office,8110,87295.313425,6,1988
+41,56,Kaneff Corporate Centre - Phs III,1290 Central Pky W,Major Office,16744,180230.915905,9,1990
+42,57,Kaneff Corporate Centre - Phs I,1300 Central Pky W,Secondary Office,5400,58125.116214,4,1986
+43,58, ,6700 Century Ave,Secondary Office,1750,18836.843218,3,1979
+44,59, ,6745 Century Ave,Secondary Office,4645,49998.363854,3,1991
+45,60,Hilti (Canada Ltd),6790 Century Ave,Secondary Office,5570,59954.980984,4,1987
+46,62,CGI Information Systems,6820 Century Ave,Secondary Office,4310,46392.453867,2,1979
+47,63,Mack Trucks Ltd,6860 Century Ave,Secondary Office,8708,93732.13185,3,1980
+48,64,NCR Canada (First Meadowvale Centre),6865 Century Ave,Secondary Office,6554.39,70550.866752,2,1973
+49,65,City Centre Plaza - Phs I,1 City Centre Dr,Major Office,26514,285394.320611,16,1990
+50,66,33 City Centre Dr,33 City Centre Dr,Major Office,23931,257591.140022,6,1977
+51,67,55 City Centre Dr,55 City Centre Dr,Major Office,16050,172760.76208,11,1971
+52,68,77 City Centre Dr,77 City Centre Dr,Major Office,18227,196193.795043,8,1989
+53,69,The UCO Building,151 City Centre Dr,Secondary Office,7618,81999.469503,9,1972
+54,70,201 City Centre Dr,201 City Centre Dr,Major Office,21566,232134.491902,11,1979
+55,71,Mississauga City Hall,300 City Centre Dr,Major Office,14307,153999.266236,12,1986
+56,72, ,3050 Confederation Pky,Secondary Office,6900,74270.981829,6,1989
+57,73,Greater Toronto Airport Authority,3111 Convair Dr,Secondary Office,9238,99437.004368,4, 
+58,74,Coopers Business Centre,5745 Coopers Ave,Secondary Office,774.2,8333.419439,1,1989
+59,75,Coopers Business Centre,5747 Coopers Ave,Secondary Office,774.2,8333.419439,1,1989
+60,76,Coopers Business Centre,5749 Coopers Ave,Secondary Office,774.2,8333.419439,1,1989
+61,78,Coopers Business Centre,5753 Coopers Ave,Secondary Office,774.2,8333.419439,1,1989
+62,79,Coopers Business Centre,5755 Coopers Ave,Secondary Office,774.2,8333.419439,1,1989
+63,80,Coopers Business Centre,5757 Coopers Ave,Secondary Office,774.2,8333.419439,1,1989
+64,82,Credit Valley Medical Arts Building,2000 Credit Valley Rd,Secondary Office,6968,75002.927737,5, 
+65,84,Courtyard Offices - Phs I,969 Derry Rd E,Secondary Office,1675,18029.549937,1,1989
+66,85, ,979 Derry Rd E,Secondary Office,861,9267.726863,1,1988
+67,86,Derry Tomken Centre,989 Derry Rd E,Secondary Office,4608,49600.099169,4,1989
+68,87,Malton Medical Arts Building,3530 Derry Rd E,Secondary Office,1951,21000.38921,2, 
+69,88,Siemens,2185 Derry Rd W,Secondary Office,7104,76466.819553,3,1994
+70,90, ,3461 Dixie Rd,Secondary Office,1765,18998.301874,5,1974
+71,93, ,5170 Dixie Rd,Secondary Office,2415,25994.84364,3,1973
+72,94,Dixie Court Corporate Parks 3,6345 Dixie Rd,Secondary Office,6835,73571.327652,4,1988
+73,95,Dixie Court Corporate Parks 4,6375 Dixie Rd,Secondary Office,5659,60912.96901,4,1988
+74,96,Camilla Place,130 Dundas St E,Secondary Office,4720,50805.657135,5,1977
+75,97,Ashley Business Centre,918 Dundas St E,Secondary Office,3485,37512.227779,5,1991
+76,98, ,1090 Dundas St E,Secondary Office,1235,13293.429356,0,1979
+77,99,Dun-Dix Square - Phs I,1370 Dundas St E,Secondary Office,1858,19999.345542,3,1986
+78,100,Dundas Square,2055 Dundas St E,Secondary Office,4625,49783.085646,2,1983
+79,101,Dundas Square,2065 Dundas St E,Secondary Office,3515,37835.145091,2,1983
+80,102,Dundas Square,2077 Dundas St E,Secondary Office,1340,14423.639949,2,1982
+81,103,Dundas Square,2087 Dundas St E,Secondary Office,1116,12012.524018,2,1983
+82,106,Dundas Tower,165 Dundas St W,Major Office,10904,117369.679111,10,1976
+83,107,Dunwin IV,2145 Dunwin Dr,Secondary Office,1519,16350.379913,1, 
+84,108,Dunwin IV,2155 Dunwin Dr,Secondary Office,2724,29320.891957,1, 
+85,112, ,2600 Edenhurst Dr,Secondary Office,1533,16501.074659,3,1980
+86,113,Eglinton Commercial Centre,30 Eglinton Ave W,Major Office,13462,144903.761939,8,1988
+87,114,Credit Valley Professional Building,2300 Eglinton Ave W,Secondary Office,6251,67285.203973,5,1988
+88,115,Enterprise Centre - Phs I,1550 Enterprise Rd,Secondary Office,8695,93592.201015,4,1987
+89,116, ,3195 Erindale Station Rd,Secondary Office,811,8729.531343,2,1978
+90,117,Airport Corporate Centre Tower,5090 Explorer Dr,Major Office,15076.99,162287.369612,10,1988
+91,119,Festo Inc Office Building,5300 Explorer Dr,Secondary Office,5315,57210.183829,4,1985
+92,120,Kingsway Financial,5310 Explorer Dr,Secondary Office,6921,74497.023948,4,1985
+93,121,AeroCentre - Phs IV,5500 Explorer Dr,Secondary Office,5295,56994.905621,4,1991
+94,122,AeroCentre - Phs II,5580 Explorer Dr,Secondary Office,7494.78,80673.140463,6,1989
+95,123,AeroCentre - Phs I,5600 Explorer Dr,Secondary Office,4942.72,53202.995262,4,1989
+96,124,Building A,5700 Explorer Dr,Secondary Office,6486,69814.722919,4,1996
+97,125,Bank of Canada,5990 Explorer Dr,Secondary Office,8992,96789.082407,2, 
+98,129, ,6870 Goreway Dr,Secondary Office,2323,25004.563882,2,1989
+99,131,Malton Medical Clinic / Goreway Health Centre,7330 Goreway Dr,Secondary Office,765,8234.391464,2,1990
+100,132, ,2301 Haines Rd,Secondary Office,2230,24003.520214,2, 
+101,135,Credit Valley Corporate Centre,1599 Hurontario St,Secondary Office,5491,59104.632061,3,1989
+102,136,South Gate Executive Centre,2085 Hurontario St,Secondary Office,7519,80933.842373,5,1989
+103,137, ,2338 Hurontario St,Secondary Office,1486,15995.170869,0,1987
+104,138,Hurontario Professional Building,3025 Hurontario St,Secondary Office,4301,46295.578673,6,1968
+105,396,Microsoft Canada,320 Matheson Blvd W,Secondary Office,7539.82,81157.946988,3,1990
+106,397, ,5800 Hurontario St,Major Office,24834,267310.951122,12,1999
+107,398,Royal & SunAlliance,2225 Erin Mills Pky,Major Office,20246,217926.130161,2, 
+108,399, ,100 Milverton Dr,Major Office,20011,215396.611215,9,2001
+109,400, ,2345 Argentia Rd,Secondary Office,4482,48243.846458,2,2001
+110,401,TLC Laser Eye Centre,5280 Solar Drive,Secondary Office,5095,54842.123539,3,1999
+111,402,Comdisco Services,1800 Argentia Rd,Secondary Office,5491,59104.632061,2,1989
+112,403,UMA Engineering Ltd.,5080 Commerce Blvd,Secondary Office,2675,28793.460347,1,1987
+113,404, ,1620 Tech Ave,Secondary Office,6782,73000.840401,1,2001
+114,405,Microsoft Canada,1950 Meadowvale Blvd,Major Office,15841.95,170521.33052,4,2001
+115,406,TD Bank Financial Group,4720 Tahoe Blvd,Major Office,12817,137961.039725,6,2001
+116,407,TD Bank Financial Group,4880 Tahoe Blvd,Major Office,12817,137961.039725,6,2001
+117,408,Biovail Head Office,7150 Mississauga Rd,Secondary Office,8973.92,96594.470907,3,2001/2008
+118,409,REMAX,4310 Sherwoodtowne Blvd,Secondary Office,5597,60245.606565,4,1997
+119,410,Atomic Energy of Canada,2251 Speakman Dr,Major Office,10982.6,118215.722469,3, 
+120,411, ,3115 Glen Erin Dr,Secondary Office,694,7470.153825,1, 
+121,412, ,3105 Glen Erin Dr,Secondary Office,492,5295.843922,1, 
+122,413, ,2318 Dunwin Dr,Secondary Office,1279,13767.041414,1, 
+123,414, ,3095 Glen Erin Dr,Secondary Office,1009,10860.785604,1, 
+124,415,Human Resources Canada,3085 Glen Erin Dr,Secondary Office,3078,33131.316242,1, 
+125,416,Canadian Standards Association,5060 Spectrum Way,Secondary Office,9687,104270.000142,5,2001
+126,417,General Mills,5825 Explorer Dr,Secondary Office,9079.2,97727.695394,3,2003
+127,418, ,1541 Hurontario ST,Secondary Office,413.34,4449.154729,2,2001
+128,419, ,1547 Hurontario St,Secondary Office,408.32,4395.119899,2,2001
+129,420,Oshawa Foods Office,6355 Viscount Rd,Secondary Office,6897,74238.690098,3, 
+130,421,Mitsubishi Motor Sales of Canada Inc.,2090 Matheson Blvd E,Secondary Office,1408,15155.585857,1,2002
+131,422,R R Enterprises,2855 Speakman Dr,Secondary Office,1703.6,18337.397774,2,2002
+132,423,TD Bank Financial Group,1855 Buckhorn Gate,Major Office,13464,144925.28976,6,2002
+133,424,TD Bank Financial Group,1875 Buckhorn Gate,Major Office,13464,144925.28976,6,2002
+134,425,Rogers Broadcasting Ltd.,59 Ambassador Dr,Secondary Office,7950.6,85579.546106,2,1992
+135,426,Star Choice,2055 Flavelle Blvd,Secondary Office,5223,56219.904071,2,1964
+136,427,Traders Court - Phs I,120 Traders Blvd E,Secondary Office,2699,29051.794197,2,1987
+137,428, ,1443 Hurontario St,Secondary Office,552,5941.678546,2,2003
+138,511, ,3161 Hurontario St,Secondary Office,286,3078.478377,1,1930
+139,429, ,3024 Hurontario St,Secondary Office,3427.07,36888.674449,3,2003
+140,512, ,160 King St E,Secondary Office,270,2906.255811,2, 
+141,430, ,1980 Matheson Blvd E,Major Office,12729.5,137019.197564,2,2003
+142,513, ,95 King St W,Secondary Office,129.25,1391.23542,1, 
+143,432,Bell Mobility Phase II,5115 Creekbank Rd,Major Office,21923.1,235978.284309,3,2003
+144,514, ,3016 Kirwin Ave,Secondary Office,110,1184.030145,1,1948
+145,433,Monte Carlo Inn,7045 Edwards Blvd,Secondary Office,2003.5,21565.494506,5,2003
+146,515, ,3020 Kirwin Ave,Secondary Office,92,990.279758,1, 
+147,434,KMH Research Centre,2075 Hawden Rd,Secondary Office,1668.46,17959.153963,1,2003
+148,516, ,21 Queensway W,Secondary Office,1542,16597.949852,2, 
+149,517, ,2525 Dixie Rd,Secondary Office,1970,21204.903508,1, 
+150,518, ,2345 Haines Rd,Secondary Office,100,1076.391041,1, 
+151,435,Golder Office Building,2180 Meadowvale Blvd,Secondary Office,2369.06,25500.349596,2,1988
+152,520, ,820 Britannia Rd W,Secondary Office,523,5629.525144,2,1907
+153,436, ,1660 Tech Ave,Secondary Office,5370.1,57803.275293,1,2004
+154,521, ,1552 Dundas St W,Secondary Office,360,3875.007748,2, 
+155,522, ,1556 Dundas St W,Secondary Office,330,3552.090435,2, 
+156,437, ,1680 Tech Ave,Secondary Office,5370.1,57803.275293,1,2004
+157,259,Village Offices of Sherwoodtowne 3,4257 Sherwoodtowne Blvd,Secondary Office,619,6662.860544,2,1984
+158,523, ,1645 Dundas St W,Secondary Office,850,9149.323849,2,1973
+159,438, ,1569 Hurontario St,Secondary Office,365.65,3935.823841,2,2004
+160,524, ,1101 Erindale Station Rd,Secondary Office,380,4090.285956,1, 
+161,260,Village Offices of Sherwoodtowne 3,4259 Sherwoodtowne Blvd,Secondary Office,619,6662.860544,2,1984
+162,525, ,3173 Erindale Station Rd,Secondary Office,523,5629.525144,3, 
+163,261,Village Offices of Sherwoodtowne 3,4261 Sherwoodtowne Blvd,Secondary Office,619,6662.860544,2,1984
+164,527, ,3215 Erindale Station Rd,Secondary Office,4860,52312.604593,2,1964
+165,262,Village Offices of Sherwoodtowne 3,4263 Sherwoodtowne Blvd,Secondary Office,619,6662.860544,2,1984
+166,528, ,3514 Hurontario St,Secondary Office,130,1399.308353,2,1954
+167,263,Village Offices of Sherwoodtowne 3,4265 Sherwoodtowne Blvd,Secondary Office,619,6662.860544,2,1984
+168,529, ,3528 Hurontario St,Secondary Office,116,1248.613608,1,1952
+169,264,5190 Shuttle,5190 Shuttle Dr,Secondary Office,1394,15004.891112,1,1985
+170,530, ,3453 Palgrave Rd,Secondary Office,255.9,2754.484674,1,1955
+171,439,Kellogg,5350 Creekbank Rd,Secondary Office,4805.8,51729.200648,2,2004
+172,139,Crestwood Building,3038 Hurontario St,Secondary Office,2490,26802.136921,3,1986
+173,266,Centre Court,2585 Skymark Ave,Secondary Office,1388,14940.307649,2,1986
+174,531, ,6435 Edwards Blvd,Secondary Office,2925,31484.437949,2,1991
+175,140,Centre City Place,3081 Hurontario St,Secondary Office,4865.51,52371.913739,2,1988
+176,440,Bell Canada,80 High St E,Secondary Office,3102,33389.650092,2,1982
+177,267,Centre Court,2595 Skymark Ave,Secondary Office,3174,34164.651641,2,1986
+178,532, ,5840 Falbourne St,Secondary Office,2151.3,23156.400465,1, 
+179,141,Centre City Place,3095 Hurontario St,Secondary Office,2001,21538.58473,2,1988
+180,268,Centre Court,2605 Skymark Ave,Secondary Office,1388,14940.307649,2,1986
+181,441, ,1470 Hurontario St,Secondary Office,399,4294.800254,2,1993
+182,533, ,275 Matheson Blvd E,Secondary Office,1363.56,14677.237679,1, 
+183,142,City Centre Medical Arts Clinic,3420 Hurontario St,Secondary Office,1865,20074.692915,3,1992
+184,269,Financial Model Offices,2355 Skymark Ave,Secondary Office,3013,32431.662065,3,1990
+185,442,The Plastic Surgery Clinic,1421 Hurontario St,Secondary Office,420,4520.842372,2,2004
+186,534, ,295 Matheson Blvd E,Secondary Office,692.1,7449.702395,1, 
+187,143,Mississauga Corporate Centre,3660 Hurontario St,Secondary Office,5373,57834.490633,10,1987
+188,535, ,311 Matheson Blvd E,Secondary Office,1394.5,15010.273067,1, 
+189,443,Global Financial Associates,2444 Hurontario St,Secondary Office,664,7147.236512,4,1979
+190,270,The John J. Rieschi Building,2375 Skymark Ave,Secondary Office,3712,39955.635442,2,1990
+191,537, ,6035 McLaughlin Rd,Secondary Office,486.99,5241.916731,2, 
+192,144,Peel District School Board,5650 Hurontario St,Major Office,13006,139995.418792,3,1986
+193,444, ,5759 Coopers Ave,Secondary Office,774.2,8333.419439,1,1989
+194,539, ,1093 Lakeshore Rd E,Secondary Office,112,1205.557966,2, 
+195,271,Skymark/Orbitor Place - Phs III,2425 Skymark Ave,Secondary Office,4213,45348.354557,2,1989
+196,145,Heartland Corporate Centre,5770 Hurontario St,Major Office,22496,242144.928583,11,1989
+197,446, ,5110 Creekbank Rd,Secondary Office,9440,101611.31427,1,2005
+198,540, ,2863 Derry Rd E,Secondary Office,134,1442.363995,1, 
+199,148,Emerald Business Centre,10 Kingsbridge Garden Cir,Major Office,10758,115798.148191,8,1989
+200,273,College Square Phase I,2630 Skymark Ave,Secondary Office,8434,90782.820398,7,1991
+201,447, ,2326 Camilla Rd,Secondary Office,113,1216.321876,1,2005
+202,541, ,7200 Goreway Dr,Secondary Office,892.41,9605.821289,3, 
+203,149,Emerald Business Centre,20 Kingsbridge Garden Cir,Secondary Office,1989,21409.417805,2,1989
+204,274,Skymark Business Centre,2800 Skymark Ave,Secondary Office,6503,69997.709396,5,1990
+205,542, ,839 Central Pky W,Secondary Office,1867.9,20105.908255,2, 
+206,449,Dr.Gary Kerhoulas Office,35 Thomas St,Secondary Office,513.92,5531.788838,3,2005
+207,544, ,3456 Mavis Rd,Secondary Office,720,7750.015495,1, 
+208,150, ,39 Lakeshore Rd E,Secondary Office,836,8998.629103,2,1958
+209,275, ,5450 Explorer Dr,Major Office,11385,122547.120018,5,1999
+210,450,Christian Labour Association of Canada,2335 Argentia Rd,Secondary Office,1357.31,14609.963239,1,2005
+211,545, ,3464 Semenyk Crt,Secondary Office,1017.6,10953.355233,2, 
+212,151, ,1654 Lakeshore Rd W,Secondary Office,1672,17997.258206,0,1981
+213,276, ,5255 Solar Dr,Secondary Office,3905,42033.070151,2,1990
+214,451, ,6985 Financial Dr,Major Office,17300.95,186225.875808,6,2006/2007
+215,546, ,3465 Semenyk Crt,Secondary Office,1210.8,13032.942724,1, 
+216,277,Rand Corporate Centre,5285 Solar Dr,Secondary Office,3902,42000.77842,2,1990
+217,152,Molicom Group,2310 Lakeshore Rd W,Secondary Office,2286,24606.299197,2, 
+218,548, ,6800 Campobello Rd,Secondary Office,1180,12701.414284,2, 
+219,452, ,2955 Argentia Rd,Secondary Office,424.28,4566.911909,1,2005
+220,278,Dixie Park Centre,1550 South Gateway Rd,Secondary Office,2790,30031.310044,3,1993
+221,549, ,2150 Meadowvale Blvd,Secondary Office,1726,18578.509368,1, 
+222,153,Sheridan Corporate Centre,2155 Leanne Blvd,Secondary Office,5212,56101.501057,2,1979
+223,453, ,2150 Hurontario St,Secondary Office,783,8428.141851,2,2005
+224,279,The Southcom Building,2227 South Millway,Secondary Office,3735,40203.205381,3,1982
+225,550, ,7185 Millcreek Dr,Secondary Office,803,8643.420059,1,1989
+226,154,Matheson Court,100 Matheson Blvd E,Secondary Office,1394,15004.891112,2,1986
+227,280,2275 Speakman,2275 Speakman Dr,Secondary Office,2025,21796.91858,2,1968
+228,454, ,5900 Hurontario St,Major Office,17597.1,189413.607876,3,2006
+229,155,Matheson Court,120 Matheson Blvd E,Secondary Office,1394,15004.891112,2,1987
+230,281,Atomic Energy of Canada,2285 Speakman Dr,Major Office,12448,133989.156784,4,1981
+231,551, ,7195 Millcreek Dr,Secondary Office,912.74,9824.651588,1, 
+232,455,Mississauga Cosmetic Surgery Clinic,247 Queensway W,Secondary Office,177.8,1913.823271,1,2000/2007
+233,156,Internorth Construction Company,2580 Matheson Blvd E,Secondary Office,2044,22001.432878,1,1986
+234,282,Canadian Systems Group,2599 Speakman Dr,Major Office,10554,113602.310467,2,1972
+235,553, ,6245 Mississauga Rd,Secondary Office,1069.9,11516.307748,2, 
+236,456, ,1440 Hurontario St,Secondary Office,415.82,4475.849227,2,2006/2007
+237,283,Hatch Associates Office Development,2800 Speakman Dr,Major Office,14527,156367.326526,3,1991
+238,554, ,2170 Torquay Mews,Secondary Office,743.2,7999.738217,1, 
+239,157, ,2100 Matheson Blvd E,Major Office,16588,178551.745881,2,1990
+240,457,Mann Law Office,920 Derry Rd E,Secondary Office,265,2852.436259,1,2003/2007
+241,555, ,6610 Turner Valley Rd,Secondary Office,2370,25510.467672,2, 
+242,285,Pharmacia,5100 Spectrum Way,Secondary Office,6511,70083.82068,4,1997
+243,158, ,2110 Matheson Blvd E,Secondary Office,2323,25004.563882,2, 
+244,458, ,5750 Explorer Dr,Major Office,10862.36,116921.469881,5,2007
+245,556, ,7200 West Credit Ave,Secondary Office,1393,14994.127201,1, 
+246,459, ,7150 Derrycrest  Dr,Secondary Office,5599.94,60277.252461,3,2008/2009
+247,159, ,2120 Matheson Blvd E,Secondary Office,2110,22711.850965,2, 
+248,286,Hewlett-Packard Office Building,5150 Spectrum Way,Major Office,22615,243425.833922,6,1993
+249,557, ,7250 West Credit Ave,Secondary Office,1342.72,14452.917786,1, 
+250,460, ,29 Tannery St,Secondary Office,1219.82,13130.033196,3,2008
+251,288,Queensway Centre,2345 Stanfield Rd,Secondary Office,2787,29999.018313,4,1970
+252,558, ,1262 Hurontario St,Secondary Office,215,2314.240738,1, 
+253,160,Matheson Corporate Centre - Phs II,2540 Matheson Blvd E,Secondary Office,1449,15596.906184,2, 
+254,161,Matheson Corporate Centre,"2550, 2560, 2570 Matheson Blvd E",Secondary Office,9572,103032.150445,5,1990
+255,289,8 Stavebank,8 Stavebank Rd,Secondary Office,1672,17997.258206,0,1960
+256,559, ,1312 Hurontario St,Secondary Office,425,4574.661924,2, 
+257,461, ,2100 Derry Rd W,Major Office,10293.3,110796.159023,4,2008/2009
+258,560, ,1348 Hurontario St,Secondary Office,254,2734.033244,2, 
+259,290,7101 Syntex,7101 Syntex Dr,Secondary Office,1394,15004.891112,2,1989
+260,462,Mississauga Gateway Centre,75 Courtneypark Dr W,Secondary Office,6570.35,70722.658762,1,2008/2009
+261,292,Tomken Business Estates Phase 2,5710 Timberlea Blvd,Secondary Office,1184,12744.469925,2, 
+262,162,Hershey Canada,2350 Matheson Blvd E,Secondary Office,3716,39998.691084,2,1992
+263,561, ,1358 Hurontario St,Secondary Office,152.7,1643.64912,1,1956
+264,463,First Meadowvale Corporate Centre,2465 Argentia Rd,Major Office,27837.63,299641.755347,10,2008/2009
+265,293,Tomken Business Estates Phase 2,5720 Timberlea Blvd,Secondary Office,1224,13175.026342,2, 
+266,166,Matheson Mews,2601 Matheson Blvd E,Secondary Office,2945,31699.716157,2, 
+267,464, ,2050 Derry Rd W,Major Office,12036.31,129557.762507,4,2008/2009
+268,562, ,1370 Hurontario St,Secondary Office,464,4994.45443,3, 
+269,294,Tomken Business Estates Phase 2,5770` Timberlea Blvd,Secondary Office,1234,13282.665446,2, 
+270,167, ,2700 Matheson Blvd E,Major Office,17848.9,192123.960517,8,1989
+271,465, ,6750 Century Ave,Major Office,10489.22,112905.024351,4,2008/2009
+272,563, ,1382 Hurontario St,Secondary Office,202,2174.309903,1,1956
+273,295,Tomken Business Estates Phase 2,5780 Timberlea Blvd,Secondary Office,1180,12701.414284,2, 
+274,168,Co-operators Office Building,2810 Matheson Blvd E,Major Office,11140,119909.961967,10,1990
+275,564, ,1385 Hurontario St,Secondary Office,204.38,2199.92801,1,1938
+276,466,Financial Drive Office Building,6696 Financial Dr,Secondary Office,6825,73463.688548,1,2008/2009
+277,300,Traders Exchange,160 Traders Blvd,Secondary Office,7753,83452.597409,2,1989
+278,467,AeroCentre -  Ph V,"5550,5570 Explorer Dr",Major Office,19672.4,211751.95115,8,2008/2009
+279,565, ,1405 Hurontario St,Secondary Office,265,2852.436259,1,1949
+280,170,Bell Mobility,2920 Matheson Blvd E,Major Office,18610,200316.37273,9,1988
+281,301,175 Traders Blvd,175 Traders Blvd E,Secondary Office,929,9999.672771,1,1986
+282,171,Dufferin Peel District Separate School Board,40 Matheson Blvd W,Secondary Office,6854,73775.84195,3,1986
+283,566, ,1412 Hurontario St,Secondary Office,388,4176.397239,2,1948
+284,468, ,6897 Financial Dr,Major Office,15196.932,163578.414555,5,2008/2009
+285,567, ,1413 Hurontario St,Secondary Office,78.5,844.966967,1, 
+286,302,Intria Items Inc,5705 Cancross Crt,Secondary Office,3903,42011.54233,2,1999
+287,172,"Oracle (Orlando Building ""A"")",90 Matheson Blvd W,Secondary Office,9099,97940.820821,4,1991
+288,469, ,6775 Financial Dr,Major Office,12846.88,138282.665368,5,2008/2009
+289,306,Village Offices of Sherwoodtowne I,4275 Village Centre Crt,Secondary Office,341,3670.49345,2,1982
+290,569, ,1424 Hurontario St,Secondary Office,420,4520.842372,2, 
+291,173,"Oracle (Orlando Building ""B"")",110 Matheson Blvd W,Secondary Office,9099,97940.820821,4,1991
+292,470,RIM Mississauga,4701 Tahoe Blvd,Major Office,16807,180909.042261,6,2007/2008
+293,307,Village Offices of Sherwoodtowne I,4283 Village Centre Crt,Secondary Office,341,3670.49345,2,1982
+294,570, ,1430 Hurontario St,Secondary Office,702,7556.265108,2,1948
+295,471,RIM Mississauga,4715 Tahoe Blvd,Major Office,14049,151222.17735,6,2008/2009
+296,174,Heartland Office Campus I,115 Matheson Blvd W,Secondary Office,3557,38287.229328,2,1989
+297,571, ,1435 Hurontario St,Secondary Office,290,3121.534019,2, 
+298,308,Village Offices of Sherwoodtowne I,4284 Village Centre Crt,Secondary Office,341,3670.49345,2,1982
+299,472, ,430 Courtney Park Dr E,Secondary Office,5000,53819.55205,3,2009
+300,175,Heartland Office Campus II,135 Matheson Blvd W,Secondary Office,3305,35574.723905,2,1989
+301,574, ,1495 Hurontario St,Secondary Office,467,5026.746161,2,1982
+302,309,Village Offices of Sherwoodtowne I,4287 Village Centre Crt,Secondary Office,341,3670.49345,2,1982
+303,474,Credit Valley Conservation Authority Office,1255 Old Derry Rd W,Secondary Office,3629.85,39071.380202,3,1838/2010
+304,176,Heartland Office Campus III,155 Matheson Blvd W,Secondary Office,3557,38287.229328,2,1989
+305,575, ,1505 Hurontario St,Secondary Office,371.04,3993.841319,2,1928/2009
+306,475,Bell Canada Campus Phase III,5025 Creekbank Rd,Major Office,29055,312745.416963,5, 
+307,310,Village Offices of Sherwoodtowne I,4288 Village Centre Crt,Secondary Office,341,3670.49345,2,1982
+308,576, ,1515 Hurontario St,Secondary Office,880,9472.241161,2,1930
+309,177,RE Winter & Associates Building,200 Matheson Blvd W,Secondary Office,4729,50902.532329,2,1989
+310,311,Village Offices of Sherwoodtowne I,4291 Village Centre Crt,Secondary Office,341,3670.49345,2,1982
+311,476, ,7120 Hurontario St,Major Office,21666.416,233215.36073,8,2008
+312,577, ,1523 Hurontario St,Secondary Office,775,8342.030568,2, 
+313,178,Mississauga T & W Department - Mavis Depot,3185 Mavis Rd,Secondary Office,6639,71461.601212,2, 
+314,579, ,1553 Hurontario St,Secondary Office,260,2798.616707,2,1915
+315,312,Village Offices of Sherwoodtowne I,4292 Village Centre Crt,Secondary Office,341,3670.49345,2,1982
+316,477,Mississauga Gateway Centre,60 Courtneypark Dr W,Secondary Office,7745.44,83371.222246,1,2008
+317,179,Mississauga Hydro,3240 Mavis Rd,Major Office,11901,128101.297789,1,1980
+318,580, ,1561 Hurontario St,Secondary Office,120,1291.669249,1,1938
+319,313,Village Offices of Sherwoodtowne I,4295 Village Centre Crt,Secondary Office,341,3670.49345,2,1982
+320,478,Mississauga Gateway Centre,80 Courtneypark Dr W,Secondary Office,7003.32,75383.109053,1,2008
+321,581, ,1565 Hurontario St,Secondary Office,129.08,1389.405556,2, 
+322,314,Village Offices of Sherwoodtowne I,4296 Village Centre Crt,Secondary Office,341,3670.49345,2,1982
+323,180, ,5659 Mcadam Rd,Secondary Office,1672,17997.258206,1,1985
+324,479, ,6605 Hurontario St,Secondary Office,5482.02,59007.972146,6,2007
+325,582, ,5920 Atlantic Dr,Secondary Office,925,9956.617129,2, 
+326,315,Village Offices of Sherwoodtowne I,4299 Village Centre Crt,Secondary Office,341,3670.49345,2,1982
+327,583, ,2580 Drew Rd,Secondary Office,553,5952.442457,1, 
+328,181, ,"5660, 5670 Mcadam Rd",Secondary Office,1672,17997.258206,2,1990
+329,480,First Meadowvale Centre Ph.II,6925 Century Ave,Major Office,27679.29,297937.397772,10,2011
+330,316,Village Offices of Sherwoodtowne I,4300 Village Centre Crt,Secondary Office,341,3670.49345,2,1982
+331,585, ,1890 Meyerside Dr,Secondary Office,510,5489.594309,1, 
+332,183,The Offices at Meadowpines,2400 Meadowpine Blvd,Secondary Office,1456,15672.253557,2,1990
+333,481, ,95 Queen St S,Secondary Office,464.45,4999.29819,3,1929/2011
+334,318,Village Offices of Sherwoodtowne I,4303 Village Centre Crt,Secondary Office,341,3670.49345,2,1982
+335,586, ,3565 Nashua Dr,Secondary Office,1800,19375.038738,2, 
+336,184,The Offices at Meadowpines,2410 Meadowpine Blvd,Secondary Office,1381,14864.960276,2,1990
+337,482, ,7125 Mississauga Rd,Major Office,12867.95,138509.46096,5,2011
+338,587, ,3035 Orlando Dr,Secondary Office,1580,17006.978448,1, 
+339,185,The Offices at Meadowpines,2420 Meadowpine Blvd,Secondary Office,1070,11517.384139,2,1990
+340,588, ,7229 Pacific Cir,Secondary Office,4002,43077.169461,3, 
+341,483, ,100 Queen St S,Secondary Office,1081.23,11638.262853,2,2009
+342,186,The Offices at Meadowpines,2430 Meadowpine Blvd,Secondary Office,1456,15672.253557,2,1990
+343,484,Maersk Canada,2576 Matheson Blvd E,Secondary Office,730.8,7866.265728,1,1999
+344,589, ,89 High St E,Secondary Office,282.56,3041.450525,2, 
+345,189,GE Canada,2300 Meadowvale Blvd,Major Office,15793,169994.437105,3,1987
+346,485,Snap-On Tools of Canada,2325 Skymark Ave,Secondary Office,1028.43,11069.928383,1,1989
+347,590, ,10 Ann St,Secondary Office,123,1323.96098,1, 
+348,190,Meadowvale Professional Centre,6855 Meadowvale Town Centre,Secondary Office,8190,88156.426258,3,1981
+349,591, ,19 Ann St,Secondary Office,370,3982.646852,2, 
+350,487, ,775 Dundas St E,Secondary Office,254.9,2743.720764,2, 
+351,192,Dixie Place,1450 Meyerside Dr,Secondary Office,7699,82871.346247,7,1991
+352,592, ,26 Ann St,Secondary Office,203,2185.073813,2, 
+353,193,Astra Pharma Inc. Canada,1004 Middlegate Rd,Secondary Office,4689,50471.975912,3, 
+354,593, ,7 Elmwood Ave N,Secondary Office,225,2421.879842,2, 
+355,488, ,3033 Palstan Rd,Secondary Office,1331.1,14327.841147,2, 
+356,194,Erin Park Plaza,6465 Millcreek Dr,Secondary Office,2606,28050.750528,2,1987
+357,594, ,10 Front St S,Secondary Office,280,3013.894915,2, 
+358,489, ,3040 Palstan Rd,Secondary Office,539,5801.747711,2, 
+359,195,6850 Millcreek,6850 Millcreek Dr,Secondary Office,1843,19837.886886,2,1987
+360,595, ,12 Front St S,Secondary Office,155,1668.406114,2, 
+361,490, ,2691 Credit Valley Rd,Secondary Office,857,9224.671221,2,2001
+362,197,The Meadowvale Atrium,1900 Minnesota Crt,Secondary Office,9173,98737.350191,2,1981
+363,319,Village Offices of Sherwoodtowne I,4304 Village Centre Crt,Secondary Office,341,3670.49345,2,1982
+364,598, ,11 Helene St S,Secondary Office,110,1184.030145,1, 
+365,491, ,1098 Clarkson Rd N,Secondary Office,230.8,2484.310523,1, 
+366,198, ,1919 Minnesota Crt,Major Office,10913.6,117473.012651,5,2013
+367,320,Village Offices of Sherwoodtowne I,4307 Village Centre Crt,Secondary Office,341,3670.49345,2,1982
+368,492, ,1115/1125 Clarkson Rd N,Secondary Office,755,8126.75236,2, 
+369,321,Village Offices of Sherwoodtowne I,4308 Village Centre Crt,Secondary Office,341,3670.49345,2,1982
+370,199,Meadowvale Court II,6501 Mississauga Rd,Secondary Office,8004,86154.338922,1,1981
+371,599, ,90 High St E,Secondary Office,410,4413.203268,2, 
+372,493, ,972 Clarkson Rd S,Secondary Office,270,2906.255811,2, 
+373,322,Village Offices of Sherwoodtowne I,4311 Village Centre Crt,Secondary Office,341,3670.49345,2,1982
+374,200,Meadowvale Court II,6503 Mississauga Rd,Secondary Office,667,7179.528243,1,1981
+375,494, ,2183 Davebrook Rd,Secondary Office,285,3067.714467,2, 
+376,323,Village Offices of Sherwoodtowne I,4312 Village Centre Crt,Secondary Office,341,3670.49345,2,1982
+377,201,Meadowvale Court II,6505 Mississauga Rd,Secondary Office,667,7179.528243,1,1981
+378,495, ,1384 Lakeshore Rd W,Secondary Office,136.11,1465.075846,2, 
+379,324,Village Offices of Sherwoodtowne I,4315 Village Centre Crt,Secondary Office,341,3670.49345,2,1982
+380,600, ,10 Hurontario St,Secondary Office,196.4,2114.032005,3, 
+381,496, ,1400 Lakeshore Rd W,Secondary Office,539,5801.747711,1, 
+382,325,Village Offices of Sherwoodtowne I,4316 Village Centre Crt,Secondary Office,341,3670.49345,2,1982
+383,601, ,20 Hurontario St,Secondary Office,370,3982.646852,3, 
+384,202,Meadowvale Court II,6507 Mississauga Rd,Secondary Office,667,7179.528243,1,1981
+385,326,Village Offices of Sherwoodtowne 2,28 Village Centre Pl,Secondary Office,423,4553.134103,3,1982
+386,497, ,1414 Lakeshore Rd W,Secondary Office,406.56,4376.175416,1, 
+387,203,Meadowvale Court II,6509 Mississauga Rd,Secondary Office,667,7179.528243,1,1981
+388,327,Village Offices of Sherwoodtowne 2,30 Village Centre Pl,Secondary Office,423,4553.134103,3,1982
+389,602, ,34 Lakeshore Rd E,Secondary Office,1090,11732.662347,2, 
+390,499, ,1151 Lorne Park Rd,Secondary Office,237,2551.046767,2, 
+391,328,Village Offices of Sherwoodtowne 2,32 Village Centre Pl,Secondary Office,423,4553.134103,3,1982
+392,604, ,230 Lakeshore Rd E,Secondary Office,2080,22388.933653,3, 
+393,204,Meadowvale Court II,6511 Mississauga Rd,Secondary Office,667,7179.528243,1,1981
+394,329,Village Offices of Sherwoodtowne 2,34 Village Centre Pl,Secondary Office,423,4553.134103,3,1982
+395,500, ,2294 Camilla Rd,Secondary Office,167,1797.573038,2,1953
+396,330,Village Offices of Sherwoodtowne 2,40 Village Centre Pl,Secondary Office,423,4553.134103,3,1982
+397,605, ,264 Lakeshore Rd E,Secondary Office,1540,16576.422031,4, 
+398,501, ,2544 Confederation Pky,Secondary Office,123.01,1324.06862,2,1920
+399,331,Village Offices of Sherwoodtowne 2,42 Village Centre Pl,Secondary Office,423,4553.134103,3,1982
+400,205,Meadowvale Court II,6513 Mississauga Rd,Secondary Office,667,7179.528243,1,1981
+401,606, ,324 Lakeshore Rd E,Secondary Office,157,1689.933934,2, 
+402,332,Village Offices of Sherwoodtowne 2,44 Village Centre Pl,Secondary Office,423,4553.134103,3,1982
+403,504, ,19 Dundas St W,Secondary Office,690,7427.098183,2, 
+404,607, ,274 Lakeshore Rd E,Secondary Office,388,4176.397239,2, 
+405,206,Meadowvale Court II,6515 Mississauga Rd,Secondary Office,667,7179.528243,1,1981
+406,333,Village Offices of Sherwoodtowne 2,46 Village Centre Pl,Secondary Office,423,4553.134103,3,1982
+407,608, ,46 Port St E,Secondary Office,87,936.460206,1, 
+408,505, ,47 Dundas St W,Secondary Office,360,3875.007748,3, 
+409,207,Meadowvale Court II,6517 Mississauga Rd,Secondary Office,667,7179.528243,1,1981
+410,334,Village Offices of Sherwoodtowne 2,48 Village Centre Pl,Secondary Office,423,4553.134103,3,1982
+411,609, ,55 Port St E,Secondary Office,2275,24487.896183,3, 
+412,611, ,10 Stavebank Rd,Secondary Office,395,4251.744612,2, 
+413,335,Village Offices of Sherwoodtowne 2,50 Village Centre Pl,Secondary Office,423,4553.134103,3,1982
+414,208,Meadowvale Court II,6519 Mississauga Rd,Secondary Office,667,7179.528243,1,1981
+415,507, ,470 Hensal Cir,Secondary Office,1707,18373.99507,3, 
+416,612, ,20-22 Stavebank Rd,Secondary Office,410,4413.203268,2, 
+417,336,Village Offices of Sherwoodtowne 2,51 Village Centre Pl,Secondary Office,423,4553.134103,3,1982
+418,209,Meadowvale Court II,6521 Mississauga Rd,Secondary Office,667,7179.528243,1,1981
+419,510, ,2577/2579 Hurontario St,Secondary Office,200,2152.782082,2, 
+420,613, ,60 Briarwood Ave,Secondary Office,1116,12012.524018,2, 
+421,337,Village Offices of Sherwoodtowne 2,52 Village Centre Pl,Secondary Office,423,4553.134103,3,1982
+422,210,Meadowvale Court II,6523 Mississauga Rd,Secondary Office,667,7179.528243,1,1981
+423,614, ,1295 Burnhamthorpe Rd E,Secondary Office,184.8,1989.170644,2,1880
+424,338,Village Offices of Sherwoodtowne 2,53 Village Centre Pl,Secondary Office,423,4553.134103,3,1982
+425,211,Meadowvale Court I,6531 Mississauga Rd,Secondary Office,543,5844.803353,1,1979
+426,632, ,62 Queen St S,Secondary Office,150.84,1623.628246,2,1877
+427,615, ,1325 Burnhamthorpe Rd E,Secondary Office,212,2281.949007,1, 
+428,339,Village Offices of Sherwoodtowne 2,54 Village Centre Pl,Secondary Office,423,4553.134103,3,1982
+429,616, ,4272 Dixie Rd,Secondary Office,275.5,2965.457318,1,1955
+430,212,Meadowvale Court I,6533 Mississauga Rd,Secondary Office,530,5704.872517,1,1979
+431,633, ,82 Queen St S,Secondary Office,185.2,1993.476208,2,1923
+432,340,Village Offices of Sherwoodtowne 2,55 Village Centre Pl,Secondary Office,423,4553.134103,3,1982
+433,617, ,4288 Dixie Rd,Secondary Office,124.4,1339.030455,1,1956
+434,634, ,93 Queen St S,Secondary Office,735,7911.474151,3, 
+435,213,Meadowvale Court I,6535 Mississauga Rd,Secondary Office,488,5252.78828,1,1979
+436,341,Village Offices of Sherwoodtowne 2,57 Village Centre Pl,Secondary Office,423,4553.134103,3,1982
+437,618, ,4005 Hickory Dr,Secondary Office,1350.25,14533.970031,1, 
+438,635, ,99 Queen St S,Secondary Office,186,2002.087336,2, 
+439,342,The Steinbok Corporate Centre,25 Watline Ave,Secondary Office,5221,56198.376251,6,1988
+440,214,Meadowvale Court I,6537 Mississauga Rd,Secondary Office,488,5252.78828,1,1979
+441,619, ,2632 Liruma Rd,Secondary Office,230,2475.699394,1, 
+442,636, ,101 Queen St S,Secondary Office,630.9,6790.951078,2, 
+443,343,Regency Mews,75 Watline Ave,Secondary Office,5609,60374.77349,1,1988
+444,215,Meadowvale Court I,6539 Mississauga Rd,Secondary Office,465,5005.218341,1,1979
+445,620, ,1775 North Sheridan Way,Secondary Office,660,7104.180871,1, 
+446,637, ,105 Queen St S,Secondary Office,187,2012.851247,1, 
+447,344,Meadowvale Mews,7145 West Credit Ave,Secondary Office,4134,44498.005635,3,1988
+448,621, ,2258 Britannia Rd W,Secondary Office,140.72,1514.697473,1,1953
+449,216,Meadowvale Court I,6541 Mississauga Rd,Secondary Office,354,3810.424285,1,1979
+450,638, ,151 Queen St S,Secondary Office,197,2120.490351,2,1897
+451,346,Traders Court - Phs II,5805 Whittle Rd,Secondary Office,4381,47156.691506,3,1988
+452,622, ,10 Kerr St,Secondary Office,170,1829.86477,2,1877
+453,217,Meadowvale Court I,6547 Mississauga Rd,Secondary Office,480,5166.676997,1,1979
+454,639, ,157 Queen St S,Secondary Office,285,3067.714467,2, 
+455,623, ,6 Queen St S,Secondary Office,108,1162.502324,1,1950
+456,218,Meadowvale Court I,6549 Mississauga Rd,Secondary Office,500,5381.955205,1,1979
+457,347,Whitehall Robin (DiBlassio Building),5975 Whittle Rd,Secondary Office,4645,49998.363854,4,1990
+458,624, ,29 Queen St S,Secondary Office,120,1291.669249,1,1950
+459,219,Meadowvale Court I,6551 Mississauga Rd,Secondary Office,1000,10763.91041,1,1979
+460,640, ,308 Queen St S,Secondary Office,210.15,2262.035773,2,1937
+461,349,Ingram Micro,55 Standish Crt,Major Office,43829,471771.42936,12,1998
+462,625, ,33 Queen St S,Secondary Office,52,559.723341,1,1950
+463,355,Pepsi-Cola Head Office,5205 Satellite Dr,Secondary Office,5718.73,61555.897379,2,1997
+464,220,Meadowvale Court I,6555 Mississauga Rd,Secondary Office,543,5844.803353,1,1979
+465,641, ,317 Queen St S,Secondary Office,190,2045.142978,1,1877
+466,626, ,35 Queen St S,Secondary Office,110,1184.030145,2,1950
+467,356,Financial Models,5255 Orbitor Dr,Secondary Office,8582,92375.879139,5,1998
+468,221,Meadowvale Court I,6557 Mississauga Rd,Secondary Office,1070,11517.384139,1,1979
+469,627, ,37 Queen St S,Secondary Office,145.29,1563.888543,1,1953
+470,642, ,332 Queen St S,Secondary Office,193.65,2084.431251,1,1953
+471,359, ,5225 Satellite Dr,Secondary Office,3324.9,35788.925722,2,1998
+472,222,Markborough Place,6711 Mississauga Rd,Major Office,14480,155861.422737,7,1980
+473,628, ,42 Queen St S,Secondary Office,354.96,3820.757639,2, 
+474,643, ,370 Queen St S,Secondary Office,464.02,4994.669708,2,1934
+475,360,Silicon Graphics Office Building,5800 Explorer Dr,Secondary Office,9244.5,99506.969785,5,1998
+476,223,Markborough Place - Phs II,6733 Mississauga Rd,Major Office,18460,198701.786169,8,1990
+477,630, ,45 Queen St S,Secondary Office,197.67,2127.702171,2, 
+478,644, ,34 Thomas St,Secondary Office,224,2411.115932,2,1892
+479,224,Dupont Canada,7070 Mississauga Rd,Major Office,15793,169994.437105,1,1987
+480,361,Federal Express,5985 Explorer Dr,Major Office,12397,133440.197353,3,1998
+481,631, ,57 Queen St S,Secondary Office,89.7,965.522764,1, 
+482,645, ,2400 Dunvin Dr,Secondary Office,530,5704.872517,1, 
+483,362,Markborough Place-Phase III,6755 Mississauga Rd,Major Office,10390.97,111847.470153,6,1999
+484,226, ,3930 Nashua Dr,Secondary Office,3771,40590.706156,3,1990
+485,646, ,2624 Dunvin Dr,Secondary Office,1631,17555.937879,1, 
+486,363,College Square Phase II,2680 Skymark Ave,Major Office,13728,147766.962108,10,1998
+487,228,Promontory  II,2655 North Sheridan Way,Secondary Office,9917,106745.699536,4,1989
+488,647, ,5100 Terry Fox Dr,Secondary Office,185,1991.323426,1, 
+489,364,Group Telecom,7111 Syntex Dr,Secondary Office,3151.35,33920.849071,3,1999
+490,229,Promontory I,2695 North Sheridan Way,Secondary Office,5765,62053.943514,2,1987
+491,648, ,3755 Britannia Rd W,Secondary Office,210,2260.421186,1, 
+492,230,Slough Estates Building,6285 Northam Dr,Secondary Office,5284,56876.502606,4,1990
+493,365,Special Investigations Unit,5090 Commerce Blvd,Secondary Office,3460,37243.130019,2,1999
+494,649, ,2699 Speakman Dr,Secondary Office,8945,96283.178617,4,2009
+495,231,The Heritage - Phs I,5025 Orbitor Dr,Secondary Office,9197,98995.684041,3,1990
+496,650, ,2635 Lakeshore Rd W,Major Office,10859,116885.303142,3, 
+497,366,Airport Corporate Centre,2425 Matheson Blvd E,Major Office,18167.5,195553.342374,9,1999
+498,232,The Heritage - Phs II,5045 Orbitor Dr,Secondary Office,9290,99996.727709,3,1990
+499,651, ,2680 Matheson Blvd E,Major Office,10736,115561.342162,5,2007
+500,233,Skymark/Orbitor Place - Phase I,5090 Orbitor Dr,Secondary Office,3527,37964.312016,2,1989
+501,367,AeroCentre - Ph III,5520 Explorer Dr,Secondary Office,8671.3,93337.096338,4,1999
+502,652, ,2550 Meadowvale Blvd,Secondary Office,4658.7,50145.829427,1,2010
+503,372,AeroCentre,5560 Explorer Dr,Secondary Office,8671.3,93337.096338,4,1999
+504,234,Orbitor Place,5100 Orbitor Dr,Secondary Office,3028,32593.120721,4,1989
+505,653, ,2360 Meadowpine Blvd,Secondary Office,4324.4,46547.454177,1,2010
+506,373,Royal Bank Building,6880 Financial Dr,Major Office,64823.1,697750.040898,8,1999
+507,654, ,141 Lakeshore Rd E,Secondary Office,1554.6,16733.575123,2,1932
+508,235,AT & T,5160 Orbitor Dr,Secondary Office,2486,26759.081279,2,1993
+509,655, ,5345 Creekbank Rd,Secondary Office,610.63,6572.766614,1,2006
+510,374,General Mills Canada Inc.,2845 Matheson Blvd E,Secondary Office,4683.7,50414.927187,2,1998
+511,238,Nissan Canada,5290 Orbitor Dr,Major Office,10476,112762.725455,2,1989
+512,656, ,71 King St W,Secondary Office,3908.1,42066.438273,5,1998
+513,375,Airway Centre III,5925 Airport Rd,Major Office,14300,153923.918863,10,1983
+514,239,Palstan Place,3034 Palstan Rd,Secondary Office,1858,19999.345542,4,1976
+515,657, ,15 Bronte College Court,Secondary Office,9711.8,104536.94512,7,2008
+516,376,Airway Centre IV,5935 Airport Rd,Major Office,15791,169972.909284,11,1988
+517,240,Queensway Square,755 Queensway E,Major Office,13461,144892.998029,3,1981
+518,658, ,2572 Stanfield Rd,Secondary Office,166.57,1792.944557,1.5,1956
+519,377,Airway Centre I,5945 Airport Rd,Major Office,17028,183287.866461,3,1989
+520,659, ,749 Lakeshore Rd E,Secondary Office,170,1829.86477,1, 
+521,241,South Peel Medical Dental Building,77 Queensway W,Secondary Office,2033,21883.029864,3,1975
+522,378, ,2660 Matheson Blvd E,Secondary Office,6804,73237.64643,3,2000
+523,661, ,18 Mississauga Rd N,Secondary Office,243.4,2619.935794,2,1932
+524,242,89 The Queensway,89 Queensway W,Secondary Office,9490,102149.509791,8,1980
+525,379,Orlando Executive Centre-Bldg II,6303 Airport Rd,Secondary Office,6995,75293.553318,5,1981
+526,662, ,10 Front St N,Secondary Office,128,1377.780532,2,1900
+527,243,101 The Queensway,101 Queensway W,Secondary Office,6819,73399.105086,7,1978
+528,384,Tech Data Canada,6911 Creditview Rd,Secondary Office,6775,72925.493028,2,2000
+529,663,Clarkson Village Veterinary Clinic,1659 Lakeshore Rd W,Secondary Office,266.17,2865.030034,1, 
+530,244,First Medical Place,170 Queensway W,Secondary Office,3856,41505.638541,2,1984
+531,385,The Beer Store,5900 Explorer Dr,Secondary Office,3383,36414.308917,2,2000
+532,664, ,3115 Hurontario St,Secondary Office,170.94,1839.982845,1.5,1954
+533,386,World Vision Canada,1 World Drive,Secondary Office,7287.36,78440.490165,3,2000
+534,245,Treetops Office Complex,170 Robert Speck Pky,Secondary Office,1760,18944.482322,2,1988
+535,665, ,6 Helene St N,Secondary Office,133.22,1433.968145,1.75,1867
+536,387,Maritz Canada,6900 Maritz Dr,Secondary Office,9338.86,100522.652372,2,2000
+537,246,Treetops Office Complex,176 Robert Speck Pky,Secondary Office,1760,18944.482322,2,1988
+538,666, ,816 Southdown Rd,Secondary Office,231.32,2489.907756,2,1924
+539,388, ,333 Dundas St E,Secondary Office,928.8,9997.519989,2,2000
+540,247,Treetops Office Complex,186 Robert Speck Pky,Secondary Office,1760,18944.482322,2,1987
+541,389, ,121 Brunel Rd,Secondary Office,1145,12324.677419,2, 
+542,667, ,225 Watline Ave,Secondary Office,690,7427.098183,1.5, 
+543,248,Treetops Office Complex,190 Robert Speck Pky,Secondary Office,1760,18944.482322,2,1988
+544,669, ,295 Derry Rd W,Secondary Office,233.18,2509.928629,2,1979
+545,390,Compass Group Canada,131 Brunel Rd,Secondary Office,1403.44,15106.502426,2, 
+546,249,Mississauga Executive Centre I,1 Robert Speck Pky,Major Office,23039,247989.731936,15,1991
+547,670, ,160 Derry Rd E,Secondary Office,92.44,995.015878,1,1963
+548,391,Ericsson Canada Inc.,5255 Satellite Dr,Secondary Office,3324.99,35789.894474,2, 
+549,250,Mississauga Executive Centre II,2 Robert Speck Pky,Major Office,26427,284457.860405,15,1979
+550,671,Apple Hills Medical Centre,1221 Bloor St,Secondary Office,405.75,4367.456649,1, 
+551,394, ,211 Watline Ave,Secondary Office,1784,19202.816171,2, 
+552,251,Mississauga Executive Centre III,3 Robert Speck Pky,Major Office,27090,291594.333007,15,1987
+553,673, ,4278 Dixie Rd,Secondary Office,101.13,1088.55426,1,1997
+554,252,Mississauga Executive Centre IV,4 Robert Speck Pky,Major Office,26900,289549.190029,15,1983
+555,674, ,987 Clarkson Rd S,Secondary Office,630,6781.263558,2, 
+556,254,Building B,5300 Satellite Dr,Major Office,14907,160457.612482,3, 
+557,675,McCleary Animal Hospital,981 Clarkson Rd S,Secondary Office,364,3918.063389,1, 
+558,255,Village Offices of Sherwoodtowne 4,4230 Sherwoodtowne Blvd,Secondary Office,1702,18320.175518,3,1987
+559,676, ,33 Pearl St,Secondary Office,357.94,3852.834092,3,2009
+560,256,Village Offices of Sherwoodtowne 4,4240 Sherwoodtowne Blvd,Secondary Office,3920,42194.528807,4,1987
+561,677, ,23 Pearl St,Secondary Office,117.24,1261.960856,1.5,1949
+562,678, ,15 Pearl St,Secondary Office,105.72,1137.960609,1.5,1950
+563,257,Village Offices of Sherwoodtowne 4,4250 Sherwoodtowne Blvd,Secondary Office,1689,18180.244682,3,1987
+564,679, ,215 Broadway St,Secondary Office,225.84,2430.921527,2,1946
+565,258,Village Offices of Sherwoodtowne 3,4255 Sherwoodtowne Blvd,Secondary Office,619,6662.860544,2,1984
+566,680, ,11 Queen St S,Secondary Office,129.69,1395.971541,1,1950
+567,681, ,15 Queen St S,Secondary Office,113.9,1226.009396,1.5,1950
+568,682, ,17 Queen St S,Secondary Office,96.71,1040.977776,1,1949
+569,683, ,40 Queen St S,Secondary Office,141.77,1525.999579,1.75,1927
+570,684, ,41 Queen St S,Secondary Office,132,1420.836174,1.5,1941
+571,685, ,70 Queen St S,Secondary Office,83.61,899.970549,1,1953
+572,687, ,287 Queen St S,Secondary Office,301,3239.937033,2,1865
+573,689, ,2239 Dixie Rd,Secondary Office,175,1883.684322,1,1950
+574,690, ,2200 Dixie Rd,Secondary Office,300,3229.173123,1, 
+575,691, ,1705-1707 Lakeshore Rd W,Secondary Office,400,4305.564164,2, 
+576,693, ,1699-1701 Lakeshore Rd W,Secondary Office,225,2421.879842,2, 
+577,694, ,2515 Meadowpine Blvd,Secondary Office,3810.15,41012.113249,1,2011
+578,695, ,2555 Meadowpine Blvd,Secondary Office,2739.56,29488.378403,1,2014
+579,697,Karl Storz Endoskopy Canada,7171 Millcreek Dr,Secondary Office,1900,20451.429779,3,2011
+580,698, ,2537 Confederation Pky,Secondary Office,72.87,784.366152,1,1952
+581,699, ,5675 Whittle Rd,Secondary Office,337,3627.437808,1, 
+582,700, ,30 Topflight Dr,Secondary Office,3363,36199.030709,2,2012
+583,701,Malicki and Malicki Law Office,650 Lakeshore Rd E,Secondary Office,221.1,2379.900592,1, 
+584,702,Carttera Private Equities,7100 West Credit Ave,Secondary Office,8580.2,92356.5041,4,2013
+585,703, ,5875 Explorer Dr,Secondary Office,4594,49449.404424,3,2013
+586,704,Dr. M. Zazula,3301 Cawthra Rd,Secondary Office,432.374,4654.035,1,1966
+587,705,Cawthra Dundas Chiropractic,3185 Cawthra Rd,Secondary Office,289.63,3117.551372,2, 
+588,706,Cracovia Square,160 Dundas St E,Secondary Office,964.89,10385.989516,2,2007
+589,707,Kenaidan Office,7080 Derrycrest Dr,Secondary Office,4809,51763.645162,3,2013
+590,708, ,60 Standish Crt,Major Office,30678.35,330219.010927,6,2014
+591,709,SOBEYS ONTARIO  REGIONAL OFFICE,4980 Tahoe Blvd,Major Office,18934,203803.879703,6,2014
+592,710, ,7025 Langer Dr,Secondary Office,5664.21,60969.048983,3,2014
+593,711,RUSSEL METALS,6600 Financial Dr,Secondary Office,3931.46,42317.88322,1,2014
+594,712, ,255 Longside Dr,Secondary Office,6524.38,70227.841801,1,2014
+595,713, ,1 Prologis Blvd,Major Office,13644.02,146863.008912,5,2014
+596,714, ,85 Prologis Blvd,Secondary Office,4157.5,44750.95753,1,2014
+597,715, ,420 Britannia Rd E,Secondary Office,2500,26909.776025,2, 
+598,716, ,430 Britannia Rd E,Secondary Office,560,6027.78983,1, 
+599,717, ,440 Britannia Rd E,Secondary Office,560,6027.78983,1, 
+600,718, ,450 Britannia Rd E,Secondary Office,560,6027.78983,1, 
+601,719, ,400 Matheson Blvd W,Major Office,11900,128090.533879,2, 
+602,720,Burger King Head Office,5180 Orbitor Dr,Secondary Office,3524.77,37940.308496,2,2001
+603,721, ,2600 Skymark Ave,Secondary Office,9930,106885.630371,2,1992
+604,722,Petro Canada Research Centre,2489 North Sheridan Way,Major Office,21813.29,234796.299307,3, 
+605,723,IMAX Corporation,2525 Speakman Dr,Major Office,12562.2,135218.395353,3,1996/2015
+606,724, ,2070 Hadwen Rd,Secondary Office,6060,65229.297085,2, 
+607,725, ,2240 Speakman Dr,Secondary Office,5600,60277.898296,2, 
+608,726, ,3484 Semenyk Crt,Secondary Office,2171.7,23375.984237,2,1990
+609,727, ,5015 Spectrum Way,Major Office,10878.3,117093.046613,6,2014
+610,728, ,6450 Kitimat Rd,Secondary Office,950,10225.714889,1,1992
+611,729, ,7170 West Credit Ave,Secondary Office,1913.3,20594.589787,1,1989
+612,730, ,6835 Century Ave,Secondary Office,5714.1,61506.060474,2,1977
+613,731,Gateway Meadowvale,218 Export Blvd,Secondary Office,8205,88317.884914,6,2015
+614,732,Gateway Meadowvale,2727 Meadowpine Blvd,Major Office,12681,136497.147909,6,2015
+615,733,Dundas Professional Centre,250 Dundas St W,Secondary Office,3369,36263.614171,4,2015
+616,734, ,4080 Confederation Pky,Secondary Office,5183.3,55792.576828,7,2012
+617,735, ,333 Lakeshore Rd W,Secondary Office,1003.32,10799.646593,2,2012
+618,736, ,4161Tomken Rd,Secondary Office,150,1614.586562,1,1961
+619,737, ,5085 McLaughlin Rd,Secondary Office,170,1829.86477,1,1957
+620,738,Teklogix World Headquarters,2100 Meadowvale Blvd,Secondary Office,6000,64583.46246,2,1997
+621,739, ,1110 Bloor St,Secondary Office,250,2690.977603,2,1967

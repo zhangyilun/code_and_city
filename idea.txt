@@ -1,0 +1,25 @@
+# subway design
+
+decisions to make
+    - stops:
+        - connect to bloor
+        - city center
+        - square one
+        - airport
+        - shopping centers
+        - 
+
+    - clutering algorithm
+        - center = stop
+        - geospatial vs. feature
+
+    - what data to use
+        - parking
+        - eat (*)
+        - office (*)
+        - land mark
+        - second unit (housing) (*)
+        - licensed trades 
+        - wifi center
+        - townhouse data (*)
+        - bus route ..

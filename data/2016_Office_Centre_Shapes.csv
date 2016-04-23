@@ -1,0 +1,468 @@
+﻿FID,CentreID,CharacterA,Ward,CentreLoca,OP_Designa,Zoning,SiteArea_h,SiteArea_a,CombinedGF,CombinedG1,TotalOffic,FSI,Number_of_
+1,151,Meadowvale Business Park CC,9,"SS Derry Rd W, W of Mississauga Rd",Business Employment,E2-1,6.85219,16.93213,15793,169994.437105,703,0.230481,1
+2,153,Northeast EA (East),5,"WS Nashua Dr, E of Rexwood Rd",Business Employment,E2,0.443928,1.09697,3771,40590.706156,0,0.849462,1
+3,155,Sheridan Park CC,2,"NS North Sheridan Way, E of Winston Churchill Blvd",Business Employment,E2-6,4.486624,11.086689,15682,168799.64305,581,0.349528,2
+4,156,Northeast EA (East),5,"ES Northam Dr, N of American Dr",Industrial,E3,0.908165,2.244125,5284,56876.502606,192,0.581833,1
+5,157,Airport CC,5,NE corner Eglinton Ave E & Orbitor Dr,Business Employment,E1-19,1.916428,4.735597,18487,198992.41175,600,0.964659,2
+6,158,Airport CC,5,NE corner Skymark Ave & Orbitor Dr,Business Employment,E1-19,1.340083,3.311417,5630,60600.815608,229,0.420123,2
+7,159,Airport CC,5,"WS Orbitor Dr, N of Skymark Ave",Business Employment,E1-19,0.252358,0.62359,3028,32593.120721,98,1.199883,1
+8,160,Airport CC,5,NW corner Matheson Blvd E & Orbitor Dr,Business Employment,E1,1.22405,3.024693,2486,26759.081279,80,0.203096,1
+9,163,Airport CC,5,SW corner Orbitor Dr & Explorer Dr,Business Employment,E1,3.237203,7.999303,10476,112762.725455,244,0.323613,1
+10,164,Applewood NHD,3,"WS Palstan Rd, N of Dundas St E",Mixed Use,C3,0.295191,0.729433,1858,19999.345542,75,0.629423,1
+11,165,Dixie EA,1,NE corner Cawthra Rd & Queensway East,Business Employment,E2,2.77481,6.856705,13461,144892.998029,142,0.485114,1
+12,166,DT Hospital,7,NW corner Hurontario St & Queensway W,Office,O,0.357151,0.882539,2033,21883.029864,0,0.569227,1
+13,167,DT Hospital,7,NE Queensway W & Confederation Pky,Office,O,0.571865,1.413109,9490,102149.509791,266,1.659483,1
+14,168,DT Hospital,7,NE Queensway W & Confederation Pky,Office,O,0.675641,1.669545,6819,73399.105086,215,1.009264,1
+15,169,Cooksville NHD (West),7,"SS Queensway W, W of Hurontario St",Office,O,0.56209,1.388955,3856,41505.638541,158,0.686011,1
+16,170,DT Core,4,"WS Rober Speck Pky, N of Burnhamthorpe Rd W",Downtown Mixed Use,H-CC2{3},1.291869,3.192278,7040,75777.929286,139,0.544947,4
+17,171,DT Core,4,NE corner Hurontario St & Robert Speck Pky,Downtown Mixed Use,H-CC2{3},1.039309,2.568188,23039,247989.731936,640,2.216761,1
+18,172,DT Core,4,SE corner Hurontario St & Robert Speck Pky,Downtown Mixed Use,"H-CC2{3}, CC2{3}",2.418746,5.976852,26427,284457.860405,905,1.092591,1
+19,173,DT Core,4,SE corner Hurontario & Robert Speck Pky,Downtown Mixed Use,H-CC2{3},1.489739,3.681225,27090,291594.333007,780,1.818439,1
+20,174,DT Core,4,SE corner Hurontario St & Robert Speck Pky,Downtown Mixed Use,H-CC2{3},2.144555,5.299311,26900,289549.190029,850,1.254339,1
+21,175,DT Core,4,NW corner Rathburn Rd E & Sherwoodtowne Blvd,Downtown Mixed Use,H-CC2{3},0.810709,2.003306,7311,78694.949008,181,0.901803,3
+22,176,DT Core,4,NE corner Rathburn Rd E & Sherwoodtowne Blvd,Downtown Mixed Use,H-CC3{2},0.710201,1.754945,3714,39977.163263,162,0.522951,6
+23,177,Airport CC,5,"WS Shuttle Drive, N side of Satellite Blvd",Business Employment,E1,0.318573,0.787211,1394,15004.891112,0,0.437576,1
+24,179,Airport CC,5,"NS Skymark Ave, E of Orbitor Dr",Business Employment,E1-19,1.50214,3.711869,5950,64045.266939,235,0.396102,3
+25,180,Airport CC,5,"NS Skymark Ave, E of Satellite Dr",Business Employment,E1-19,0.744475,1.839638,3013,32431.662065,142,0.404715,1
+26,181,Airport CC,5,NW corner Skymark Ave & Orbitor Dr,Business Employment,E1-19,0.785789,1.941727,4213,45348.354557,0,0.536149,1
+27,183,Airport CC,5,"SS Skymark Ave, W of Explorer Dr",Business Employment,E1-19,3.236051,7.996456,22162,238549.782506,703,0.684847,2
+28,184,Airport CC,5,SW corner Commerce Blvd & Skymark Ave,Business Employment,E1-18,1.955876,4.833075,6503,69997.709396,449,0.332485,1
+29,185,Airport CC,5,"ES Solar Drive, N of Matheson Blvd E",Business Employment,E1,0.864169,2.135408,3905,42033.070151,0,0.451879,1
+30,186,Airport CC,5,"ES Solar Drive, N of Matheson E",Business Employment,E1,0.808695,1.998329,3902,42000.77842,125,0.482506,1
+31,187,Northeast EA (West),3,SE corner Dixie Rd & South Gateway Rd,Business Employment,E2,1.97131,4.871213,2790,30031.310044,0,0.14153,1
+32,188,South Common CN,8,NE corner South Millway & The Collegeway,Office,O,0.658395,1.626929,3735,40203.205381,119,0.567289,1
+33,189,Sheridan Park CC,2,"NS Speakman Dr, W of Hadwen Rd",Business Employment,E2-5,1.108676,2.739598,2025,21796.91858,244,0.18265,1
+34,190,Sheridan Park CC,2,"WS Speakman Dr, S of Sheridan Park Dr",Business Employment,E2-5,5.101883,12.607027,23430.6,252204.879253,0,0.459254,2
+35,191,Sheridan Park CC,2,"NS Speakman Dr, S of Sheridan Park Dr",Business Employment,E2-5,5.769945,14.257845,19499,209885.489085,0,0.337941,2
+36,192,Sheridan Park CC,2,SW corner Sheridan Pk Dr & Speakman Dr,Business Employment,E2-5,3.718741,9.189209,14527,156367.326526,397,0.390643,1
+37,194,Airport CC,5,"WS Spectrum Way, N of Eglinton Ave W",Business Employment,E1-19,1.25601,3.103668,6511,70083.82068,0,0.518388,1
+38,446,Port Credit NHD (East),1,NW corner Lakeshore Rd E and Briarwood Ave,Mixed Use,C4,0.130013,0.321269,2080,22388.933653,0,1.59984,1
+39,447,Port Credit NHD (East),1,"NS Lakeshore Rd E, E of Brant Ave",Mixed Use,C4,0.082175,0.203059,1540,16576.422031,0,1.874049,1
+40,195,Airport CC,5,"WS Spectrum Way, N of Eglinton Ave W",Business Employment,E1-19,7.732274,19.106865,22615,243425.833922,1039,0.292475,1
+41,448,Port Credit NHD (East),1,"NS Lakeshore Rd E, E of Cayuga Ave",Mixed Use,C4,0.05324,0.131559,157,1689.933934,0,0.294891,1
+42,197,Dixie EA,1,"ES Stanfield Rd, N of Queensway E",Business Employment,E2,0.237347,0.586497,2787,29999.018313,100,1.17423,1
+43,449,Port Credit NHD (West),1,"NS Lakeshore Rd E, E of Benson Ave",Mixed Use,C4,0.137555,0.339906,388,4176.397239,0,0.282069,1
+44,198,Port Credit CN,1,"WS Stavebank Rd, N of Lakeshore Rd E",Mixed Use,C4,0.040737,0.100663,1672,17997.258206,0,4.104377,1
+45,450,Port Credit CN,1,"NS Port St E, W of Helene St S",Mixed Use,C4,0.053661,0.132599,87,936.460206,0,0.162129,1
+46,199,Meadowvale Business Park CC,9,"ES Syntex, N of Derry Rd W",Business Employment,E2-1,0.381906,0.94371,1394,15004.891112,0,0.365011,1
+47,451,Port Credit CN,1,"SS Port St E, E of Helene St S",Residential - High Density,RA2-33,0.230653,0.569956,2275,24487.896183,0,0.98633,1
+48,203,Gateway EA (East),5,SE corner Traders Blvd & Whittle Rd,Business Employment,E2,1.416493,3.50023,7080,76208.485703,232,0.499826,2
+49,453,Port Credit CN,1,"WS Stavebank Rd, N of Lakeshore Rd E",Mixed Use,C4,0.041295,0.102042,395,4251.744612,0,0.956532,1
+50,204,Gateway EA (East),5,SE corner Traders Blvd & Whittle Rd,Business Employment,E2,1.540706,3.807167,7753,83452.597409,261,0.503211,1
+51,454,Port Credit CN,1,"WS Stavebank Rd, N of Lakeshore Rd E",Mixed Use,C4,0.073572,0.1818,410,4413.203268,0,0.557277,1
+52,205,Gateway EA (East),5,"NS Traders Blvd E, E of Whittle Rd",Business Employment,E2,0.4261,1.052916,929,9999.672771,0,0.218024,1
+53,455,Port Credit NHD (East),1,SW corner Queen St E and Briarwood Ave,Business Employment,E2-58,0.117056,0.289252,1116,12012.524018,0,0.95339,1
+54,456,Rathwood NHD,3,NW corner Burnhamthorpe Rd E and Hickory Dr,Office,O,0.166287,0.410904,184.8,1989.170644,0,0.111133,1
+55,209,DT Core,4,NE corner Rathburn Rd E & Sherwoodtowne Blvd,Downtown Mixed Use,H-CC3{2},1.726291,4.265758,6479,69739.375546,225,0.375313,19
+56,457,Rathwood-Applewood CN,3,"NS Burnhamthorpe Rd E, E of Hickory Dr",Office,O,0.184047,0.45479,212,2281.949007,0,0.115188,1
+57,210,DT Core,4,"NS Village Centre Pl, N of Rathburn Rd E",Downtown Mixed Use,H-CC3{2},1.112787,2.749757,6768,72850.145655,230,0.608203,16
+58,458,Rathwood NHD,3,"ES Dixie Rd, S of Hickory Dr",Residential - Low Density I,R3,0.178167,0.44026,275.5,2965.457318,0,0.15463,1
+59,211,Gateway CC,5,NE corner Hurontario St & Watline Ave,Business Employment,E1,1.781892,4.403151,5221,56198.376251,167,0.293003,1
+60,459,Rathwood NHD,3,"SW corner Dixie Rd, and Hickory Dr",Residential - Low Density I,R3,0.100955,0.249465,124.4,1339.030455,0,0.123223,1
+61,212,Gateway CC,5,"NS Watline Ave, E of Hurontario St",Mixed Use,C3-31,2.034242,5.026721,5609,60374.77349,250,0.275729,1
+62,213,Meadowvale Business Park CC,9,NW corner Derry Rd W and Mississauga Rd,Business Employment,E2-1,3.364141,8.312973,13107.92,141092.476541,222,0.389636,2
+63,460,Rathwood-Applewood CN,3,NE corner Burnhamthorpe Rd E and Hickory Dr,Office,O,0.793968,1.961938,1350.25,14533.970031,0,0.170064,1
+64,215,Gateway EA (East),5,"ES Whittle Rd, N of Brunel Rd",Business Employment,E2,0.808809,1.998611,4645,49998.363854,0,0.574301,1
+65,461,Sheridan NHD,2,"WS Liruma Rd, S of Dundas St W",Office,O,0.179075,0.442504,230,2475.699394,0,0.128438,1
+66,462,Sheridan NHD,8,NW corner North Sheridan Way and Robin Dr,Business Employment,H-E2-14,0.289836,0.7162,660,7104.180871,0,0.227715,1
+67,216,Northeast EA (West),5,NW corner Timerlea Blvd & Tomken Rd,Business Employment,E2-24,1.278729,3.159808,4822,51903.575997,0,0.377093,4
+68,463,Streetsville NHD,11,"NS Britannia Rd W, W of Theodore Dr",Residential - Low Density II,R3-64,0.157986,0.390392,140.72,1514.697473,16,0.089071,1
+69,217,Gateway CC,5,SW corner Of Hwy 401 & Hurontario St,Business Employment,E1,7.768783,19.197081,43829,471771.42936,2626,0.564168,1
+70,464,Streetsville CN,11,NW corner Church St and Kerr St,Mixed Use,C4,0.041297,0.102047,170,1829.86477,4,0.411652,1
+71,465,Streetsville CN,11,SW corner Queen St S and Britannia Rd W,Mixed Use,C4-38,0.113651,0.280838,108,1162.502324,12,0.095028,1
+72,222,Airport CC,5,"WS Orbitor Dr, N of Matheson Blvd E",Business Employment,E1,4.144784,10.241984,19967,214922.999156,516,0.481738,2
+73,466,Streetsville CN,11,"ES Queen St S, N of Ellen St",Mixed Use,C4-38,0.069207,0.171014,120,1291.669249,5,0.173393,1
+74,224,Airport CC,5,"ES Satellite Dr, N of Matheson Blvd E",Business Employment,E1,1.230825,3.041435,5718.73,61555.897379,246,0.464626,1
+75,467,Streetsville CN,11,"ES Queen St S, N of Ellen St",Mixed Use,C4-38,0.069204,0.171007,52,559.723341,3,0.07514,1
+76,225,Airport CC,5,"SS Explorer Drive, N of Matheson Blvd E",Business Employment,E1,4.056335,10.023422,17722.5,190763.402241,427,0.436909,3
+77,468,Streetsville CN,11,"ES Queen St S, N of Ellen St",Mixed Use,C4-38,0.057613,0.142365,110,1184.030145,7,0.190929,1
+78,226,Airport CC,5,NW corner Matheson Blvd E & Explorer Dr,Business Employment,E1,4.896849,12.100377,12397,133440.197353,626,0.253163,1
+79,469,Streetsville CN,11,"ES Queen St S, N of Ellen St",Mixed Use,C4-38,0.076603,0.18929,145.29,1563.888543,10,0.189666,1
+80,227,Meadowvale Business Park CC,9,"ES Syntex Dr, N of Derry Rd",Business Employment,E2-1,0.629672,1.555953,3151.35,33920.849071,103,0.500475,1
+81,470,Streetsville CN,11,SW corner Queen St S and Henry St,Mixed Use,C4-39,0.094029,0.232351,354.96,3820.757639,5,0.377501,1
+82,228,Airport CC,5,"WS Commerce Blvd, N of Eglinton Ave",Business Employment,E1-18,0.71443,1.765395,3460,37243.130019,141,0.484302,1
+83,229,Airport CC,5,SW corner Matheson Blvd East & Orbitor Dr,Business Employment,E1-19,1.918556,4.740855,18167.5,195553.342374,676,0.946936,1
+84,472,Streetsville CN,11,SE corner Queen St S and Ellen St,Mixed Use,C4,0.056272,0.139051,197.67,2127.702171,5,0.351276,1
+85,473,Streetsville CN,11,"ES Queen St S, S of Ellen St",Mixed Use,C4,0.080551,0.199046,89.7,965.522764,20,0.111358,1
+86,232,Meadowvale Business Park CC,11,"WS Financial Dr, N of Hwy 401",Business Employment,E1,10.346016,25.565562,64823.1,697750.040898,4056,0.626551,1
+87,474,Streetsville CN,11,"WS Queen St S, N of Ontario St W",Mixed Use,C4-39,0.122249,0.302084,150.84,1623.628246,10,0.123388,1
+88,475,Streetsville CN,11,SW corner Queen St S and Ontario St W,Mixed Use,C4-39,0.064981,0.160572,185.2,1993.476208,6,0.285006,1
+89,233,Airport CC,5,SW corner Matheson Blvd East & Commerce Blvd,Business Employment,E1-18,0.903636,2.232933,4683.7,50414.927187,164,0.518317,1
+90,476,Streetsville CN,11,"ES Queen St S, S of Ontario St E",Mixed Use,C4,0.08895,0.2198,735,7911.474151,5,0.826307,1
+91,234,Meadowvale Business Park CC,9,"ES Milltower Crt, E of Millcreek Dr",Business Employment,E2-1,0.648281,1.601937,2387,25693.454149,77,0.368205,1
+92,477,Streetsville CN,11,"ES Queen St S, S of Ontario St E",Mixed Use,C4,0.227634,0.562496,1003.9,10805.889661,33,0.441015,3
+93,235,Airport CC,5,NE corner Creekbank Rd & Eglinton Ave E,Business Employment,E2-88,11.114263,27.463942,97075.1,1044907.679442,2291,0.873428,3
+94,239,Central Erin Mills NHD,8,SE corner Eglinton Ave W & Credit Valley Rd,Office,O,1.211685,2.994139,6968,75002.927737,0,0.575067,1
+95,480,Streetsville CN,11,"ES Queen St S, N of Water St",Mixed Use,C4,0.100625,0.24865,197,2120.490351,5,0.195776,1
+96,481,Streetsville CN,11,NE corner Queen St S and Water St,Mixed Use,C4,0.077828,0.192317,285,3067.714467,10,0.366192,1
+97,241,Airport CC,5,"NS Skymark Ave, W of Orbitor Dr",Business Employment,E1-19,0.75287,1.860382,3712,39955.635442,153,0.493047,1
+98,482,Streetsville NHD,11,"WS Queen St S, S of Princess St",Residential - Low Density I,R3,0.123131,0.304263,210.15,2262.035773,5,0.170672,1
+99,248,Meadowvale Business Park CC,11,"N of Highway # 401, E of Mississauga Rd",Business Employment,E2-1,3.626437,8.961121,6775,72925.493028,217,0.186822,1
+100,483,Streetsville NHD,11,ES corner Queen St S and Church St,Residential - Low Density I,R3,0.092947,0.229677,190,2045.142978,2,0.204418,1
+101,250,Gateway CC,5,NE corner Beckett Dr & Hurontario St,Business Employment,E1,2.098345,5.185123,7287.36,78440.490165,391,0.347291,1
+102,484,Streetsville NHD,11,"WS Queen St S, N of Old Station Rd",Residential - Low Density I,R3,0.074302,0.183604,193.65,2084.431251,30,0.260626,1
+103,251,Gateway EA (West),5,SW quadrant Derry Rd & Hurontario St,Business Employment,E2-28,2.43168,6.008812,9338.86,100522.652372,500,0.38405,1
+104,485,Streetsville NHD,11,"WS Queen St S, S of Old Station Rd",Residential - Low Density I,R3,0.141045,0.34853,464.02,4994.669708,10,0.328987,1
+105,252,Cooksville NHD (East),7,"NS Dundas St E, W of Grenville Dr",Mixed Use,C3-52,0.520723,1.286735,928.8,9997.519989,0,0.178367,1
+106,486,Streetsville CN,11,"NS Thomas St, W of Queen St S",Mixed Use,C4,0.115007,0.284188,224,2411.115932,2,0.194771,1
+107,253,Airport SPA,5,SW quadrant Derry Rd E & Dixie Rd,Airport,AP,7.83983,19.372642,9238,99437.004368,0,0.117834,1
+108,487,Western Business Park EA,8,"SS Dunwin Dr, W of Glen Erin Dr",Business Employment,E2-1,0.329337,0.813809,530,5704.872517,18,0.160929,1
+109,254,Northeast EA (East),5,"SS Derry Rd E, E of Goreway Dr",Mixed Use,C3-1,0.703638,1.738727,1951,21000.38921,152,0.277273,1
+110,488,Western Business Park EA,8,"SS Dunwin Dr, W of Glen Erin Dr",Business Employment,E2-1,0.49234,1.216599,1631,17555.937879,53,0.331275,1
+111,255,Gateway EA (East),5,"NS Brunel Road, W of Whittle Road",Business Employment,E2,0.3454,0.853502,1145,12324.677419,0,0.3315,1
+112,256,Gateway EA (East),5,"NS Brunel Road, E of Whittle Road",Business Employment,E2,0.331459,0.819053,1403.44,15106.502426,42,0.423413,1
+113,489,East Credit NHD,6,"WS Terry Fox Way, N of Eglinton Ave",Residential - Low Density II,R1-43,0.168278,0.415824,185,1991.323426,22,0.109937,1
+114,257,Airport CC,5,"ES Satellite Dr, N of Matheson Blvd E",Business Employment,E1,2.395032,5.918253,6649.89,71578.820196,144,0.277653,2
+115,490,Lisgar NHD,10,"NS Britannia Rd W, W of Grossbeak Dr",Residential - Low Density II,R1-17,0.545159,1.347117,210,2260.421186,22,0.038521,1
+116,259,Gateway EA (East),5,"NS Watline Ave, E of Whittle Rd",Business Employment,E2-96,0.43278,1.069423,1784,19202.816171,25,0.412219,1
+117,492,Southdown EA,2,"NS Lakeshore Rd w, E of Winston Churchill Blvd",Business Employment,E2-108,4.03094,9.96067,10859,116885.303142,352,0.269391,1
+118,261,Gateway EA (West),5,SW corner Matheson Blvd W & Falbourne St,Business Employment,E2,2.242739,5.541929,7539.82,81157.946988,390,0.336188,1
+119,494,Meadowvale Business Park CC,9,NW corner Meadowpine Blvd and Meadowvale Blvd,Business Employment,E2-1,2.409794,5.954731,8983.1,96693.283604,324,0.372775,2
+120,495,Port Credit CN,1,SE corner Kakeshore Rd E and St. Lawrence Dr,Mixed Use,C4-6,0.169887,0.4198,1554.6,16733.575123,51,0.915079,1
+121,262,Gateway CC,5,SW corner Aldridge Rd & Hurontario St,Business Employment,E1,4.359291,10.772043,24834,267310.951122,1120,0.56968,1
+122,496,Northeast EA (West),5,NE corner Matheson Blvd E and Creekbank Rd,Industrial,E3,0.773288,1.910836,610.63,6572.766614,34,0.078965,1
+123,263,Sheridan CN,8,"ES Erin Mills Pky, S of Dundas St W",Mixed Use,C3,1.81104,4.475177,20246,217926.130161,0,1.117921,1
+124,264,Meadowvale Business Park CC,9,"NS of Argentia Rd, E of Century Ave",Business Employment,E2-1,0.946406,2.33862,4482,48243.846458,190,0.473581,1
+125,497,DT Cooksville,7,"N of King St W, W of Hurontario St",Office,O,0.411791,1.017558,3908.1,42066.438273,215,0.949049,1
+126,265,Meadowvale Business Park CC,11,SE corner Argentia Rd & Kitimat Rd,Business Employment,E2-1,1.213404,2.998387,5491,59104.632061,0,0.452529,1
+127,498,DT Hospital,7,NW corner Hurontario St and Bronte College Court,Institutional,I-2,1.835201,4.53488,9711.8,104536.94512,311,0.529195,1
+128,499,Dixie EA,1,"WS Stanfield Rd, S of Dundas St E",Mixed Use,C3-1,0.103769,0.256419,166.57,1792.944557,0,0.16052,1
+129,266,Airport CC,5,NW corner Commerce Blvd & Skymark Ave,Business Employment,E1-18,0.728673,1.80059,2675,28793.460347,95,0.367106,1
+130,500,Lakeview NHD,1,"NS Lakeshore Rd E,  E of West Avenue",Mixed Use,C4,0.039762,0.098254,170,1829.86477,4,0.427544,1
+131,267,Northeast EA (West),5,NE corner Eglinton Ave E and Matheson Blvd,Business Employment,E2,1.86711,4.613729,6782,73000.840401,286,0.363235,1
+132,502,Port Credit NHD (West),1,SW corner Mississauga Rd N and High St W,Residential - High Density,RA1-34,0.06977,0.172405,243.4,2619.935794,0,0.348861,1
+133,268,Meadowvale Business Park CC,11,SE corner Mississauga Rd & Meadowvale Blvd,Business Employment,E2-1,6.10464,15.084894,28709.9,309030.79148,1217,0.470296,2
+134,503,Port Credit CN,1,"WS Front St N, N of Lakeshore Rd W",Residential - Medium Density,RM4-54,0.074334,0.183683,128,1377.780532,0,0.172196,1
+135,269,Airport CC,3,"SS of Eglinton Ave E, E side Eastgate Pkwy,",Business Employment,E2-40,5.696856,14.077238,25634,275922.07945,537,0.449967,2
+136,504,Clarkson Village CN,2,"NS Lakeshore Rd W, E of Clarkson Rd N",Mixed Use,C4,0.101321,0.25037,266.17,2865.030034,11,0.2627,1
+137,270,DT Core,4,"ES Hurontario St, S of Hwy 403",Downtown Mixed Use,H-CC2{3},0.829076,2.048691,5597,60245.606565,252,0.675089,1
+138,505,DT Cooksville,7,"ES Hurontario St, S of Kirwin Ave",Mixed Use,D,0.248926,0.61511,170.94,1839.982845,0,0.068671,1
+139,271,Western Business Park EA,8,SE Dunwin Dr & Glen Erin Dr,Business Employment,E2-1,1.614235,3.988862,3474,37393.824764,0,0.21521,4
+140,506,Port Credit CN,1,"WS Helene St N, N of Lakeshore Rd E",Mixed Use,C4,0.042598,0.105262,133.22,1433.968145,0,0.312738,1
+141,272,Western Business Park EA,8,"WS of Glen Erin Dr, S of Dunwin Dr",Mixed Use,C3-1,1.017102,2.513314,3078,33131.316242,0,0.302625,1
+142,273,Airport CC,5,NW Eglinton Ave E & Spectrum Way,Business Employment,E1-19,2.394637,5.917277,9687,104270.000142,831,0.404529,1
+143,507,Southdown EA,2,"WS Southdown Rd, S of Royal Windsor Dr",Business Employment,E2-108,0.070496,0.174199,231.32,2489.907756,0,0.328132,1
+144,274,Airport CC,5,"WS Explorer Dr, S of Hwy 401",Business Employment,E1,5.01,12.37998,13673.2,147177.099818,590,0.272918,2
+145,508,Gateway EA (East),5,"NS Watline Ave, E of Whittle Rd",Business Employment,E2-96,0.333352,0.823731,690,7427.098183,0,0.206988,1
+146,275,Mineola NHD,1,"ES Hurontario St, S of Pinetree Way",Residential - Low Density I,R1-24,0.337734,0.834559,821.66,8844.274627,42,0.243286,2
+147,510,Meadowvale Village NHD,11,NE corner Derry Rd W and Saint Barbara Blvd,Business Employment,E2-95,0.509285,1.258471,233.18,2509.928629,0,0.045786,1
+148,276,Northeast EA (East),5,SE corner Viscount Rd & Airway Dr,Industrial,E3,1.999015,4.939674,6897,74238.690098,0,0.34502,1
+149,511,Gateway EA (East),5,"SS Derry Rd E, E of Edwards Blvd",Business Employment,D,0.565641,1.397729,92.44,995.015878,0,0.016343,1
+150,277,Sheridan Park CC,2,SE corner Sheridan Park Dr & Speakman Dr,Business Employment,E2-5,1.622296,4.008781,1703.6,18337.397774,55,0.105012,1
+151,512,Applewood NHD,3,NW corner Bloor St and Grand Forks Rd,Residential - Low Density I,R4-46,0.160624,0.396911,405.75,4367.456649,5,0.252609,1
+152,278,Airport CC,3,SE corner Eglinton Ave E & Eastgate Pky,Mixed Use,C3-39,6.054712,14.961519,26928,289850.57952,1155,0.444745,2
+153,279,Gateway CC,5,NE corner Ambassador Dr & Hurontario St,Business Employment,E2-107,2.493791,6.162292,7950.6,85579.546106,295,0.318816,1
+154,514,Rathwood NHD,3,"WS Dixie Rd, S of Hickory Dr",Residential - Low Density I,R3,0.101564,0.25097,101.13,1088.55426,4,0.099573,1
+155,280,Sheridan Park CC,2,NE corner of North Sheridan Way & Flavelle Blvd,Business Employment,E2-5,2.538667,6.273183,5223,56219.904071,222,0.205738,1
+156,515,Clarkson Village CN,2,"WS Clarkson Rd S, S of Lakeshore Rd W",Mixed Use,C4,0.088135,0.217786,630,6781.263558,0,0.714813,1
+157,516,Clarkson Village CN,2,"WS Clarkson Rd S, S of Lakeshore Rd W",Mixed Use,C4,0.095481,0.235939,364,3918.063389,14,0.381228,1
+158,281,Mineola NHD,1,"E. side of Hurontario St., N of Mineola Road",Residential - Low Density I,R1-26,0.346845,0.857073,552,5941.678546,23,0.159149,1
+159,517,Streetsville CN,11,SE corner Broadway St and Pearl St,Mixed Use,C4,0.095669,0.236403,357.94,3852.834092,17,0.374144,1
+160,282,DT Cooksville,7,Hurontario St and Dundas St,Mixed Use,C4-15,0.923421,2.281823,3427.07,36888.674449,324,0.371128,1
+161,518,Streetsville CN,11,"SS Pearl St, E of Broadway St",Mixed Use,C4,0.046565,0.115065,117.24,1261.960856,0,0.251777,1
+162,283,Northeast EA (West),5,"N of Matheson Blvd E, E of Dixie Rd",Industrial,E3,3.832587,9.470529,12729.5,137019.197564,691,0.332139,1
+163,519,Streetsville CN,11,"SS Pearl St, E of Broadway St",Mixed Use,C4,0.045413,0.112218,105.72,1137.960609,0,0.232797,1
+164,286,Gateway EA (East),5,NE corner Derry Rd E & Edwards Blvd,Business Employment,E2,0.364164,0.899869,2003.5,21565.494506,139,0.550164,1
+165,520,Streetsville CN,11,"WS Broadway St, N of Thomas St",Mixed Use,C4,0.092691,0.229044,225.84,2430.921527,0,0.243648,1
+166,287,Sheridan Park CC,2,"N of QEW, W of Erin Mills Pkwy",Business Employment,E2-5,0.94826,2.343201,1668.46,17959.153963,55,0.17595,1
+167,521,Streetsville CN,11,"ES Queen St S, S of Britannia Rd W",Mixed Use,C4-38,0.069206,0.171012,129.69,1395.971541,0,0.187397,1
+168,288,Meadowvale Business Park CC,9,Meadowvale Blvd and Syntex Dr,Business Employment,E2-1,1.272806,3.145172,2369.06,25500.349596,241,0.186129,1
+169,289,Northeast EA (West),5,"W of Matheson Blvd extension, N of Eglinton Ave E",Business Employment,E2,3.178433,7.854079,10740.2,115606.550585,409,0.337909,2
+170,522,Streetsville CN,11,"ES Queen St S, S of Britannia Rd W",Mixed Use,C4-38,0.069206,0.171012,113.9,1226.009396,0,0.164581,1
+171,290,Mineola NHD,1,"E side Hurontario St., S. of QEW",Residential - Low Density I,R1-37,0.197295,0.487527,365.65,3935.823841,14,0.185332,1
+172,523,Streetsville CN,11,"ES Queen St S, S of Britannia Rd W",Mixed Use,C4-38,0.069205,0.171009,96.71,1040.977776,0,0.139744,1
+173,524,Streetsville CN,11,NW corner Henry St and Queen St S,Mixed Use,C4-38,0.076886,0.189989,141.77,1525.999579,0,0.18439,1
+174,291,Northeast EA (West),5,"W of Creekbank, N of Matheson Blvd E",Industrial,E3,1.282961,3.170266,4805.8,51729.200648,200,0.374587,1
+175,525,Streetsville CN,11,NE corner Ellen St and Queen St S,Mixed Use,C4-38,0.122213,0.301995,132,1420.836174,0,0.108008,1
+176,292,Port Credit CN,1,"High St E & Ann St, 1 block N of Lakeshore Rd E",Utility,U,0.3975,0.982244,3102,33389.650092,40,0.780377,1
+177,526,Streetsville CN,11,"WS Queen St S, N of Ontario St W",Mixed Use,C4-39,0.093319,0.230596,83.61,899.970549,0,0.089596,1
+178,293,Mineola NHD,1,"W side Hurontario St., S of Indian Valley Trail",Residential - Low Density I,R2-42,0.126062,0.311506,399,4294.800254,13,0.316511,1
+179,528,Streetsville CN,11,"ES Queen St S, S of Pine St",Mixed Use,C4-39,0.095921,0.237026,301,3239.937033,0,0.3138,1
+180,294,Mineola NHD,1,"E side Hurontario St., S of Pinewood Trail",Residential - Low Density I,R3-41,0.156079,0.38568,420,4520.842372,13,0.269094,1
+181,530,Lakeview NHD,1,"ES Dixie Rd, S of QEW",Residential - Low Density I,R3,0.21108,0.52159,175,1883.684322,0,0.082907,1
+182,295,DT Hospital,7,"W side of Hurontario St., S of Floradale Dr",Office,O,0.170841,0.422157,664,7147.236512,30,0.388665,1
+183,296,Northeast EA (West),5,"ES Creekbank Rd, N of Eglinton Ave E",Business Employment,E2,2.669723,6.597029,9440,101611.31427,441,0.353595,1
+184,531,Lakeview NHD,1,NW corner Dixie Rd and Kendall Rd,Residential - Low Density I,R4-45,0.208249,0.514594,300,3229.173123,0,0.144058,1
+185,532,Clarkson Village CN,2,"NS Lakeshore Rd W, E of Clarkson RD N",Mixed Use,C4,0.040181,0.099289,400,4305.564164,0,0.995495,1
+186,297,Cooksville NHD (East),7,"E of Hurontario St, N of Queensway E",Residential - Low Density I,R3,0.147141,0.363593,113,1216.321876,5,0.076797,1
+187,534,Clarkson Village CN,2,"NS Lakeshore Rd W, E of Clarkson RD N",Mixed Use,C4,0.057596,0.142323,225,2421.879842,0,0.390652,1
+188,299,Streetsville CN,11,"SS Thomas Street, W of Queen St S",Mixed Use,C4,0.192062,0.474596,513.92,5531.788838,5,0.26758,1
+189,535,Meadowvale Business Park CC,9,"SS Meadowpine Blvd, E of Winston Churchill Blvd",Business Employment,E2-24,2.579316,6.373629,6549.71,70500.491651,275,0.253932,2
+190,300,Meadowvale Business Park CC,9,"S of Derry Rd W, E of Canadian Pacific Railway",Business Employment,E2-1,0.545343,1.347572,1357.31,14609.963239,51,0.248891,1
+191,537,Meadowvale Business Park CC,9,"ES Millcreek Dr, N of Derry Rd W",Business Employment,E2-1,1.210887,2.992167,1900,20451.429779,63,0.15691,1
+192,301,Meadowvale Business Park CC,11,"E of Mississauga Rd, S of Derry Rd W",Business Employment,E2-1,5.99073,14.803416,32497.882,349804.290363,1275,0.542469,2
+193,538,DT Cooksville,7,NE corner King St W and Confederation Pky,Residential - Low Density II,R3,0.041664,0.102954,72.87,784.366152,4,0.174899,1
+194,302,Meadowvale Business Park CC,9,"E of Winston Churchill Blvd, S of Hwy 401",Business Employment,E1-4,0.168409,0.416148,424.28,4566.911909,13,0.251934,1
+195,303,DT Hospital,7,"WS Hurontario St, N of the Queen Elizabeth Way",Office,O,0.189601,0.468514,783,8428.141851,24,0.412973,1
+196,539,Gateway EA (East),5,"ES Whittle Rd, N of Matheson Blvd E",Business Employment,E2,0.191725,0.473763,337,3627.437808,0,0.175773,1
+197,304,Gateway CC,5,"WS Hurontario St, S of Britannia Rd W",Business Employment,E1-25,5.876586,14.52136,17597.1,189413.607876,1260,0.299444,1
+198,540,Gateway CC,5,SE corner Hurontario St and Topflight Dr,Business Employment,E2-107,0.719669,1.778341,3363,36199.030709,117,0.467298,1
+199,305,Cooksville NHD (West),7,"NS Queensway W, W of Hurontario St",Residential - Low Density II,R2,0.215431,0.532342,177.8,1913.823271,13,0.082532,1
+200,541,Lakeview NHD,1,"SS Lakeshore Rd E, E of Aviation Rd",Mixed Use,C4,0.141636,0.34999,221.1,2379.900592,14,0.156104,1
+201,542,Meadowvale Business Park CC,9,NW corner Derry Rd W and West Credit Avenue,Business Employment,E2-1,1.390231,3.435336,8580.2,92356.5041,360,0.617178,1
+202,543,Applewood NHD,3,"ES Cawthra Rd, S of Bloor St",Residential - Low Density II,R3-13,0.216991,0.536196,432.37,4653.991944,16,0.199257,1
+203,544,Applewood NHD,3,"ES Cawthra Rd, S of Bloor St",Residential - Low Density II,R3,0.077938,0.192589,289.63,3117.551372,5,0.371616,1
+204,545,Cooksville NHD (East),7,SE corner Dundas St E and Camilla Rd,Mixed Use,C3,0.2648,0.654335,964.89,10385.989516,46,0.364384,1
+205,546,Gateway EA (West),5,"WS Derrycrest Dr, N of Derry Rd W",Business Employment,E2-78,1.082,2.67368,4809,51763.645162,154,0.444455,1
+206,547,Gateway CC,5,NS Britannia Rd,Business Employment,"E1-22, E1-23",6.406626,15.831118,30678.35,330219.010927,1381,0.478853,1
+207,548,Airport CC,5,SW corner Eglinton Ave E and Tahoe Blvd,"Mixed Use, Business Employment","E2-40, C3-39",3.8565,9.529619,18934,203803.879703,835,0.490963,1
+208,549,Meadowvale Business Park CC,9,SE corner Dupont Meadows Place and Langer Dr,Business Employment,E2-1,1.10254,2.724436,5664.21,60969.048983,180,0.513742,1
+209,550,Meadowvale Business Park CC,10,SE corner Creditview Rd and Financial Dr,Business Employment,E2-1,2.02648,5.007541,3931.46,42317.88322,200,0.194004,1
+210,551,Gateway EA (West),5,"S of Derry Rd W, W of Maritz Dr",Business Employment,E2-28,1.811076,4.475266,6524.38,70227.841801,279,0.360249,1
+211,552,Gateway CC,5,NW corner Hurontario St and Prologis Blvd,Business Employment,E1-2,3.839,9.486376,17801.52,191613.966442,828,0.463702,2
+212,553,Gateway EA (East),5,SW corner Britannia Rd E and Kennedy Rd,Business Employment,E2,1.011362,2.49913,4180,44993.145514,140,0.413304,4
+213,554,Gateway EA (West),5,"WS Chedworth Way, N of Matheson Blvd W",Business Employment,E2,2.3965,5.92188,11900,128090.533879,0,0.496557,1
+214,555,Airport CC,5,"WS Orbitor Dr, N of  Matheson Blvd E",Business Employment,E1,0.878199,2.170077,3524.77,37940.308496,128,0.401363,1
+215,556,Airport CC,5,"SS Skymark Ave, E of Orbitor Dr",Business Employment,E1-19,1.43,3.533607,9930,106885.630371,318,0.694406,2
+216,557,Sheridan Park CC,2,"NS North Sheridan Way, E of Winston Churchill Blvd",Business Employment,"E2-5, E2-6",10.28,25.402433,21813.29,234796.299307,698,0.212192,4
+217,558,Sheridan Park CC,2,"NS Speakman Dr, E of  Winston Churchill Blvd",Business Employment,E2-5,4.15,10.254873,12562.2,135218.395353,310,0.302704,1
+218,559,Sheridan Park CC,2,"WS Hadwen Rd, S of Speakman Dr",Business Employment,E2-5,2.527122,6.244654,6060,65229.297085,0,0.239798,1
+219,560,Sheridan Park CC,2,NW corner Hadwen Rd and Speakman Dr,Business Employment,E2-5,2.640326,6.524388,5600,60277.898296,0,0.212095,1
+220,561,Mavis-Erindale EA,6,"WS Senemyk Ctr, S of Central Pky W",Business Employment,E2-16,0.803152,1.984632,2171.7,23375.984237,110,0.270397,1
+221,562,Airport CC,5,"ES Spectrum Way, N of Eglinton Ave E",Business Employment,E1-19,2.39342,5.91427,10878.3,117093.046613,424,0.454509,1
+222,563,Meadowvale Business Park CC,11,"NS Kitimat Rd, E of Mississauga Rd",Business Employment,E2-1,0.3708,0.916267,950,10225.714889,50,0.256203,1
+223,564,Meadowvale Business Park CC,9,SW corner West Credit Ave and Meadowvale blvd,Business Employment,E2-1,0.808957,1.998976,1913.3,20594.589787,106,0.236514,1
+224,565,Meadowvale Business Park CC,9,"W of Mississauga Rd, S of Hwy 401",Business Employment,E1,1.75955,4.347943,5714.1,61506.060474,234,0.324748,1
+225,566,Gateway EA (East),5,"SS Export Blvd, E of Edwards Blvd",Business Employment,E2,0.91559,2.262472,8205,88317.884914,276,0.896143,1
+226,567,Meadowvale Business Park CC,9,"SS Meadowpine Blvd, E of Winston Churchill Blvd",Business Employment,E1-13,3.266961,8.072836,12681,136497.147909,665,0.388159,1
+227,568,Cooksville NHD (West),7,"SS Dundas St W, W of Confederation Pky",Mixed Use,C3,0.6467,1.598031,3369,36263.614171,187,0.520953,1
+228,569,DT Core,4,SW corner Confederation Pky and Arbutus Way,Mixed Use,CC4-3,0.12,0.296526,5183.3,55792.576828,166,4.319417,1
+229,570,Port Credit NHD (West),1,SE corner Lakeshore Rd W and Maple Ave S,Mixed Use,C4-58,0.34,0.840158,1003.32,10799.646593,55,0.295094,1
+230,571,Rathwood NHD,3,"ES Tomken Rd, N of Rathburn Rd E",Residential - Low Density I,R3,0.082742,0.20446,150,1614.586562,5,0.181286,1
+231,572,Hurontario NHD,5,"ES McLaughlin Rd, S of Ceremonial Dr",Residential - Low Density II,R1-31,0.2591,0.64025,170,1829.86477,0,0.065612,1
+232,573,Meadowvale Business Park CC,9,SE corner Meadowvale Blvd and West Credit Ave,Business Employment,E2-1,2.75196,6.800241,6000,64583.46246,0,0.218026,1
+233,574,Applewood NHD,3,SE corner Bloor St and Ivernia Rd,Residential - Low Density II,RM1,0.109882,0.271524,250,2690.977603,0,0.227517,1
+234,1,Northeast EA (East),5,Airport Rd & Highway 409,Business Employment,E2-68,1.433173,3.541448,15167,163256.229188,1875,1.058281,1
+235,306,Mineola NHD,1,"WS Hurontario St, S of Indian Valley Tr",Residential - Low Density I,R2-44,0.203969,0.504018,415.82,4475.849227,13,0.203864,1
+236,307,Northeast EA (West),5,"SS Derry Rd E, E of Tomken Rd",Business Employment,D,0.135258,0.33423,265,2852.436259,9,0.195922,1
+237,2,Northeast EA (East),5,Airport Rd & Highway 409,Business Employment,E2-68,1.419711,3.508182,14300,153923.918863,559,1.007247,1
+238,3,Northeast EA (East),5,Airport Rd & Highway 409,Business Employment,E2-68,1.309797,3.236579,15791,169972.909284,0,1.205607,1
+239,308,Airport CC,5,"SS Explorer Dr, W of Satellite Dr",Business Employment,E1,1.555273,3.843163,10862.36,116921.469881,408,0.698421,1
+240,4,Northeast EA (East),5,Airport Rd & Highway 409,Business Employment,E2-68,2.764343,6.83084,17028,183287.866461,0,0.615987,1
+241,309,Gateway EA (West),5,"WS Derrycrest Dr, Nof Derry Rd W",Business Employment,E2-78,1.208469,2.986192,5599.94,60277.252461,208,0.463391,1
+242,5,Northeast EA (East),5,SE corner Airport Rd & American Dr,Business Employment,E2-38,1.863249,4.604189,8528,91794.627976,0,0.457695,2
+243,310,Streetsville CN,11,SE corner Tannery St and Broadway St,Mixed Use,C4,0.15787,0.390105,1219.82,13130.033196,33,0.772674,1
+244,6,Northeast EA (East),5,"ES Airport Rd, N of American Dr",Business Employment,E2-38,1.318632,3.258411,10767,115895.023384,176,0.816528,1
+245,311,Meadowvale Business Park CC,9,"SS Derry Rd W, W of Mississauga Rd",Business Employment,E2-1,4.168181,10.2998,22329.61,240353.92153,774,0.535716,2
+246,7,Northeast EA (East),5,"ES  Airport Rd, N of American Dr",Business Employment,E2-38,0.785406,1.94078,6995,75293.553318,0,0.890622,1
+247,8,Northeast EA (East),5,"ES Airport Rd, S of Orlando Dr",Business Employment,E2-38,0.181361,0.448153,1161,12496.899986,0,0.64016,1
+248,312,Gateway CC,5,NE corner Courtneypark Dr W and Maritz Dr,Business Employment,E1-17,1.899713,4.694293,6570.35,70722.658762,288,0.34586,1
+249,313,Meadowvale Business Park CC,9,"ES Argentia Rd, S of Derry Rd W",Business Employment,E2-24,3.38533,8.365333,27837.63,299641.755347,922,0.822302,1
+250,9,Northeast EA (East),5,"ES  Airport Rd, S of Orlando Dr",Business Employment,E2-38,1.13926,2.815173,5585,60116.43964,245,0.490231,1
+251,314,Meadowvale Business Park CC,9,"W of Mississauga Rd, N of Argentia Rd",Business Employment,E2-1,1.431535,3.5374,10489.22,112905.024351,356,0.732725,1
+252,10,Northeast EA (East),5,NE corner Airport Rd & Orlando Dr,Business Employment,E2-38,1.862992,4.603553,6231,67069.925765,200,0.334462,1
+253,315,Meadowvale Business Park CC,11,"SS Financial Dr, W of Creditwiew Rd",Business Employment,E2-24,1.982609,4.899134,6825,73463.688548,339,0.344243,1
+254,11,Northeast EA (East),5,SE corner Airport Rd & Northeast Dr,Business Employment,E2-38,3.214489,7.943175,22849,245944.588958,480,0.710813,3
+255,316,Meadowvale Business Park CC,11,"E of Mississauga Rd, S of Derry Rd W",Business Employment,E2-1,2.182333,5.392662,12846.88,138282.665368,505,0.588676,1
+256,12,Northeast EA (West),5,SW corner Airport Rd & Slough St,Business Employment,E2-38,0.717577,1.773171,3407,36672.642767,120,0.474792,1
+257,317,Airport CC,3,SE corner Tahoe Blvd and Eastgate Pky,Business Employment,E2-40,7.671841,18.957532,30856,332131.219611,1314,0.402198,2
+258,14,Northeast EA (West),5,SE corner Alstep Dr & Menway Crt,Business Employment,E2,0.45224,1.117509,2230,24003.520214,0,0.493101,1
+259,318,Gateway EA (East),5,SW corner Courtney Park Dr E and Kennedy Rd,Business Employment,E2,0.924148,2.283619,5000,53819.55205,160,0.541039,1
+260,16,Meadowvale Business Park CC,11,SE corner Argentia Rd and Mississauga Rd,Business Employment,E1,5.321493,13.149696,14119,151975.651079,0,0.26532,1
+261,320,Meadowvale Village NHD,11,"NS Old Derry Rd, W of Second Line West",Parkway Belt West,PB1-9,6.660475,16.458392,3629.85,39071.380202,130,0.054498,1
+262,17,Meadowvale Business Park CC,9,SW corner Argentia Rd & Mississauga Rd,Business Employment,E1,5.412086,13.373556,23244,250196.33357,836,0.429483,5
+263,321,Gateway CC,5,"WS Hurontario St, N of Derry Rd W",Business Employment,E2-78,5.759349,14.231661,21666.416,233215.36073,1313,0.376196,1
+264,322,Gateway CC,5,SW corner Courtneypark Dr W and Hurontario St,Business Employment,E1-2,4.232202,10.457999,14748.76,158754.331299,628,0.348489,2
+265,18,Meadowvale Business Park CC,9,"NS Argentia Rd, W of Turner Valley Rd",Business Employment,E2-1,1.425388,3.52221,5937,63905.336104,245,0.416518,1
+266,323,Gateway CC,5,NE corner Courtneypark Dr E and Hurontario St,Business Employment,E1-14,1.158976,2.863892,5482.02,59007.972146,213,0.473005,1
+267,19,Meadowvale Business Park CC,9,"N of Erin Mills Pky, E of Canadian Pacific Railway",Business Employment,E2-29,0.809307,1.999841,3148,33884.789971,101,0.388975,1
+268,20,Meadowvale Business Park CC,9,"Argentia Rd, W of Mississauga Rd",Business Employment,E2-1,2.434321,6.015338,12704,136744.717849,503,0.52187,1
+269,324,Streetsville CN,11,"ES Queen St S, S of Ontario St E",Mixed Use,C4,0.08824,0.218046,464.45,4999.29819,11,0.526349,1
+270,325,Streetsville CN,11,SW corner Queen St S and Caroline St,Mixed Use,C4-53,0.145413,0.359323,1081.23,11638.262853,22,0.743558,1
+271,23,Meadowvale Business Park CC,9,SW corner Derry Rd & Argentia Rd,Business Employment,E2-1,1.723666,4.259271,9183.16,98846.711521,411,0.532769,1
+272,326,Airport CC,5,"NS Matheson Blvd E, W of Shuttle Dr",Business Employment,E1,0.637277,1.574746,730.8,7866.265728,31,0.114675,1
+273,24,Meadowvale Business Park CC,9,NW corner Derry Rd & Argentia Rd,Business Employment,E2-1,1.050335,2.595434,5005,53873.371602,159,0.476515,1
+274,26,Meadowvale Business Park CC,9,"WS Argentia Rd , N of Derry Rd W",Business Employment,E2-24,0.908823,2.245751,1968,21183.375687,103,0.216544,1
+275,327,Airport CC,5,NE corner Satellite Dr and Skymark Ave,Business Employment,E1-19,0.40441,0.999319,1028.43,11069.928383,41,0.254304,1
+276,27,Gateway CC,5,SE corner Britannia Rd W & Avebury Ave,Business Employment,E1,2.800083,6.919156,14823,159553.444007,557,0.529377,1
+277,329,Applewood NHD,3,"NS Dundas St E, E of Cawthra Rd",Office,"O, H-RA1-1",0.19405,0.479508,254.9,2743.720764,17,0.131358,1
+278,330,Applewood NHD,3,"ES Palstan Rd, N of Dundas St E",Mixed Use,C3,0.267994,0.662228,1331.1,14327.841147,43,0.49669,1
+279,31,Gateway EA (East),5,"NS of Brunel Rd, E of Hurontario St",Business Employment,E2,0.445648,1.10122,2147,23110.11565,68,0.48177,1
+280,331,Applewood NHD,3,"WS Palstan Rd, N of Dundas St E",Mixed Use,C3,0.127356,0.314704,539,5801.747711,7,0.423223,1
+281,32,Gateway EA (East),5,"NS of Brunel Rd, E of Hurontario St",Business Employment,E2-96,0.3273,0.808776,1431,15403.155797,52,0.437214,1
+282,33,Rathwood-Applewood CN,3,"SS Burnhamthorpe Rd E, E of Dixie Rd",Office,O,0.500604,1.237019,3811,41021.262573,139,0.76128,1
+283,332,Central Erin Mills NHD,8,NW corner Credit Valley Rd and Kimbermount Ave,Convenience Commercial,C1-6,0.227997,0.563393,857,9224.671221,42,0.375882,1
+284,333,Clarkson - Lorne Park NHD,2,"WS Clarkson Rd N, N of Fellen Pl",Mixed Use,C4,0.125645,0.310476,230.8,2484.310523,25,0.183692,1
+285,34,DT Core,7,"SS Burnhamthorpe Rd W, W Hurontario",Downtown Mixed Use,H-CC2{2},1.207013,2.982594,57513,619064.77941,1530,4.764903,2
+286,334,Clarkson - Lorne Park NHD,2,"ES Clarkson Rd N, N of Pengilley Pl",Mixed Use,C4,0.198459,0.490403,755,8126.75236,10,0.380431,1
+287,35,DT Core,7,SE corner Burnhamthorpe Rd W & Confederation Pky,Downtown Mixed Use,H-CC2{1},1.868693,4.617641,13788,148412.796733,478,0.737842,1
+288,335,Clarkson Village CN,2,"WS Clarkson Rd S, S of Lakeshore Rd W",Residential - Low Density I,R1-33,0.236035,0.583255,270,2906.255811,10,0.11439,1
+289,36,Mavis-Erindale EA,6,SE corner Burnhamthorpe Rd W & Central Pky W,Mixed Use,C3-1,4.627972,11.435968,5831,62764.361601,225,0.125995,1
+290,336,Clarkson - Lorne Park NHD,2,NW corner Davebrook Rd and Truscott Dr,Residential - Low Density II,R3-1,0.107366,0.265307,285,3067.714467,10,0.265447,1
+291,37,Meadowvale Business Park CC,11,"N of Argentia Rd, W of Creditview Rd",Business Employment,E2-1,1.454137,3.593251,2944,31688.952247,104,0.202457,1
+292,337,Clarkson - Lorne Park NHD,2,"SS Lakeshore Rd W, W of Bexhill Rd",Residential - Low Density I,R2-1,0.108666,0.26852,136.11,1465.075846,10,0.125255,1
+293,38,Gateway EA (West),5,"SS Cancross Ct, S of Matheson Blvd W",Business Employment,E2,4.299275,10.62374,13542,145764.874772,0,0.314983,2
+294,338,Clarkson - Lorne Park NHD,2,"SS Lakeshore Rd W, W of Silver Birch Tr",Office,O,0.320036,0.790826,539,5801.747711,46,0.168419,1
+295,40,Gateway EA (West),5,SW quadrant Hurontario St & Matheson Blvd W,Business Employment,E2,0.910234,2.249237,2787,29999.018313,90,0.306185,1
+296,339,Clarkson - Lorne Park NHD,2,"SS Lakeshore Rd W, W of Silver Birch Tr",Office,O,0.124863,0.308543,406.56,4376.175416,46,0.325605,1
+297,41,Mavis-Erindale EA,6,SW Central Pky W & Erindale Station Rd,Business Employment,E2-16,1.194254,2.951066,8594,92505.046064,275,0.719612,1
+298,341,Clarkson - Lorne Park NHD,2,NE corner Lorne Park Rd and Queen Victoria Ave,Mixed Use,C4,0.197935,0.489108,237,2551.046767,20,0.119736,1
+299,42,Mavis-Erindale EA,6,SW Burnhamthorpe Rd W & Central Pky W,Office,O-2,2.78578,6.883812,30254,325651.345544,1094,1.086015,3
+300,342,Cooksville NHD (East),7,SW corner Queensway E and Camilla Rd,Residential - Low Density I,R3,0.105277,0.260145,167,1797.573038,3,0.158629,1
+301,43,Meadowvale Business Park CC,9,NW corner Argentia Rd & Century Ave,Business Employment,E2-1,1.389677,3.433967,1750,18836.843218,185,0.125929,1
+302,44,Meadowvale Business Park CC,9,SW quadrant Mississauga Rd & Hwy 401,Business Employment,E1,1.132398,2.798216,4645,49998.363854,0,0.410191,1
+303,343,Cooksville NHD (West),7,"WS Confederation Pky, N of King St W",Residential - Low Density II,R3,0.054833,0.135495,123.01,1324.06862,4,0.224336,1
+304,346,DT Cooksville,7,"NS Dundas St W, W of Hurontario St",Mixed Use,C4,0.11651,0.287902,690,7427.098183,20,0.592224,1
+305,45,Meadowvale Business Park CC,9,"WS Century Ave, N of Argentia Rd",Business Employment,E2-1,2.309365,5.706565,9880,106347.434851,191,0.427823,2
+306,48,Meadowvale Business Park CC,9,"W of Mississauga Rd, S of Hwy 401",Business Employment,E2-1,2.146045,5.302993,8708,93732.13185,267,0.40577,1
+307,347,DT Cooksville,7,NE corner Dundas St W and Cook St,Mixed Use,C4,0.10203,0.252122,360,3875.007748,5,0.352837,1
+308,49,Meadowvale Business Park CC,9,"S of Highway 401, W of Mississauga Rd",Business Employment,E1,4.046671,9.999542,34233.68,368488.264525,897,0.845971,2
+309,349,Cooksville NHD (East),7,SW corner Hensall St and Hensall Cir,Mixed Use,C3,0.268355,0.66312,1707,18373.99507,25,0.636098,1
+310,352,DT Cooksville,7,"ES Hurontario St, S of Dundas St E",Mixed Use,C4-9,0.090601,0.22388,200,2152.782082,15,0.220748,1
+311,50,DT Core,4,NW corner Robert Speck Pky & Hurontario St,Downtown Mixed Use,H-CC2{2},3.442856,8.507482,26514,285394.320611,955,0.770116,1
+312,353,DT Cooksville,7,"ES Hurontario St, N of Kirwin Ave",Mixed Use,D,0.133202,0.329149,286,3078.478377,25,0.214711,1
+313,51,DT Core,4,SE corner Robert Speck Pky & City Centre Dr,Downtown Mixed Use,H-CC2{2},2.419046,5.977593,23931,257591.140022,516,0.989274,1
+314,354,Cooksville NHD (East),7,SW corner Camilla Rd and King St E,Residential - Low Density I,R3,0.127157,0.314212,270,2906.255811,5,0.212336,1
+315,52,DT Core,4,NW Hurontario St & Burnhamthorpe Rd W,Downtown Mixed Use,H-CC2{2},2.883428,7.125106,16050,172760.76208,625,0.556629,1
+316,355,DT Cooksville,7,"NS King St W, E of Confederation Pky",Residential - Low Density II,R3-44,0.071797,0.177414,129.25,1391.23542,10,0.180021,1
+317,53,DT Core,4,SE corner City Centre Dr & Kariya Dr,Downtown Mixed Use,H-CC2{2},1.910518,4.720993,18227,196193.795043,769,0.954034,1
+318,356,DT Cooksville,7,"WS Kirwin Ave, N of Dundas St E",Mixed Use,C4-52,0.05659,0.139837,110,1184.030145,2,0.194381,1
+319,54,DT Core,4,"N of Burnhamthorpe Rd, W Hurontario St",Downtown Mixed Use,H-CC2{2},1.307582,3.231105,7618,81999.469503,200,0.582602,1
+320,55,DT Core,4,SE corner City Centre Dr & Duke of York,Downtown Mixed Use,H-CC2{2},1.872523,4.627105,21566,232134.491902,445,1.151708,1
+321,357,DT Cooksville,7,"WS Kirwin Ave, N of Dundas St E",Mixed Use,C4-52,0.046005,0.113681,92,990.279758,5,0.199978,1
+322,358,DT Hospital,7,NW corner Hurontario St and Queensway W,Office,O,0.387302,0.957044,1542,16597.949852,20,0.398139,1
+323,56,DT Core,4,"NS Burnhamthorpe Rd W, E of Confederation Pky",Downtown Mixed Use,CC2{1},1.973836,4.877455,14307,153999.266236,582,0.724832,1
+324,57,DT Cooksville,7,NW Dundas St W & Confederation Pky,Office,O-13,0.755656,1.867267,6900,74270.981829,173,0.913114,1
+325,359,Dixie EA,1,"ES Dixie Rd, S of Dundas St E",Mixed Use,C3-1,0.577762,1.427681,1970,21204.903508,0,0.340971,1
+326,360,Dixie EA,1,"ES Hainess Rd, N of Queensway E",Business Employment,E2-19,0.404788,1.000253,100,1076.391041,0,0.024704,1
+327,58,Northeast EA (West),5,NW corner Tomken Rd & Derry Rd E,Business Employment,E2,2.786666,6.886002,7144,76897.375969,691,0.256364,3
+328,59,Gateway EA (East),5,"SS Derry Rd, E of Goreway Dr",Business Employment,E2,1.616395,3.994199,5419.4,58333.936076,0,0.335277,7
+329,362,East Credit NHD,6,"SS Britannia Rd W, E of Mavis Rd",Mixed Use,C3-61,0.200746,0.496054,523,5629.525144,15,0.260528,1
+330,363,Erindale NHD,7,"SS Dundas St W, E of Robinson St",Mixed Use,C4-7,0.09277,0.22924,360,3875.007748,15,0.388056,1
+331,60,Meadowvale Business Park CC,9,"NS Derry Rd W, at Syntex & West Credit",Business Employment,E2-1,2.429079,6.002385,7104,76466.819553,407,0.292457,1
+332,364,Erindale NHD,7,SE corner Dundas St W and Robinson St,Mixed Use,C4-7,0.14388,0.355535,330,3552.090435,20,0.229358,1
+333,62,Applewood NHD,3,"ES Dixie Rd, N of Bloor St",Mixed Use,C2,0.158168,0.390842,1765,18998.301874,346,1.115902,1
+334,64,Northeast EA (West),5,NW Aimco Blvd & Dixie Rd,Mixed Use,C3-1,1.91637,4.735453,2415,25994.84364,0,0.12602,1
+335,365,Erindale NHD,6,"NS Dundas St W, E of Mississauga Rd",Mixed Use,C4-7,0.289133,0.714463,850,9149.323849,25,0.293982,1
+336,366,Erindale NHD,6,NW corner Erindale Station Rd and McBride Ave,Residential - Low Density II,R4-47,0.157724,0.389744,380,4090.285956,15,0.240927,1
+337,65,Northeast EA (West),5,SE corner Dixie Rd N & Courtneypark Dr,Business Employment,E2,2.261381,5.587994,12494,134484.296663,76,0.552494,2
+338,367,Erindale NHD,6,"ES Erindale Station Rd, S of McBride Ave",Office,O,0.203466,0.502775,523,5629.525144,25,0.257045,1
+339,66,DT Cooksville,7,SW corner Dundas St E & Camilla Rd,Office,O,0.475142,1.174101,4720,50805.657135,141,0.993387,1
+340,369,Erindale NHD,6,"ES Erindale Station Rd, S of McBride Ave",Office,O,0.553875,1.368655,4860,52312.604593,40,0.877454,1
+341,67,Dixie EA,1,"SS Dundas St E, E of Haines Rd",Mixed Use,C3-1,0.507057,1.252965,3485,37512.227779,0,0.687299,1
+342,68,Dixie EA,1,SW corner Dundas St E and Stanfield Rd,Mixed Use,C3-1,0.257641,0.636645,1235,13293.429356,0,0.479349,1
+343,370,DT Fairview,7,"WS Hurontario St, S of Elm Dr W",Residential - High Density,D-1,0.107368,0.265312,130,1399.308353,10,0.121079,1
+344,69,Dixie EA,1,"SS Dundas St E, W of Dixie Rd",Mixed Use,C3-35,1.425216,3.521785,1858,19999.345542,250,0.130366,1
+345,371,DT Fairview,7,"WS Hurontario St, S of Elm Dr W",Residential - High Density,D-1,0.10721,0.264922,116,1248.613608,5,0.108199,1
+346,70,Dixie EA,3,NW corner Dundas St E & Southcreek Rd,Mixed Use,C3-1,1.187801,2.93512,10596,114054.394704,134,0.892069,4
+347,372,Fairview NHD,7,SE corner Central Pky W and Palgrave Rd,Residential - Low Density I,R3,0.126326,0.312158,255.9,2754.484674,4,0.202571,1
+348,373,Gateway EA (East),5,SE corner Edwards Blvd and Annagem Blvd,Business Employment,E2,1.157371,2.859926,2925,31484.437949,0,0.252728,1
+349,72,DT Cooksville,7,NW corner Dundas St W & Confederation Pky,Office,O,0.692657,1.711593,10904,117369.679111,243,1.574228,1
+350,73,Western Business Park EA,8,"NS Dunwin Dr, E of Glen Erin Dr",Business Employment,E2-1,1.568541,3.875949,4243,45671.27187,93,0.270506,2
+351,374,Gateway EA (West),5,WS Falbourne St  N of Matheson Blvd W,Business Employment,E2,0.818501,2.02256,2151.3,23156.400465,0,0.262834,1
+352,76,Cooksville NHD (East),7,"WS Edenhurst Dr, S of Dundas St E",Office,O,0.260422,0.643517,1533,16501.074659,0,0.58866,1
+353,375,Gateway EA (East),5,"SS Matheson Blvd E, W of McAdam Rd",Business Employment,E2-1,0.404849,1.000404,1363.56,14677.237679,48,0.336807,1
+354,77,Uptown MN,4,SW corner Eglinton Ave W & Hurontario St,Office,O-8,2.208397,5.457068,13462,144903.761939,306,0.609582,1
+355,376,Gateway EA (East),5,"SS Matheson Blvd E, W of McAdam Rd",Business Employment,E2-1,0.292955,0.723908,692.1,7449.702395,25,0.236248,1
+356,78,Central Erin Mills MN,8,SE Eglinton Ave W & Erin Mills Pky,Institutional,I-4,0.392852,0.970758,6251,67285.203973,0,1.591184,1
+357,377,Gateway EA (East),5,"SS Matheson Blvd E, W of McAdam Rd",Business Employment,E2-1,0.607017,1.499972,1394.5,15010.273067,75,0.22973,1
+358,79,Northeast EA (West),5,"ES Dixie Rd, N of Hwy 401",Business Employment,E2,2.200977,5.438733,8695,93592.201015,278,0.395052,1
+359,379,Gateway EA (West),5,"ES McLaughlin Rd, N of Britannia Rd W",Business Employment,E2,0.33312,0.823157,486.99,5241.916731,8,0.146191,1
+360,381,Lakeview NHD,1,"NS Lakeshore Rd E, E of Strathy Ave",Mixed Use,C4,0.048721,0.120392,112,1205.557966,10,0.22988,1
+361,80,Erindale NHD,6,"ES  Erindale Station Rd, S of McBridge",Office,O,0.401663,0.992531,811,8729.531343,0,0.201911,1
+362,382,Malton NHD,5,"NS Derry Rd E, E of Burlington St",Mixed Use,C3,0.055711,0.137665,134,1442.363995,4,0.240527,1
+363,81,Airport CC,5,NW corner Explorer Dr & Skymark Ave,Business Employment,E1-19,1.820071,4.497493,15076.99,162287.369612,480,0.828374,1
+364,383,Malton CN,5,"WS Goreway Dr, N of Etude Dr",Office,O,0.20306,0.501772,892.41,9605.821289,30,0.439481,1
+365,83,Airport CC,5,NW corner Explorer Dr & Matheson Blvd E,Business Employment,E1,1.039776,2.569342,5315,57210.183829,129,0.511168,1
+366,384,Mavis-Erindale EA,6,"NS Central Pky W, W of Wolfedale Rd",Business Employment,E2-19,0.381722,0.943256,1867.9,20105.908255,39,0.489335,1
+367,84,Airport CC,5,"N of Eglinton Ave E, E of Orbitor Dr",Business Employment,E1,1.667331,4.120065,6921,74497.023948,260,0.415095,1
+368,386,Mavis-Erindale EA,6,"WS Mavis Rd, S of Central Pky W",Business Employment,E2-19,0.082842,0.204707,720,7750.015495,0,0.869124,1
+369,85,Airport CC,5,SE corner Explorer Dr & Satellite Dr,Business Employment,E1,6.988508,17.268979,54747.5,589297.185171,1888,0.783393,6
+370,387,Mavis-Erindale EA,6,"WS Semenyk Crt, S of Central Pky W",Business Employment,E2-16,0.230686,0.570038,1017.6,10953.355233,33,0.441119,1
+371,86,Airport CC,5,SW corner of Explorer Dr & Satellite Dr,Business Employment,E1,4.045132,9.995739,21393,230272.335401,336,0.528858,2
+372,388,Mavis-Erindale EA,6,"WS Semenyk Crt, S of Central Pky W",Business Employment,E2-16,0.304482,0.752391,1210.8,13032.942724,16,0.397659,1
+373,87,Airport CC,5,"ES Explorer Dr, N of Matheson Blvd E",Business Employment,E1,1.617492,3.99691,8992,96789.082407,118,0.555922,1
+374,390,Meadowvale Business Park CC,11,NE corner Argentia Rd and Campobello,Business Employment,E2-1,0.449905,1.111739,1180,12701.414284,0,0.262278,1
+375,91,Northeast EA (East),5,"WS Goreway Dr, S of Nashua",Business Employment,E2,0.701874,1.734368,2323,25004.563882,96,0.330971,1
+376,391,Meadowvale Business Park CC,9,"SS Meadowvale Blvd, W of West Credit Ave",Business Employment,E2-1,0.674004,1.6655,1726,18578.509368,55,0.256082,1
+377,392,Meadowvale Business Park CC,9,"WS Millcreek Dr, N of Derry Rd W",Business Employment,E2-1,0.448626,1.108579,803,8643.420059,28,0.178991,1
+378,93,Malton CN,5,"WS Goreway Dr, S of Morningstar Dr",Office,O,0.414604,1.024509,765,8234.391464,49,0.184513,1
+379,393,Meadowvale Business Park CC,9,"WS Millcreek Dr, N of Derry Rd W",Business Employment,E2-1,0.485386,1.199415,912.74,9824.651588,53,0.188044,1
+380,94,Dixie EA,1,NE corner Queensway E & Haines Rd,Business Employment,E2,0.395221,0.976612,2230,24003.520214,67,0.564241,1
+381,395,Meadowvale Business Park CC,11,"SE corner Mississauga Rd, and Alpha Mills Rd",Business Employment,E2-1,0.327963,0.810414,1069.9,11516.307748,46,0.326226,1
+382,97,Mineola NHD,1,SE corner Hurontario St & South Service Rd,Office,O-3,0.86018,2.125551,5491,59104.632061,178,0.638355,1
+383,396,Meadowvale Business Park CC,9,"WS Torquay Mews, N of Erin Mills Pky",Business Employment,E2-1,0.290514,0.717876,743.2,7999.738217,28,0.255822,1
+384,98,DT Hospital,7,NW Hurontario St & North Service Rd,Office,O-11,0.448856,1.109147,7519,80933.842373,278,1.675147,1
+385,397,Meadowvale Business Park CC,9,NW corner Turner Valley Rd Torquay Mews,Business Employment,E2-1,0.452082,1.117119,2370,25510.467672,0,0.524241,1
+386,99,DT Hospital,7,"WS Hurontario St, N of Queensway W",Office,O-5,0.325005,0.803105,1486,15995.170869,0,0.457224,1
+387,398,Meadowvale Business Park CC,9,NW corner Meadowvale Blvd and West Credit,Business Employment,E2-1,0.707822,1.749066,1393,14994.127201,0,0.196801,1
+388,100,DT Cooksville,7,"ES Hurontario St, N of Dundas St E",Mixed Use,C4-9,0.472576,1.167761,4301,46295.578673,87,0.910118,1
+389,399,Meadowvale Business Park CC,9,"WS West Credit Ave, N of Meadowvale Blvd",Business Employment,E2-1,0.768216,1.898303,1342.72,14452.917786,0,0.174784,1
+390,101,DT Cooksville,7,NW corner Agnes St & Hurontario St,Mixed Use,C4,0.380848,0.941096,2490,26802.136921,134,0.653804,1
+391,400,Mineola NHD,1,"WS Hurontario St, S of Mineola Rd W","Greenbelt, Residential - Low Density I",R3-56,0.154178,0.380982,215,2314.240738,0,0.139449,1
+392,102,DT Cooksville,7,NE corner Hurontario St & Dundas St. E,Mixed Use,C4,1.463021,3.615204,6866.51,73910.498469,0,0.469338,2
+393,401,Mineola NHD,1,"WS Hurontario St, S of Mineola Rd W",Residential - Low Density I,R2-41,0.21503,0.531351,425,4574.661924,0,0.197647,1
+394,103,DT Fairview,7,"WS Hurontario St, S Central Pky W",Office,O-10,0.334259,0.825972,1865,20074.692915,55,0.557951,1
+395,402,Mineola NHD,1,NW corner Hurontario St and Mineola Rd W,Residential - Low Density I,R2-39,0.095908,0.236994,254,2734.033244,0,0.264837,1
+396,104,DT Core,7,NW corner Matthews Gate & Hurontario St,Downtown Mixed Use,H-CC2{2},0.166144,0.410551,5373,57834.490633,157,3.233942,1
+397,403,Mineola NHD,1,"WS Hurontario St, N of Mineola Rd W",Residential - Low Density I,R2-38,0.105166,0.259871,152.7,1643.64912,0,0.145199,1
+398,105,Gateway CC,5,SW corner Hurontario St & Matheson Blvd W,Business Employment,E1,2.829258,6.991249,13006,139995.418792,0,0.459696,1
+399,404,Mineola NHD,1,"WS Hurontario St, N of Mineola Rd W",Residential - Low Density I,R2-40,0.297829,0.735951,464,4994.45443,0,0.155794,1
+400,106,Gateway CC,5,NE Hurontario St & Matheson Blvd W,Business Employment,E1,3.50833,8.669272,22496,242144.928583,730,0.641217,1
+401,405,Mineola NHD,1,"WS Hurontario St, N of Mineola Rd W",Residential - Low Density I,R2-43,0.142553,0.352256,202,2174.309903,0,0.141702,1
+402,406,Mineola NHD,1,"ES Hurontario St, N of Mineola Rd E",Residential - Low Density I,R3-45,0.119198,0.294545,204.38,2199.92801,0,0.171463,1
+403,109,Uptown MN,4,SW Kingsbridge Garden Cir & Hurontario St,Office,O-6,1.831371,4.525416,12747,137207.565996,486,0.696036,2
+404,407,Mineola NHD,1,"ES Hurontario St, N of Mineola Rd E",Residential - Low Density I,R3-65,0.157191,0.388427,265,2852.436259,0,0.168585,1
+405,408,Mineola NHD,1,"WS Hurontario St, N of Mineola Rd W",Residential - Low Density I,R2-5,0.21541,0.53229,388,4176.397239,0,0.180122,1
+406,110,Port Credit CN,1,"SS Lakeshore Rd E, E of Stavebank Rd S",Mixed Use,C4,0.050245,0.124158,836,8998.629103,0,1.663847,1
+407,409,Mineola NHD,1,"ES Hurontario St, S of Pinewood Tr",Residential - Low Density I,R3-43,0.176162,0.435306,78.5,844.966967,0,0.044561,1
+408,111,Clarkson Village CN,2,SE corner Lakeshore Rd E and Meadow Wood Rd,Mixed Use,C4,0.350691,0.866576,1672,17997.258206,55,0.476773,1
+409,411,Mineola NHD,1,"WS Hurontario St, S of Indian Valley Tr",Residential - Low Density I,R2-47,0.205186,0.507026,420,4520.842372,0,0.204692,1
+410,112,Southdown EA,2,"SS Lakeshore Rd W, opposite Hazelhurst Rd",Business Employment,E2-108,1.839767,4.546163,2286,24606.299197,109,0.124255,1
+411,412,Mineola NHD,1,"WS Hurontario St, S of Indian Valley Tr",Residential - Low Density I,R2-5,0.205369,0.507478,702,7556.265108,0,0.341824,1
+412,113,Sheridan CN,2,NW corner Erin Mills Pky & QEW,Office,O-12,2.286364,5.649728,5212,56101.501057,156,0.22796,1
+413,413,Mineola NHD,1,"ES Hurontario St, S of Pinewood Tr",Residential - Low Density I,R3-43,0.256444,0.633687,290,3121.534019,0,0.113085,1
+414,114,Gateway EA (East),5,NE corner Matheson Blvd & Whittle Rd,Business Employment,E2,0.702496,1.735905,2788,30009.782223,0,0.396871,2
+415,416,Mineola NHD,1,"ES Hurontario St, N of Pinewood Tr",Residential - Low Density I,R1-2,0.247174,0.61078,467,5026.746161,0,0.188936,1
+416,115,Airport CC,5,"NS Marheson Blvd E, W of Shuttle Dr",Business Employment,E1,0.641085,1.584156,2044,22001.432878,0,0.318834,1
+417,417,Mineola NHD,1,"ES Hurontario St, N of Pinewood Tr",Low Density I,R1-20,0.224241,0.554112,371.04,3993.841319,12,0.165465,1
+418,116,Airport CC,5,NE corner Matheson Blvd E  & Explorer Dr,Business Employment,E1,1.882803,4.652508,22429,241423.746586,40,1.191256,4
+419,418,Mineola NHD,1,"ES Hurontario St, N of Pinewood Tr",Residential - Low Density I,R1-2,0.223128,0.551361,880,9472.241161,0,0.394392,1
+420,117,Airport CC,5,NE corner Matheson Blvd E & Orbitor Dr,Business Employment,E1,1.940932,4.796147,11021,118629.056629,0,0.56782,2
+421,419,Mineola NHD,1,"ES Hurontario St, N of Pinewood Tr",Residential - Low Density I,R1-23,0.320739,0.792563,775,8342.030568,0,0.241629,1
+422,118,Airport CC,5,SE corner Matheson Blvd E & Satellite Dr,Business Employment,E1,1.011146,2.498596,3716,39998.691084,181,0.367504,1
+423,421,Mineola NHD,1,"ES Hurontario St, N of Pinewood Tr",Residential - Low Density I,R1-22,0.148758,0.367589,260,2798.616707,0,0.174781,1
+424,121,Airport CC,5,"SS Matheson Blvd E, W of Orbitor Dr",Business Employment,E1-19,2.036556,5.032439,2945,31699.716157,0,0.144607,1
+425,422,Mineola NHD,1,"ES Hurontario St, S of South Service Rd",Residential - Low Density I,R1-1,0.109784,0.271282,120,1291.669249,0,0.109306,1
+426,122,Airport CC,5,NW corner Explorer Dr & Matheson Blvd E,Business Employment,E1,5.648434,13.957584,35388.9,380922.949108,1423,0.626526,3
+427,423,Mineola NHD,1,"ES Hurontario St, S of South Service Rd",Residential - Low Density I,R1-21,0.114212,0.282224,129.08,1389.405556,0,0.113018,1
+428,123,Airport CC,5,"NS Matheson Blvd E, E of Explorer Dr",Business Employment,E1,2.131782,5.267748,11140,119909.961967,454,0.522568,1
+429,424,Northeast EA (West),5,"WS Atlantic Dr,  N of Shawson Dr",Industrial,E3,0.189124,0.467336,925,9956.617129,0,0.489097,1
+430,125,Airport CC,5,"NS Matheson Blvd E, W of Renforth Dr",Business Employment,E1-18,3.567337,8.815082,18610,200316.37273,600,0.521678,1
+431,126,Gateway CC,5,NW corner Hurontario St & Matheson Blvd W,Business Employment,E1,2.831373,6.996475,6854,73775.84195,288,0.242073,1
+432,425,Northeast EA (West),5,"SS Drew Rd, E of Torbram Rd",Business Employment,E2,0.406592,1.004711,553,5952.442457,0,0.136009,1
+433,127,Gateway CC,5,"NS Matheson Blvd W, E of Avebury Rd",Business Employment,E1-16,7.52296,18.589639,38209,411278.252856,1493,0.507898,3
+434,427,Northeast EA (West),5,SW corner Netherhart Rd and Meyerside Dr,Industrial,E3,0.179529,0.443626,510,5489.594309,0,0.284077,1
+435,128,Gateway CC,5,"SS Matheson Blvd W, W Hurontario St",Business Employment,E1-16,4.521591,11.173095,10419,112149.182562,404,0.230428,3
+436,428,Northeast EA (East),5,"NS Nashua Dr, E of Goreway Dr",Business Employment,E2,0.283386,0.700262,1800,19375.038738,0,0.635176,1
+437,129,Gateway EA (West),5,NW corner Matheson Blvd W & Avebury Rd,Business Employment,E2,0.847116,2.093269,4729,50902.532329,251,0.558247,1
+438,429,Northeast EA (East),5,"NS Orlando Dr, E of Airport Rd",Business Employment,E2-38,0.973382,2.405279,1580,17006.978448,0,0.162321,1
+439,130,Cooksville NHD (West),7,NE quadrant of Mavis Rd & Dundas St W,Business Employment,E2-27,6.849211,16.924769,6639,71461.601212,169,0.096931,1
+440,430,Northeast EA (West),5,"WS Pacific Cir, N of Mid-Way Blvd",Business Employment,E2-24,1.624465,4.01414,4002,43077.169461,0,0.246358,1
+441,131,Mavis-Erindale EA,6,SW corner CNR,Business Employment,E2-16,3.096123,7.650687,11901,128101.297789,0,0.384384,1
+442,431,Port Credit CN,1,SE corner Ann St and High St E,Mixed Use,C4,0.049183,0.121534,282.56,3041.450525,0,0.574507,1
+443,132,Gateway EA (East),5,"NS Macadam Rd, E of Whittle Rd",Business Employment,E2-96,0.591529,1.4617,1672,17997.258206,0,0.282657,1
+444,432,Port Credit CN,1,SW corner Ann St and High St E,Mixed Use,C4,0.047499,0.117373,123,1323.96098,0,0.258953,1
+445,133,Gateway EA (East),5,"SS Mcadam, E of Whittle Rd",Business Employment,E2-96,0.601265,1.485758,1672,17997.258206,0,0.27808,1
+446,433,Port Credit CN,1,SE corner Ann St and Park St E,Residential - High Density,RA1-24,0.051132,0.12635,370,3982.646852,0,0.723617,1
+447,135,Meadowvale Business Park CC,9,"NS Meadowpines Blvd, W of Meadowvale Blvd",Business Employment,E2-1,1.718377,4.246202,5363,57726.851529,386,0.312097,4
+448,434,Port Credit CN,1,"WS Ann St, S of Queen St E",Residential - High Density,H-RA2-48,0.056198,0.138868,203,2185.073813,0,0.361223,1
+449,138,Meadowvale Business Park CC,9,"SS Meadowvale Blvd, W of Syntex  Dr",Business Employment,E2-24,10.914136,26.969417,15793,169994.437105,0,0.144702,1
+450,435,Port Credit NHD (East),1,"WS Elmwood Ave N, N of Lakeshore Rd E",Mixed Use,C4,0.06963,0.172059,225,2421.879842,0,0.323137,1
+451,139,Meadowvale CN,9,SW quadrant Glen Erin Dr & Aquitaine Ave,Mixed Use,C3,1.0273,2.538514,8190,88156.426258,0,0.797235,1
+452,436,Port Credit NHD (West),1,"WS Front St S, S of Lakeshore Rd W",Mixed Use,C4-48,0.061291,0.151453,280,3013.894915,0,0.456837,1
+453,437,Port Credit NHD (West),1,"WS Front St S, S of Lakeshore Rd W",Mixed Use,C4-48,0.036775,0.090873,155,1668.406114,0,0.421482,1
+454,141,Northeast EA (West),5,"WS Dixie Rd, S of Meyerside Dr",Business Employment,E2,1.022273,2.526092,7699,82871.346247,254,0.753126,1
+455,440,Port Credit CN,1,NE corner Helene St S and Port St E,Mixed Use,C4,0.036495,0.090181,110,1184.030145,0,0.301411,1
+456,142,Dixie EA,1,Queensway & Stanfield,Business Employment,E2,5.432561,13.424151,4689,50471.975912,192,0.086313,1
+457,441,Port Credit CN,1,"NS High St E, E of Ann St",Residential - High Density,RA1-24,0.215248,0.531889,410,4413.203268,0,0.190478,1
+458,143,Meadowvale Business Park CC,9,NE Millcreek Dr & Erin Mills Pky,Mixed Use,C3-44,1.630166,4.028228,2606,28050.750528,220,0.159861,1
+459,442,Port Credit CN,1,"WS Hurontario St, N of Lakeshore Rd W",Mixed Use,C4,0.053934,0.133274,196.4,2114.032005,0,0.364149,1
+460,144,Meadowvale Business Park CC,9,NW Millcreek Dr & Erin Mills Pky,Business Employment,E2-1,0.567683,1.402775,1843,19837.886886,0,0.324653,1
+461,443,Port Credit CN,1,"WS Hurontario St, N of Lakeshore Rd W",Mixed Use,C4,0.077564,0.191665,370,3982.646852,0,0.477025,1
+462,146,Meadowvale Business Park CC,11,NE corner Erin Mills Pky & Argentia Rd,Business Employment,E1,2.104774,5.20101,9173,98737.350191,292,0.435819,1
+463,444,Port Credit CN,1,NW corner Lakeshore Rd E and Stavebank Rd,Mixed Use,C4,0.038064,0.094058,1090,11732.662347,0,2.863598,1
+464,147,Meadowvale Business Park CC,11,"E of Mississauga Rd, N of Agrentia Rd",Business Employment,E1,2.4502,6.054576,10913.6,117473.012651,428,0.445417,1
+465,148,Meadowvale Business Park CC,11,"WS Mississauga Rd, N of Kitimat Rd",Business Employment,E2-1,3.072677,7.59275,15341,165129.1496,314,0.499271,12
+466,149,Meadowvale Business Park CC,11,"WS Mississauga Rd, N of Kitimat Rd",Business Employment,E1,2.623465,6.482723,6461,69545.625159,276,0.246277,11
+467,150,Meadowvale Business Park CC,11,NE corner Mississauga Rd & Argentia Rd,Business Employment,E1,5.402136,13.348969,43330.97,466410.679058,1310,0.802108,3

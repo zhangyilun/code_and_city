@@ -1,0 +1,576 @@
+﻿COMPLEX ID,Character Area,Z-Area,Street Number,Street Name,Designation,Zoning,Complex Name,Site Area (ha),Site Area (acre),Total Parking,GFA Residential (m2),GFA Residential (ft2),GFA Retail (m2),GFA Retail (ft2),GFA Total (m2),GFA Total (ft2),Building Type,Tenure Residential,Townhouse Blocks,Storeys Total,Number Of Residential Units,Number Of Retail Units,Density (Unit/Ha),Density (Unit/Acre),FSI,OBJECTID
+1,Erindale NHD,24,3220-3270,The Credit Woodlands,Medium Density,RM4,,0.93,2.29808,26,,,0,0,,,Townhouse,PCC,2,2,26,0,28,11,,1
+2,Erindale NHD,23,3065,Lenester Dr,Medium Density,RM4,,1.54,3.805423,74,,,0,0,,,Townhouse,PCC,11,3,59,0,38,16,,2
+3,Erindale NHD,23,830,Westlock Rd,Medium Density,RM4,,0.51,1.260237,28,,,0,0,,,Townhouse,PCC,2,3,22,0,43,17,,3
+4,Erindale NHD,23,806,Stainton Dr,Medium Density,RM4,,0.48,1.186106,25,2321,24983.036060,0,0,2321,24983.036060,Townhouse,PCC,2,2,20,0,42,17,0.483542,4
+5,Erindale NHD,23,830,Stainton Dr,Medium Density,RM4,,1.64,4.052528,156,7990,86003.644180,0,0,7990,86003.644180,Townhouse,PCC,10,3,69,0,42,17,0.487195,5
+6,Erindale NHD,23,3025,Cedarglen Gate,Medium Density,RM4,,2.24,5.535161,214,10907,117401.970800,0,0,10907,117401.970800,Townhouse,PCC,13,3,95,0,42,17,0.486920,6
+7,Erindale NHD,24,3400,The Credit Woodlands,Medium Density,RM4,,2.33,5.757555,135,7292,78490.434710,0,0,7292,78490.434710,Townhouse,RNTL,9,2,67,0,29,12,0.312961,7
+8,Erindale NHD,24,1300,Forestwood Dr,Medium Density,RM4,The Forestwood,1.13,2.792291,80,4226,45488.285390,0,0,4226,45488.285390,Townhouse,RNTL,5,3,39,0,35,14,0.373982,8
+9,Erindale NHD,24,33083360,The Credit Woodlands,Medium Density,RM4,,1.29,3.187659,40,,,0,0,,,Townhouse,PCC,2,2,40,0,31,13,,9
+24,Meadowvale NHD,54W,7251,Copenhagen Rd,Medium Density,RM4,,2.54,6.276477,132,10264,110480.776400,0,0,10264,110480.776400,Townhouse,PCC,9,3,87,0,34,14,0.404094,10
+26,Meadowvale NHD,54W,7430,Copenhagen Rd,Medium Density,RM4,,3.24,8.006214,252,13443,144699.247600,0,0,13443,144699.247600,Townhouse,PCC,8,3,112,0,35,14,0.414907,11
+28,Meadowvale NHD,54W,7080,Copenhagen Rd,Medium Density,RM4,,2.64,6.523582,203,11287,121492.256800,0,0,11287,121492.256800,Townhouse,PCC,8,3,90,0,34,14,0.427538,12
+29,Meadowvale NHD,54W,7030,Copenhagen Rd,Medium Density,RM4,Park Place,1.74,4.299634,131,8138,87596.702920,0,0,8138,87596.702920,Townhouse,PCC,7,3,59,0,34,14,0.467701,13
+30,Meadowvale NHD,46W,7077,Estoril Rd,Medium Density,RM4,,0.94,2.322791,72,4524,48695.930690,0,0,4524,48695.930690,Townhouse,PCC,1,3,32,0,34,14,0.481277,14
+32,Meadowvale NHD,46W,6855,Glen Erin Dr,Medium Density,RM4,Treetops,1.44,3.558317,75,5738,61763.317930,0,0,5738,61763.317930,Townhouse,PCC,8,2,49,0,34,14,0.398472,15
+33,Meadowvale NHD,46W,6860,Glen Erin Dr,Medium Density,RM4,,1.25,3.088817,97,5510,59309.146360,0,0,5510,59309.146360,Townhouse,PCC,6,3,43,0,34,14,0.440800,16
+34,Meadowvale NHD,46W,2779,Gananoque Dr,Medium Density,RM4,,3.15,7.78382,180,12324,132654.431900,0,0,12324,132654.431900,Townhouse,PCC,11,2,120,0,38,15,0.391238,17
+35,Meadowvale NHD,46W,2825,Gananoque Dr,Medium Density,RM4,,2.04,5.04095,158,,,0,0,,,Townhouse,PCC,9,2,70,0,34,14,,18
+36,Meadowvale NHD,46W,6780,Formentera Ave,Medium Density,RM4,,2.44,6.029371,168,,,0,0,,,Townhouse,PCC,12,2,84,0,34,14,,19
+37,Meadowvale NHD,46W,67776797,Formentera Ave,Medium Density,RM4,,2.97,7.33903,144,11707,126013.099200,0,0,11707,126013.099200,Townhouse,PCC,14,2,103,0,35,14,0.394175,20
+39,Meadowvale NHD,46W,6779,Glen Erin Dr,Medium Density,RM4,,1.93,4.769134,140,7469,80395.646850,0,0,7469,80395.646850,Townhouse,PCC,9,2,64,0,33,13,0.386995,21
+40,Meadowvale NHD,46W,26702700,Battleford Rd,Medium Density,RM4,Battleford Townhouses ,2.64,6.523582,204,10593,114022.103000,0,0,10593,114022.103000,Townhouse,PCC,12,2,90,0,34,14,0.401250,22
+41,Meadowvale NHD,46W,6449,Glen Erin Dr,Medium Density,RM4,,1.34,3.311212,129,6455,69481.041700,0,0,6455,69481.041700,Townhouse,PCC,8,3,57,0,43,17,0.481716,23
+42,Meadowvale NHD,46W,6240,Montevideo Rd,Medium Density,RM4,,1.54,3.805423,117,7364,79265.436260,0,0,7364,79265.436260,Townhouse,PCC,4,3,52,0,34,14,0.478182,24
+43,Meadowvale NHD,46W,6100,Montevideo Rd,Medium Density,RM4,,2.14,5.288055,169,9757,105023.473900,0,0,9757,105023.473900,Townhouse,PCC,9,3,75,0,35,14,0.455935,25
+44,Meadowvale NHD,46W,6040,Montevideo Rd,Medium Density,RM4,,2.34,5.782266,180,,,0,0,,,Townhouse,PCC,9,3,81,0,35,14,,26
+46,Meadowvale NHD,46W,2617,Windwood Dr,Medium Density,RM4,,1.03,2.545185,77,3789,40784.456540,0,0,3789,40784.456540,Townhouse,PCC,4,2,34,0,33,13,0.367864,27
+48,Meadowvale NHD,46W,2755,Windwood Dr,Medium Density,RM4,,1.94,4.793844,153,7547,81235.231860,0,0,7547,81235.231860,Townhouse,PCC,3,3,68,0,35,14,0.389021,28
+49,Meadowvale NHD,46W,2881,Windwood Dr,Medium Density,RM4,,2.53,6.251766,194,10246,110287.026100,0,0,10246,110287.026100,Townhouse,PCC,8,2,86,0,34,14,0.404980,29
+50,Meadowvale NHD,46W,6152-6205,Townwood Crt,Medium Density,RM5,Townwood Court,1.34,3.311212,96,,,0,0,,,Townhouse,Freehold,6,2,48,0,36,14,,30
+51,Meadowvale NHD,46W,5730,Montevideo Rd,Medium Density,RM4,,1.64,4.052528,129,7159,77058.834630,0,0,7159,77058.834630,Townhouse,PCC,9,2,57,0,35,14,0.436524,31
+52,Meadowvale NHD,46W,5878,Montevideo Rd,Medium Density,RM4,,1.74,4.299634,146,6876,74012.647980,0,0,6876,74012.647980,Townhouse,PCC,11,3,60,0,34,14,0.395172,32
+53,Meadowvale NHD,46W,5610,Montevideo Rd,Medium Density,RM4,,2.34,5.782266,180,9104,97994.640370,0,0,9104,97994.640370,Townhouse,PCC,10,2,80,0,34,14,0.389060,33
+54,Meadowvale NHD,46W,5536,Montevideo Rd,Medium Density,RM4,,1.94,4.793844,151,8639,92989.422030,0,0,8639,92989.422030,Townhouse,PCC,7,2,67,0,35,14,0.445309,34
+55,Meadowvale NHD,46W,6520,Corfu Rd,Medium Density,RM4,The Winston Churchill Townhomes,2,4.942108,165,9944,107036.325100,0,0,9944,107036.325100,Townhouse,PCC,8,2,73,0,36,15,0.497200,35
+56,Meadowvale NHD,46W,2651,Aquitaine Ave,Medium Density,RM4,Meadow Lanes,2.53,6.251766,86,12511,134667.283100,0,0,12511,134667.283100,Townhouse,PCC,5,3,86,0,34,14,0.494506,36
+57,Meadowvale NHD,46W,6679,Shelter Bay Rd,Medium Density,RM4,,2.25,5.559871,176,10511,113139.462300,0,0,10511,113139.462300,Townhouse,PCC,3,2,78,0,35,14,0.467156,37
+58,Meadowvale NHD,46W,2701,Aquitaine Ave,Medium Density,RM4,,2.8,6.918951,138,11395,122654.759100,0,0,11395,122654.759100,Townhouse,PCC,11,2,97,0,35,14,0.406964,38
+59,Meadowvale NHD,46W,1-29,Bent Oak Cir,Low Density II,R3-8,,1.49,3.68187,58,,,0,0,,,Detached,PCC,,2,29,0,19,8,,39
+61,Meadowvale NHD,46W,"5525-5555/6520,6530",Montevideo Rd/Glen Erin Dr,Medium Density,RM4,Bristol Court Townhouses,1.3,3.21237,100,4680,50375.100720,0,0,4680,50375.100720,Townhouse,CDM,6,2,43,0,33,13,0.360000,40
+62,Meadowvale NHD,46W,631063306350,Montevideo Rd,Medium Density,RM4,Waterford Townhouses,1.22,3.014686,79,,,0,0,,,Townhouse,RNTL,5,2,34,0,28,11,,41
+64,Meadowvale NHD,46W,6680,Shelter Bay Rd,Medium Density,RM4,The Meadows Cooperative Homes ,1.11,2.74287,131,6532,70309.862800,0,0,6532,70309.862800,Townhouse,COOP-FED,3,3,61,0,55,22,0.588468,42
+70,Meadowvale NHD,46W,1-46,Neuchatel Pl,Low Density II,R3-8,,2.33,5.757555,92,,,0,0,,,Detached,PCC,,2,46,0,20,8,,43
+72,Meadowvale NHD,46W,1-36,Pierpont Pl,Low Density II,R3-8,,1.83,4.522028,72,,,0,0,,,Detached,PCC,12,2,36,0,20,8,,44
+88,Malton NHD,48E,7030,Netherbrae Rd,Medium Density,RM4,Woodbine Square,1.08,2.668738,58,6816,73366.813350,0,0,6816,73366.813350,Townhouse,PCC,4,2,46,0,43,17,0.631111,45
+89,Malton NHD,48E,7033,Netherbrae Rd,Medium Density,RM4,,1.12,2.76758,108,7112,76552.930840,0,0,7112,76552.930840,Townhouse,PCC,4,2,48,0,43,17,0.635000,46
+90,Malton NHD,48E,3860,Morning Star Dr,Medium Density,RM4,,1.23,3.039396,52,5449,58652.547820,0,0,5449,58652.547820,Townhouse,PCC,4,2,41,0,33,13,0.443008,47
+91,Malton NHD,48E,7450,Darcel Ave,Medium Density,RM4,,0.83,2.050975,32,8290,89232.817300,0,0,8290,89232.817300,Townhouse,PCC,3,2,27,0,33,13,0.998795,48
+92,Malton NHD,48E,7406,Darcel Ave,Medium Density,RM4,,0.91,2.248659,59,4552,48997.320190,0,0,4552,48997.320190,Townhouse,PCC,5,2,39,0,43,17,0.500220,49
+93,Malton NHD,48E,4020/7707,Brandon Gate Dr/Darcel Ave,Medium Density,RM4,,1.06,2.619317,82,4936,53130.661780,0,0,4936,53130.661780,Townhouse,PCC,5,3,36,0,34,14,0.465660,50
+95,Malton NHD,48E,3525,Brandon Gate Dr,Medium Density,RM4,,2.74,6.770687,228,12077,129995.746000,0,0,12077,129995.746000,Townhouse,PCC,11,3,101,0,37,15,0.440766,51
+96,Malton NHD,48E,7475,Goreway Dr,Medium Density,RM4,,1.92,4.744423,66,9165.500000,98656.620860,0,0,9165.500000,98656.620860,Townhouse,PCC,8,2,77,0,40,16,0.477370,52
+97,Malton NHD,48W,3430,Brandon Gate Dr,Medium Density,RM4,,0.96,2.372212,72,5065,54519.206230,0,0,5065,54519.206230,Townhouse,PCC,5,2,32,0,33,13,0.527604,53
+98,Malton NHD,48W,7560,Goreway Dr,Medium Density,RM4,Goreway Mews,0.86,2.125106,84,4296,46241.759120,0,0,4296,46241.759120,Townhouse,PCC,4,3,37,0,43,17,0.499535,54
+99,Malton NHD,48W,7500,Goreway Dr,Medium Density,RM4,,2.26,5.584582,122,11270,121309.270300,0,0,11270,121309.270300,Townhouse,PCC,11,3,97,0,43,17,0.498673,55
+100,Malton NHD,48W,7440,Goreway Dr,Medium Density,RM4,,0.92,2.27337,41,4066,43766.059730,0,0,4066,43766.059730,Townhouse,PCC,5,2,39,0,42,17,0.441957,56
+101,Malton CN,48W,3435/7255,Jolliffe Ave/Dooley Dr,Medium Density,RM4,,1.9,4.695002,162,12135,130620.052800,0,0,12135,130620.052800,Townhouse,PCC,9,3,75,0,39,16,0.638684,57
+103,Malton NHD,48E,3600,Morning Star Dr,Medium Density,RM4,,0.89,2.199238,118,3855,41494.874630,0,0,3855,41494.874630,Townhouse,PCC,4,2,32,0,36,15,0.433146,58
+105,East Credit NHD,45E,6050,Bidwell Tr,Medium Density,RM4,,1.93,4.769134,148,,,0,0,,,Townhouse,PCC,11,2,74,0,38,16,,59
+106,Malton NHD,48E,7555,Goreway Dr,Medium Density,RM9,Elder Garden Apartments,4.27,10.5514,340,21096,227075.454000,0,0,21096,227075.454000,Townhouse,RNTL,4,3,272,0,64,26,0.494052,60
+166,East Credit NHD,37W,906-972,Cardington St,Low Density II,RM5,Victory Estates,1,2.471054,80,5625,60546.996060,0,0,5625,60546.996060,Townhouse,Freehold,6,2,45,0,45,18,0.562500,61
+171,East Credit NHD,38E,5237-5270/5230-5255/911-1069,Cinnamon Rd/Akicante St/Blizzard Rd,Medium Density,RM5,Credit Woods,3,7.413161,262,18300,196979.560500,0,0,18300,196979.560500,Townhouse,Freehold,18,2,122,0,41,16,0.610000,62
+173,Applewood NHD,20,30503040,Constitution Blvd,Medium Density,RM9,San Tropez Building No. 1,1.76,4.349055,195,24867,267666.160200,0,0,24867,267666.160200,Townhouse,PCC,,4,155,0,88,36,1.412898,63
+175,Applewood NHD,20,1055,Dundas St E,Medium Density,RM9,San Tropez Building No. 3,0.88,2.174527,89,4366.700000,47002.767590,0,0,4366.700000,47002.767590,Townhouse,PCC,,4,64,0,73,29,0.496216,64
+176,Applewood NHD,20,3060/3055,Constitution Blvd/Tomken Rd,Medium Density,RM9,San Tropez Building No. 4,1.76,4.349055,169,20871,224653.574200,0,0,20871,224653.574200,Townhouse,PCC,2,4,131,0,74,30,1.185852,65
+181,East Credit NHD,38E,5156-5190,Dartmoore Crt,Medium Density,RM5,,0.57,1.408501,36,,,0,0,,,Townhouse,Freehold,3,2,18,0,32,13,,66
+182,Applewood NHD,20,1370,Silver Spear Rd,Medium Density,RM4,Forest Manor,1.62,4.003107,82,7965,85734.546420,0,0,7965,85734.546420,Townhouse,RNTL,8,2,64,0,40,16,0.491667,67
+183,Applewood NHD,20,1350,Winding Tr,Medium Density,RM4,,2.44,6.029371,124,11441,123149.899000,0,0,11441,123149.899000,Townhouse,RNTL,4,2,99,0,41,16,0.468893,68
+184,Applewood NHD,20,3070,Queen Frederica Dr,Medium Density,RM4,,1.56,3.854844,53,,,0,0,,,Townhouse,RNTL-PNP,8,2,63,0,40,16,,69
+185,East Credit NHD,38E,5016-5050,East Mill Rd,Medium Density,RM5,East Mill Townhouses,0.39,0.963711,32,2461,26489.983520,0,0,2461,26489.983520,Townhouse,Freehold,3,2,16,0,41,17,0.631026,70
+186,Applewood NHD,20,3150,Queen Frederica Dr,Medium Density,RM4,Quetico Court,0.44,1.087264,20,,,0,0,,,Townhouse,PCC,2,2,16,0,36,15,,71
+187,Applewood NHD,19,1400,Winding Tr,Medium Density,RM4,,1.24,3.064107,65,,,0,0,,,Townhouse,RNTL,2,2,50,0,40,16,,72
+188,Applewood NHD,19,1310,Gulleden Dr,Medium Density,RM4,,0.55,1.35908,35,,,0,0,,,Townhouse,PCC,1,2,23,0,42,17,,73
+189,Applewood NHD,19,3516,Havenwood Dr,Medium Density,RM4,,0.55,1.35908,30,,,0,0,,,Townhouse,RNTL,1,2,24,0,44,18,,74
+190,Applewood NHD,19,35153455,Havenwood Dr,Medium Density,RM4,,2.09,5.164502,98,,,0,0,,,Townhouse,RNTL,1,2,89,0,43,17,,75
+192,Applewood NHD,19,1539-1647,Williamsport Dr,Medium Density,RM4,Williamsport Townhouses,1,2.471054,24,,,0,0,,,Townhouse,RNTL,4,2,48,0,48,19,,76
+193,Applewood NHD,19,3468-3532,Fieldgate Dr,Medium Density,RM4,Fieldgate Townhouses,0.8,1.976843,59,,,0,0,,,Townhouse,RNTL,3,2,31,0,39,16,,77
+194,Applewood NHD,19,1560,Bloor St,Medium Density,RM4,1560 Bloor Street Townhouses,3.34,8.25332,178,15053,162029.143400,0,0,15053,162029.143400,Townhouse,RNTL,8,2,141,0,42,17,0.450689,78
+195,Applewood NHD,19,1856-1914,Kirkwall Cres,Medium Density,RM4,Kirkwall Townhouses,0.84,2.075685,38,,,0,0,,,Townhouse,PCC,3,2,30,0,36,14,,79
+196,Applewood NHD,19,3255-3297,Fieldgate Dr,Medium Density,RM4,Fieldgate Townhouses,0.63,1.556764,40,,,0,0,,,Townhouse,PCC,2,2,20,0,32,13,,80
+197,Applewood NHD,20,3665,Flamewood Dr,Medium Density,RM4,Applewood Hamlet,1.94,4.793844,87,,,0,0,,,Townhouse,PCC,3,2,67,0,35,14,,81
+198,Rathwood-Applewood CN,19,1415/1485,Gulleden Dr,Medium Density,RM4,,3.03,7.487293,259,11950,128628.729400,0,0,11950,128628.729400,Townhouse,PCC,11,3,115,0,38,15,0.394389,82
+200,Applewood NHD,20,1221,Dundix Rd,Medium Density,RM4,,5.73,14.159138,399,16818,181027.445300,0,0,16818,181027.445300,Townhouse,PCC,14,3,177,0,31,13,0.293508,83
+201,Applewood NHD,20,750,Burnhamthorpe Rd E,Medium Density,RM4,,1.23,3.039396,86,4923,52990.730950,0,0,4923,52990.730950,Townhouse,PCC,6,2,38,0,31,13,0.400244,84
+202,Applewood NHD,20,2982-3020,Rymal Rd,Medium Density,RM5,Rymal Road Townhouses,0.4,0.988422,36,,,0,0,,,Townhouse,Freehold,3,2,18,0,45,18,,85
+205,Applewood NHD,20,3055-3083/847-879,Haines Rd/Riley Crt,Medium Density,RM5,,0.75,1.85329,,,,0,0,,,Townhouse,Freehold,4,2,30,0,40,16,,86
+207,East Credit NHD,30,1111-1151,Eglinton Ave W,Medium Density,RM5,Roseborough Townhouses,0.71,1.754448,42,2900,31215.340190,0,0,2900,31215.340190,Townhouse,Freehold,3,2,21,0,30,12,0.408451,87
+208,Applewood NHD,20,118012001230,Gripsholm Rd,Medium Density,RM4,Gripsholm Townhouses,1.598,3.948744,96,5567,59922.689250,0,0,5567,59922.689250,Townhouse,PCC,3,2,57,0,36,14,0.348373,88
+210,East Credit NHD,37W,5201-5299,Fairford Cres,Medium Density,RM5,,1.5112,3.734257,130,9180.920000,98822.600360,0,0,9180.920000,98822.600360,Townhouse,Freehold,10,2,63,0,42,17,0.607525,89
+211,Applewood NHD,19,332033403360,Ponytrail Dr,Medium Density,RM4,Russet Homes Co-op,2.4,5.930529,80,,,0,0,,,Townhouse,COOP-FED,3,2,78,0,32,13,,90
+212,East Credit NHD,38E,5040,Fallingbrook Dr,Medium Density,RM4,,0.85,2.100396,86,,,0,0,,,Townhouse,RNTL-PRIVNP,6,3,43,0,51,20,,91
+213,Streetsville NHD,45W,59,Kenninghall Blvd,Low Density II,R3-46,,1.91,4.719713,90,,,0,0,,,Detached,PCC,,2,35,0,18,7,,92
+224,Rathwood NHD,28,640,Rathburn Rd E,Medium Density,RM4,,0.84,2.075685,77,4059,43690.712350,0,0,4059,43690.712350,Townhouse,PCC,5,2,34,0,40,16,0.483214,93
+225,Rathwood NHD,28,485,Meadows Blvd,Medium Density,RM4,Forestview Village,2.74,6.770687,198,10191,109695.011000,0,0,10191,109695.011000,Townhouse,PCC,9,2,84,0,31,12,0.371934,94
+226,East Credit NHD,30,835-859,Millworks Cres,Medium Density,RM5,Bradwick Development,0.35,0.864869,,,,0,0,,,Townhouse,Freehold,,2,13,0,37,15,,95
+227,Rathwood NHD,28,345,Meadows Blvd,Medium Density,RM4,,1.33,3.286502,99,5388,57995.949290,0,0,5388,57995.949290,Townhouse,PCC,3,2,44,0,33,13,0.405113,96
+228,Rathwood NHD,28,333,Meadows Blvd,Medium Density,RM4,Williamsburg Townhouses,3.44,8.500425,287,51816,557742.781800,0,0,51816,557742.781800,Townhouse,PCC-RNTL,13,2,127,0,37,15,1.506279,97
+229,Rathwood NHD,28,370,Rathburn Rd E,Medium Density,RM4,,2.24,5.535161,156,9271,99792.213410,0,0,9271,99792.213410,Townhouse,COOP-FED,13,2,82,0,37,15,0.413884,98
+231,East Credit NHD,38E,5026-5066/5036-5071/1065-1097,Moulin Rouge Cres/Warwickshire Way/Wilmington Dr,Medium Density,RM5-3,Manors of Sherwood,1.9,4.695002,130,,,0,0,,,Townhouse,Freehold,11,2,69,0,36,15,,99
+232,Rathwood NHD,28,4122-4144,Clevedon Dr,Low Density II,RM5-3,,0.24,0.593053,16,1216,13088.915060,0,0,1216,13088.915060,Townhouse,Freehold,2,2,8,0,33,13,0.506667,100
+233,Rathwood NHD,28,4137-4145,Dursley Cres,Low Density II,RM5-3,,0.15,0.370658,10,700,7534.737287,0,0,700,7534.737287,Townhouse,Freehold,1,2,5,0,33,13,0.466667,101
+234,Rathwood NHD,28,4079-4099,Dursley Cres,Low Density II,RM5-3,,0.22,0.543632,14,975,10494.812650,0,0,975,10494.812650,Townhouse,Freehold,2,2,7,0,32,13,0.443182,102
+235,Rathwood NHD,28,3976-4156,Bishopstoke Lane,Low Density II,RM5-3,,1.27,3.138238,96,,,0,0,,,Townhouse,Freehold,7,2,48,0,38,15,,103
+240,Rathwood NHD,28,4267-4271,Ryeford Crt,Low Density II,RM5-3,,0.15,0.370658,6,409,4402.439358,0,0,409,4402.439358,Townhouse,Freehold,1,2,3,0,20,8,0.272667,104
+241,Rathwood NHD,28,425,Meadows Blvd,Medium Density,RM4,,2.24,5.535161,190,8847,95228.315400,0,0,8847,95228.315400,Townhouse,COOP-FED,10,2,81,0,36,15,0.394955,105
+256,East Credit NHD,37W,833,Scollard Crt,Medium Density,RM4,The Village of Lindenview,3.39,8.376872,,,,0,0,,,Townhouse,PCC,19,2,127,0,37,15,,106
+266,Mississauga Valleys NHD,21,1250,Mississauga Valley Blvd,Medium Density,RM9,,3.88,9.587689,233,25055,269689.775300,0,0,25055,269689.775300,Townhouse,PCC,17,3,186,0,48,19,0.645747,107
+267,East Credit NHD,38E,1485/1484,Torrington Dr,Medium Density,RM4,,2.71,6.696556,187,8787,94582.480770,0,0,8787,94582.480770,Townhouse,PCC,12,2,80,0,30,12,0.324244,108
+268,Mississauga Valleys NHD,21,600,Silver Creek Blvd,Medium Density,RM4,,2.25,5.559871,110,9327,100394.992400,0,0,9327,100394.992400,Townhouse,PCC,10,2,80,0,36,14,0.414533,109
+269,Mississauga Valleys NHD,21,3225,Cliff Rd N,Medium Density,RM4,,1.72,4.250213,102,6204,66779.300180,0,0,6204,66779.300180,Townhouse,RNTL-PNP,9,2,69,0,40,16,0.360698,110
+270,Mississauga Valleys NHD,21,400,Mississauga Valley Blvd,Medium Density,RM4,,3.89,9.612399,240,17741,190962.534600,0,0,17741,190962.534600,Townhouse,PCC,16,3,160,0,41,17,0.456067,111
+271,DT Fairview,21,215,Mississauga Valley Blvd,Medium Density,RM4,,4.19,10.353715,209,17829,191909.758700,0,0,17829,191909.758700,Townhouse,PCC,10,2,161,0,38,16,0.425513,112
+272,DT Fairview,21,180,Mississauga Valley Blvd,Medium Density,RM4,The Colony,5.75,14.208559,293,28657,308461.380600,0,0,28657,308461.380600,Townhouse,PCC,26,3,216,0,38,15,0.498383,113
+273,DT Fairview,21,41,Mississauga Valley Blvd,Medium Density,RM4,,3.26,8.055635,138,13922,149855.160700,0,0,13922,149855.160700,Townhouse,PCC,10,2,110,0,34,14,0.427055,114
+274,Mississauga Valleys NHD,21,3400,Rhonda Valley,Medium Density,RM4,,1.65,4.077239,87,7674,82602.248490,0,0,7674,82602.248490,Townhouse,PCC,6,2,68,0,41,17,0.465091,115
+275,Mississauga Valleys NHD,21,3395,Cliff Rd N,Medium Density,RM4,Parklane Circle,3.21,7.932083,302,1601,17233.020570,0,0,1601,17233.020570,Townhouse,PCC,13,3,134,0,42,17,0.049875,116
+276,Mississauga Valleys NHD,21,400,Bloor St,Medium Density,RM4,,1.24,3.064107,386,12303,132428.389800,0,0,12303,132428.389800,Townhouse,PCC,11,3,104,0,84,34,0.992177,117
+278,Mississauga Valleys NHD,21,405,Hyacinthe Blvd,Medium Density,RM4,Westwind Gardens,2.71,6.696556,136,13296,143116.952800,0,0,13296,143116.952800,Townhouse,PCC,12,3,112,0,41,17,0.490627,118
+279,Mississauga Valleys NHD,21,1180,Mississauga Valley Blvd,Medium Density,RM4,,3.45,8.525136,224,17257,185752.801900,0,0,17257,185752.801900,Townhouse,PCC,12,2,118,0,34,14,0.500203,119
+281,Mississauga Valleys NHD,21,3640-3658,Cawthra Rd,Medium Density,RM4,Cawthra Townhouses,0.28,0.691895,13,1072,11538.911960,0,0,1072,11538.911960,Townhouse,RNTL,1,2,10,0,36,14,0.382857,120
+282,Mississauga Valleys NHD,21,3375-3403,Silverado Dr,Medium Density,RM5-1,Silverado Townhouses,0.44,1.087264,34,1935,20828.166640,0,0,1935,20828.166640,Townhouse,Freehold,1,3,15,0,34,14,0.439773,121
+283,Mississauga Valleys NHD,21,3345,Silverado Dr,Medium Density,RM4,,2.12,5.238634,178,9321,100330.408900,0,0,9321,100330.408900,Townhouse,PCC,8,2,73,0,34,14,0.439670,122
+285,East Credit NHD,30,1228-1276,Vanrose St,Medium Density,RM5,,0.45,1.111974,34,3200,34444.513310,0,0,3200,34444.513310,Townhouse,Freehold,3,2,17,0,38,15,0.711111,123
+296,East Credit NHD,30,4612-4664/4678-4688,Wayside Crt/Penhallow Rd,Medium Density,RM5,Bradwick Development,0.64,1.581474,62,3675,39557.370760,0,0,3675,39557.370760,Townhouse,Freehold,5,2,21,0,33,13,0.574219,124
+298,Rathwood NHD,26,4156,Fieldgate Dr,Medium Density,RM4,Rockwood Village Block D,1.15,2.841712,90,5756,61957.068320,0,0,5756,61957.068320,Townhouse,PCC,5,3,40,0,35,14,0.500522,125
+299,Rathwood NHD,26,4230,Fieldgate Dr,Medium Density,RM4,,1.24,3.064107,98,6169,66402.563320,0,0,6169,66402.563320,Townhouse,PCC,5,3,43,0,35,14,0.497500,126
+300,Rathwood NHD,26,4165,Fieldgate Dr,Medium Density,RM4,Rockwood Village Block C,3.27,8.080346,258,16383,176345.144200,0,0,16383,176345.144200,Townhouse,PCC,11,3,113,0,35,14,0.501009,127
+301,Rathwood NHD,26,1755,Rathburn Rd E,Medium Density,RM4,,3.73,9.217031,286,18367,197700.742500,0,0,18367,197700.742500,Townhouse,PCC,17,3,127,0,34,14,0.492413,128
+302,Rathwood NHD,26,1764,Rathburn Rd E,Medium Density,RM4,Rockwood Village Block B,1.34,3.311212,104,6489,69847.014650,0,0,6489,69847.014650,Townhouse,PCC,4,3,46,0,34,14,0.484254,129
+303,Rathwood NHD,26,1855,Maple Ridge Dr,Medium Density,RM4,,1.63,4.027818,97,,,0,0,,,Townhouse,PCC,3,3,43,0,26,11,,130
+304,Rathwood NHD,26,1951,Rathburn Rd E,Medium Density,RM4,Rathburn Place,6.63,16.383087,516,33351,358987.176100,0,0,33351,358987.176100,Townhouse,PCC,21,3,228,0,34,14,0.503032,131
+305,Rathwood NHD,26,2120,Rathburn Rd E,Medium Density,RM4,Rathburn Ridge,4.84,11.9599,376,29632,318956.193300,0,0,29632,318956.193300,Townhouse,PCC,14,2,167,0,35,14,0.612231,132
+306,DT Cooksville,21,3175,Kirwin Ave,Medium Density,RM4,,4,9.884215,255,20013,215418.139000,0,0,20013,215418.139000,Townhouse,PCC,10,3,169,0,42,17,0.500325,133
+307,DT Hospital,14,2145,Sherobee Rd,Medium Density,RM4,,2.64,6.523582,136,13137,141405.491100,0,0,13137,141405.491100,Townhouse,PCC,10,3,108,0,41,17,0.497614,134
+308,Cooksville NHD (East),14,2075,Asta Dr,Medium Density,RM4,Astra Park,1.15,2.841712,102,4966,53453.579100,0,0,4966,53453.579100,Townhouse,PCC,4,3,45,0,39,16,0.431826,135
+319,Hurontario NHD,37W,540-599,Ashprior Ave,Medium Density,RM5,,1.55,3.830133,94,,,0,0,,,Townhouse,Freehold,6,2,47,0,30,12,,136
+324,Hurontario NHD,37W,705-818,Ashprior Ave,Medium Density,RM5,,2.25,5.559871,172,12040,129597.481300,0,0,12040,129597.481300,Townhouse,Freehold,10,2,86,0,38,15,0.535111,137
+332,Hurontario NHD,36W,441-489/460-484,Barondale Dr/Dalmuir Mews,Low Density II,RM5,,0.85,2.100396,72,,,0,0,,,Townhouse,Freehold,4,2,36,0,42,17,,138
+354,Hurontario NHD,36W,45-85/60,Bristol Rd E/Barondale Dr,Medium Density,RA1-16,Lakeview,5.44,13.442533,666,29343,315845.423200,0,0,29343,315845.423200,Townhouse,PCC,20,3,310,0,57,23,0.539393,139
+361,East Credit NHD,38E,1455,Bristol Rd W,Medium Density,RM4,Labourers Local 183 Non Profit,2,4.942108,80,8400,90416.847440,0,0,8400,90416.847440,Townhouse,RNTL-PRIVNP,13,2,69,0,34,14,0.420000,140
+371,Erin Mills NHD,25,3058,Fifth Line West,Medium Density,RM4,Gran Columbia,1.761,4.351526,154,7978,85874.477250,0,0,7978,85874.477250,Townhouse,RNTL-PNP,13,2,77,0,44,18,0.453038,141
+373,Erin Mills NHD,25,3100,Fifth Line West,Medium Density,RM4,,1.712,4.230444,146,8534,91859.211440,0,0,8534,91859.211440,Townhouse,PCC,11,3,73,0,43,17,0.498481,142
+374,Erin Mills NHD,25,3500,Glen Erin Dr,Medium Density,RM4,,1.63,4.027818,124,7128,76725.153400,0,0,7128,76725.153400,Townhouse,PCC,8,2,55,0,34,14,0.437301,143
+375,Erin Mills NHD,25,3339,Council Ring Rd,Medium Density,RM4,The Pines,2.43,6.004661,187,13000,139930.835300,0,0,13000,139930.835300,Townhouse,PCC,11,2,83,0,34,14,0.534979,144
+376,Erin Mills NHD,25,3360,Council Ring Rd,Medium Density,RM4,The Barrington,1.88,4.645581,144,8196,88221.009720,0,0,8196,88221.009720,Townhouse,PCC,8,2,64,0,34,14,0.435957,145
+378,Erin Mills NHD,25,33503351,Hornbeam Cres,Medium Density,RM4,Hornbeam Townhouses,1.74,4.299634,172,,,0,0,,,Townhouse,PCC,11,2,87,0,50,20,,146
+380,South Common CN,25,2300,South Millway,Medium Density,RM4,Midwich Co-op,2.84,7.017793,356,17279,185989.608000,0,0,17279,185989.608000,Townhouse,COOP-FED,15,3,162,0,57,23,0.608415,147
+381,Erin Mills NHD,25,2288,The Collegeway,Medium Density,RM4,Brookmede Square,2.24,5.535161,186,9813,105626.252900,0,0,9813,105626.252900,Townhouse,PCC,9,2,83,0,37,15,0.438080,148
+383,Erin Mills NHD,25,2024-2166,Millway Gate,Medium Density,RM5-40,Millway Gate,2.66,6.573003,38,,,0,0,,,Townhouse,Freehold,4,2,19,0,7,3,,149
+384,Erin Mills NHD,25,2020,South Millway,Medium Density,RM4,,2.33,5.757555,167,9254,99609.226930,0,0,9254,99609.226930,Townhouse,PCC,8,2,74,0,32,13,0.397167,150
+385,Erin Mills NHD,24,3330,South Millway,Medium Density,RM4,Peel Non-Profit Springmill Terrace,2.19,5.411608,173,,,0,0,,,Townhouse,RNTL-PNP,11,2,75,0,34,14,,151
+386,Erin Mills NHD,24,3280,South Millway,Medium Density,RM4,Peel Non-Profit Springmill Terrace,1.64,4.052528,129,5723,61601.859280,0,0,5723,61601.859280,Townhouse,RNTL-PNP,8,2,56,0,34,14,0.348963,152
+387,Erin Mills NHD,24,3265,South Millway,Medium Density,RM4,Millway Village,3.52,8.698109,330,12892,138768.333000,0,0,12892,138768.333000,Townhouse,PCC,17,2,85,0,24,10,0.366250,153
+388,Erin Mills NHD,24,3061,Sir Johns Homestead,Medium Density,RM4,,1.74,4.299634,61,,,0,0,,,Townhouse,RNTL,8,2,61,0,35,14,,154
+389,Erin Mills NHD,32,2736,Folkway Dr,Medium Density,RM4,Terra Cotta,2.34,5.782266,180,8494,91428.655020,0,0,8494,91428.655020,Townhouse,COOP-FED,7,2,80,0,34,14,0.362991,155
+390,Erin Mills NHD,32,41712676,"Glen Erin Dr, Folkway Dr",Medium Density,RM4,Village Hill Homes,2.8,6.918951,221,,,0,0,,,Townhouse,PCC,12,2,97,0,35,14,,156
+391,Erin Mills NHD,25,3140,Fifth Line West,Medium Density,RM4,Fifth Line Townhouses,0.8246,2.037631,70,5351,57597.684600,0,0,5351,57597.684600,Townhouse,PCC,5,3,35,0,42,17,0.648921,157
+392,South Common CN,25,2333,South Millway,Medium Density,RM4,Ahneen Co-operative Homes Inc,2.146,5.302881,134,6177,66488.674600,0,0,6177,66488.674600,Townhouse,COOP-ROP,12,2,60,0,28,11,0.287838,158
+393,Erin Mills NHD,24,1735,The Collegeway,Medium Density,RM4,Townmanors of Sawmill Valley,1.23,3.039396,48,,,0,0,,,Townhouse,PCC,3,2,24,0,20,8,,159
+397,Erin Mills NHD,32,2685-2724,Jerring Mews,Low Density II,RM5,Jerring Mews Townhouses,1.09,2.693449,91,5066,54529.970140,0,0,5066,54529.970140,Townhouse,Freehold,4,2,35,0,32,13,0.464771,160
+398,Erin Mills NHD,32,4111,Arbour Green Dr,Medium Density,RM4,Arbour Green Village,1.53,3.780712,118,6567,70686.599660,0,0,6567,70686.599660,Townhouse,PCC,6,2,51,0,33,13,0.429216,161
+399,Erin Mills NHD,31,2066-2108,Farrier Mews,Low Density II,RM5,Townwood Homes,0.64,1.581474,58,3475,37404.588670,0,0,3475,37404.588670,Townhouse,Freehold,2,2,16,0,25,10,0.542969,162
+400,South Common CN,25,"2433, 2401/3477",The Collegeway/Glen Erin Dr,Medium Density,RM4,Glenway Court,2.86,7.067214,214,,,0,0,,,Townhouse,RNTL-PNP,10,3,110,0,38,16,,163
+401,South Common CN,25,2301,Burnhamthorpe Rd W,Medium Density,RM4,Forster Terrace,2.33,5.757555,136,8806,94786.995070,0,0,8806,94786.995070,Townhouse,RNTL-PNP,5,2,79,0,34,14,0.377940,164
+402,South Common CN,25,2251,Burnhamthorpe Rd W,Medium Density,RM4,Forster Terrace,2.14,5.288055,87,,,0,0,,,Townhouse,RNTL-PNP,8,2,73,0,34,14,,165
+411,Hurontario NHD,36W,99-119,Bristol Rd E,Medium Density,RA1-16,Lakeview,4.05,10.007768,675,20289,218388.978300,0,0,20289,218388.978300,Townhouse,PCC,,3,230,0,57,23,0.500963,166
+412,Streetsville NHD,39E,336,Queen St S,Low Density II,R3-47,Princess Mews,1.74,4.299634,72,,,0,0,,,Detached,PCC,,2,36,0,21,8,,167
+414,Streetsville NHD,45W,55,Falconer Dr,Low Density II,R3-50,,2.83,6.993082,112,,,0,0,,,Detached,PCC,,2,48,0,17,7,,168
+415,Streetsville NHD,45W,98,Falconer Dr,Medium Density,RM4,,2.22,5.485739,96,8445,90901.223410,0,0,8445,90901.223410,Townhouse,PCC,10,2,77,0,35,14,0.380405,169
+416,Streetsville NHD,45W,120,Falconer Dr,Medium Density,RM4,,1.4,3.459475,112,,,0,0,,,Townhouse,PCC,8,2,48,0,34,14,,170
+417,Streetsville NHD,45W,6540,Falconer Dr,Medium Density,RM4,Victoria Wood,4.43,10.946768,214,15226,163891.299900,0,0,15226,163891.299900,Townhouse,PCC,20,2,142,0,32,13,0.343702,171
+418,Streetsville NHD,45W,6650,Falconer Dr,Medium Density,RM4,,3.73,9.217031,180,,,0,0,,,Townhouse,PCC,23,2,119,0,32,13,,172
+419,Streetsville NHD,45W,6699,Falconer Dr,Medium Density,RM4,,1.94,4.793844,132,9114,98102.279480,0,0,9114,98102.279480,Townhouse,PCC,8,2,86,0,44,18,0.469794,173
+420,Streetsville NHD,45W,6730/6433,Falconer Dr/Charing Dr,Medium Density,RM4,,2.66,6.573003,128,6788,73065.423860,0,0,6788,73065.423860,Townhouse,PCC,16,2,85,0,32,13,0.255188,174
+422,Streetsville NHD,45W,121,Falconer Dr,Medium Density,RM4,,0.83,2.050975,62,3666,39460.495560,0,0,3666,39460.495560,Townhouse,PCC,4,2,27,0,33,13,0.441687,175
+423,Streetsville NHD,38W,24,Reid Dr,Medium Density,RM4,The Terrace,0.55,1.35908,53,2530,27232.693340,0,0,2530,27232.693340,Townhouse,PCC,2,4,23,0,42,17,0.460000,176
+424,Streetsville NHD,45W,6555,Falconer Dr,Medium Density,RM4,Tecumseh Co-operative,2.99,7.388451,180,11543,124247.817900,0,0,11543,124247.817900,Townhouse,COOP-FED,17,3,113,0,38,15,0.386054,177
+442,Sheridan NHD,18,2445,Homelands Dr,Medium Density,RM4,,1.25,3.088817,75,6800,73194.590790,0,0,6800,73194.590790,Townhouse,PCC,7,3,60,0,48,19,0.544000,178
+443,Sheridan NHD,18,2605,Woodchester Dr,Medium Density,RM4,Woodchester Mews,1.75,4.324344,184,9379,100954.715700,0,0,9379,100954.715700,Townhouse,PCC,8,2,92,0,53,21,0.535943,179
+444,Sheridan NHD,18,26162626,Woodchester Dr,Medium Density,RM4,,1.71,4.225502,90,8619,92774.143820,0,0,8619,92774.143820,Townhouse,RNTL,4,2,71,0,42,17,0.504035,180
+449,Sheridan NHD,18,2125-2165,Sheridan Park Dr,High Density,RA1-18,Brooks Cooperative Homes,2,4.942108,110,10361,111524.875800,0,0,10361,111524.875800,Townhouse,COOP-FED,5,3,85,0,42,17,0.518050,181
+461,Erindale NHD,16,1051,Cedarglen Gate,Medium Density,RM4,,1.79,4.423186,138,8939,96218.595150,0,0,8939,96218.595150,Townhouse,PCC,8,3,61,0,34,14,0.499385,182
+462,Erindale NHD,16,900,Dundas St W,Medium Density,RM4,Partridge Place,0.83,2.050975,59,7747,83388.013950,0,0,7747,83388.013950,Townhouse,PCC,5,3,26,0,31,13,0.933373,183
+463,East Credit NHD,38E,1400,Bristol Rd W,Medium Density,RM4,Fletchers Creek (Tornat Co-Op),2.3,5.683424,79,8454,90998.098610,0,0,8454,90998.098610,Townhouse,COOP-ROP,12,2,79,0,34,14,0.367565,184
+464,Erindale NHD,17,1432-1488,Credit Woodlands Crt,Medium Density,RM5-2,Valley Square,0.595,1.470277,42,3900,41979.250600,0,0,3900,41979.250600,Townhouse,Freehold,3,3,20,0,34,14,0.655462,185
+465,Erindale NHD,16,1219-1274,Cornerbrook Pl,Medium Density,RM5,Mississauga Place,1,2.471054,90,7000,75347.372870,0,0,7000,75347.372870,Townhouse,Freehold,6,3,45,0,45,18,0.700000,186
+466,Erindale NHD,16,1021/1020,Cedarglen Gate,Medium Density,RM4,Cedarglen Place,1.26,3.113528,98,5262,56639.696580,0,0,5262,56639.696580,Townhouse,PCC,5,3,42,0,33,13,0.417619,187
+469,Erindale NHD,"16, 17",1284-1322/2608-2631/1346-1420,Wiltshire Lane/Bridlewood Crt/Credit Woodlands Crt,Medium Density,RM5-2,Mississauga Place ,2.1449,5.300163,176,13600,146389.181600,0,0,13600,146389.181600,Townhouse,COOP-FED,13,3,88,0,41,17,0.634062,188
+473,Lakeview NHD,6,1616,Haig Blvd,Medium Density,RM4,,1.15,2.841712,113,,,0,0,,,Townhouse,PCC,4,3,50,0,43,18,,189
+485,Lakeview NHD,6,1211-1241,Parkwest Pl,High Density,RM9-2,The West Village,0.81,2.001554,109,6820,73409.869000,0,0,6820,73409.869000,Townhouse,PCC,4,2,56,0,69,28,0.841975,190
+487,Lakeview NHD,6,1194-1246,Upper Village Dr,High Density,RM9-2,The West Village,0.557,1.376377,56,3421,36823.337510,0,0,3421,36823.337510,Townhouse,PCC,4,3,24,0,43,17,0.614183,191
+490,Lakeview NHD,6,1194-1246,West Shore Dr,High Density,RM9-2,The West Village,0.4842,1.196484,56,3225,34713.611070,0,0,3225,34713.611070,Townhouse,PCC,4,3,24,0,50,20,0.666047,192
+492,Lakeview NHD,6,1223-1277,Woodhill Crt,Medium Density,RM5-10,,0.34,0.840158,,,,0,0,,,Townhouse,COOP-FED,4,3,16,0,47,19,,193
+497,DT Fairview,22,60,Hanson Rd,Medium Density,RM4,Hampton Oaks,4.16,10.279584,327,18580,199993.455400,0,0,18580,199993.455400,Townhouse,PCC,19,3,145,0,35,14,0.446635,194
+499,DT Fairview,22,2-22,Hanson Rd,Medium Density,RM5,Hanson Road Townhouses,0.29,0.716606,22,2037,21926.085510,0,0,2037,21926.085510,Townhouse,Freehold,4,2,11,0,38,15,0.702414,195
+520,Mineola NHD,7,20,Mineola Rd E,Medium Density,RM4,Craigie Orchard,3.78,9.340583,176,20089,216236.196200,0,0,20089,216236.196200,Townhouse,PCC,16,2,102,0,27,11,0.531455,196
+521,Mineola NHD,7,150,South Service Rd,Medium Density,RM4,Colonial Woods,1.94,4.793844,113,10060,108284.938700,0,0,10060,108284.938700,Townhouse,PCC,6,2,48,0,25,10,0.518557,197
+522,Clarkson - Lorne Park NHD,3,915,Inverhouse Dr,Medium Density,RM4,,2.14,5.288055,202,10270,110545.359900,0,0,10270,110545.359900,Townhouse,PCC,5,3,85,0,40,16,0.479907,198
+523,Clarkson - Lorne Park NHD,11,2687,Bromsgrove Rd,Medium Density,RM4,,0.49,1.210816,39,1216,13088.915060,0,0,1216,13088.915060,Townhouse,PCC,2,2,17,0,35,14,0.248163,199
+524,Clarkson - Lorne Park NHD,11,2688,Bromsgrove Rd,Medium Density,RM4,,0.52,1.284948,43,1356,14595.862520,0,0,1356,14595.862520,Townhouse,PCC,2,2,19,0,37,15,0.260769,200
+525,Clarkson - Lorne Park NHD,11,2395,Bromsgrove Rd,Medium Density,RM4,King Arthurs Court,1.94,4.793844,100,,,0,0,,,Townhouse,PCC,9,3,79,0,41,16,,201
+526,Clarkson - Lorne Park NHD,11,2315,Bromsgrove Rd,Medium Density,RM4,,3.4,8.401583,178,16953,182480.573200,0,0,16953,182480.573200,Townhouse,PCC,13,3,142,0,42,17,0.498618,202
+527,Clarkson - Lorne Park NHD,11,2340,Bromsgrove Rd,Medium Density,RM4,Seagrove Gardens,1.67,4.12666,86,7935,85411.629100,0,0,7935,85411.629100,Townhouse,PCC,10,3,66,0,40,16,0.475150,203
+528,Clarkson - Lorne Park NHD,11,2380,Bromsgrove Rd,Medium Density,RM4,,1.74,4.299634,167,8602,92591.157350,0,0,8602,92591.157350,Townhouse,PCC,8,2,74,0,43,17,0.494368,204
+529,Clarkson - Lorne Park NHD,11,2440,Bromsgrove Rd,Medium Density,RM4,,4.25,10.501979,243,,,0,0,,,Townhouse,PCC,13,3,180,0,42,17,,205
+531,Clarkson Village CN,10,1160,Walden Cir,Medium Density,RM4,Walden Spinney,0.89,2.199238,42,2804.760000,30190.185360,0,0,2804.760000,30190.185360,Townhouse,PCC,2,3,18,0,20,8,0.315142,206
+534,Clarkson - Lorne Park NHD,10,969-1039/1438-1454,Zante Cres/Zante Crt,Medium Density,RM5,,0.65,1.606185,126,3265,35144.167490,0,0,3265,35144.167490,Townhouse,Freehold,0,2,63,0,97,39,0.502308,207
+537,Clarkson - Lorne Park NHD,10,1401-1502,Andros Blvd,Medium Density,RM5-3,,1.14,2.817001,102,4895,52689.341460,0,0,4895,52689.341460,Townhouse,Freehold,6,2,52,0,46,18,0.429386,208
+539,Clarkson - Lorne Park NHD,10,1422-1434,Lefkas Crt,Medium Density,RM5-3,,0.54,1.334369,8,1841,19816.359060,0,0,1841,19816.359060,Townhouse,Freehold,1,2,4,0,7,3,0.340926,209
+540,Clarkson - Lorne Park NHD,10,1069-1270,Kos Blvd,Medium Density,RM5-3,,1.59,3.928976,100,5010,53927.191150,0,0,5010,53927.191150,Townhouse,Freehold,6,3,50,0,31,13,0.315094,210
+545,Clarkson - Lorne Park NHD,10,1394-1414,Nesdale Crt,Medium Density,RM5-3,,0.25,0.617763,22,1443,15532.322720,0,0,1443,15532.322720,Townhouse,Freehold,1,2,11,0,44,18,0.577200,211
+546,Clarkson - Lorne Park NHD,9,993-1075,Raintree Lane,Medium Density,RM5-3,,0.802,1.981785,66,,,0,0,,,Townhouse,Freehold,5,2,33,0,41,17,,212
+550,Clarkson - Lorne Park NHD,9,624-658,Sweetwater Pl,Medium Density,RM5-3,,0.34,0.840158,22,,,0,0,,,Townhouse,Freehold,2,2,11,0,32,13,,213
+551,Clarkson - Lorne Park NHD,9,1076-1100,Bordeaux Crt,Medium Density,RM5-3,,0.35,0.864869,24,1309,14089.958730,0,0,1309,14089.958730,Townhouse,Freehold,2,2,12,0,34,14,0.374000,214
+552,Clarkson - Lorne Park NHD,9,783-855,Sweetwater Cres,Medium Density,RM5-3,,0.81,2.001554,62,3948,42495.918300,0,0,3948,42495.918300,Townhouse,Freehold,1,2,31,0,38,15,0.487407,215
+556,Clarkson - Lorne Park NHD,11,2170,Bromsgrove Rd,High Density,RM9,The Bromsgate,3.79,9.365294,279,24600,264792.196100,0,0,24600,264792.196100,Townhouse,PCC,7,4,186,0,49,20,0.649077,216
+561,Clarkson - Lorne Park NHD,9,1100,Queen St W,Medium Density,RM4,Lorne Park Woods Estates,1.32,3.261791,163,5596,60234.842650,0,0,5596,60234.842650,Townhouse,PCC,5,3,37,0,28,11,0.423939,217
+569,Hurontario NHD,36W,36,Clansman Tr,Medium Density,RM4,Sandalwood,0.29,0.716606,37,1972,21226.431330,0,0,1972,21226.431330,Townhouse,PCC,2,3,16,0,55,22,0.680000,218
+576,Hurontario NHD,37W,666,Constellation Dr,Medium Density,RM4,,1.53,3.780712,122,6596,70998.753060,0,0,6596,70998.753060,Townhouse,PCC,8,2,53,0,35,14,0.431111,219
+584,Hurontario NHD,37E,5236-5252,Fairwind Dr,Medium Density,RM5,,0.22,0.543632,18,,,0,0,,,Townhouse,Freehold,1,2,9,0,41,17,,220
+657,Port Credit NHD (West),9,1050,Shawnmarr Rd,Medium Density,RM4-22,Balsam Woods,3.82,9.439426,420,,,0,0,,,Townhouse,PCC,14,3,163,0,43,17,,221
+658,Hurontario NHD,36W,5303-5344/60-66,Ferret Crt/Clansman Tr,Medium Density,RM5,,0.613,1.514756,44,4620,49729.266090,0,0,4620,49729.266090,Townhouse,Freehold,5,3,22,0,36,15,0.753670,222
+664,Hurontario NHD,36W,235,Forum Dr,Medium Density,RM4,Villa Esperanza Non-Profit,2.318,5.727903,235,10764,115862.731700,0,0,10764,115862.731700,Townhouse,RNTL-PRIVNP,18,3,102,0,44,18,0.464366,223
+668,Hurontario NHD,37E,249-301,Hollymount Dr,Medium Density,RM5,,0.7457,1.842665,81,3386.760000,36454.781220,0,0,3386.760000,36454.781220,Townhouse,Freehold,4,2,35,0,47,19,0.454172,224
+669,Erin Mills NHD,24,3380,South Millway,Medium Density,RM4,Collegeway Gardens,2.31,5.708134,182,,,0,0,,,Townhouse,PCC,11,2,79,0,34,14,,225
+672,Hurontario NHD,37W,5270-5317,Longhouse Cres,Medium Density,RM5,,0.49,1.210816,32,2348,25273.661640,0,0,2348,25273.661640,Townhouse,Freehold,3,2,16,0,33,13,0.479184,226
+673,UTM SPA,24,3349,Mississauga Rd,Institutional,I-5,Erindale College Student,1.56,3.854844,,2638,28395.195660,0,0,2638,28395.195660,Townhouse,Residential Institution,11,2,246,0,158,64,0.169103,227
+683,Hurontario NHD,36W,436-456,Nahani Way,Medium Density,RM5,,0.28,0.691895,22,,,0,0,,,Townhouse,Freehold,1,2,11,0,39,16,,228
+684,Meadowvale NHD,46W,6260,Montevideo Rd,Medium Density,RM4,,2.31,5.708134,184,9142,98403.668970,0,0,9142,98403.668970,Townhouse,RNTL-PRIVNP,12,3,80,0,35,14,0.395758,229
+685,Meadowvale NHD,54W,7340,Copenhagen Rd,Medium Density,RM4,,1.84,4.546739,142,,,0,0,,,Townhouse,PCC,9,3,63,0,34,14,,230
+686,East Credit NHD,30,4649-4663,Penhallow Rd,Medium Density,RM5,Trengrove Development,2.5,6.177635,16,1500,16145.865620,0,0,1500,16145.865620,Townhouse,Freehold,1,2,8,0,3,1,0.060000,231
+687,Hurontario NHD,37W,5245-5379,Richborough Dr,Medium Density,RM5,,2.52,6.227056,188,,,0,0,,,Townhouse,Freehold,12,2,94,0,37,15,,232
+689,Erin Mills NHD,32,2766,Folkway Dr,Medium Density,RM4,Folkway Woods of Erin Mills,2.97,7.33903,236,13062,140598.197800,0,0,13062,140598.197800,Townhouse,PCC,19,2,102,0,34,14,0.439798,233
+690,Erin Mills NHD,24,3460,South Millway,Medium Density,RM4,,1.43,3.533607,111,6021,64809.504580,0,0,6021,64809.504580,Townhouse,PCC,8,2,48,0,34,14,0.421049,234
+691,Erin Mills NHD,25,2155,South Millway,Medium Density,RM4,Daniels Townhouses,2.63,6.498872,190,13200,142083.617400,0,0,13200,142083.617400,Townhouse,PCC,10,2,82,0,31,13,0.501901,235
+693,Hurontario NHD,37W,5676-5701,Shillington Dr,Low Density II,RM5,,0.54,1.334369,46,3800,40902.859560,0,0,3800,40902.859560,Townhouse,Freehold,3,2,23,0,43,17,0.703704,236
+694,Hurontario NHD,37W,550,Steddick Crt,Medium Density,RM4,,1.24,3.064107,134,6049,65110.894070,0,0,6049,65110.894070,Townhouse,PCC,6,2,52,0,42,17,0.487823,237
+695,Mississauga Valleys NHD,21,725,Vermouth Ave,Medium Density,RM4,,1.67,4.12666,131,7246,77995.294830,0,0,7246,77995.294830,Townhouse,PCC,9,2,58,0,35,14,0.433892,238
+701,Creditview NHD,30,4097-4153,Melia Dr,Low Density II,RM5-6,,1.01,2.495764,28,,,0,0,,,Townhouse,Freehold,1,2,14,0,14,6,,239
+702,Erindale NHD,16,1039/2575,Cedarglen Gate/Parmeer Dr,Medium Density,RM4,Glengarry Gardens,1.08,2.668738,82,13318,143353.758800,0,0,13318,143353.758800,Townhouse,PCC,5,2,36,0,33,13,1.233148,240
+704,Clarkson Village CN,10,1180,Walden Cir,Medium Density,RM4,Walden Spinney Phase IV,0.93,2.29808,69,4277,46037.244820,0,0,4277,46037.244820,Townhouse,PCC,5,2,29,0,31,13,0.459892,241
+705,Erin Mills NHD,24,2079,The Collegeway,Medium Density,RM4,South College Estates,3.04,7.512004,243,13053,140501.322600,0,0,13053,140501.322600,Townhouse,PCC,18,2,105,0,35,14,0.429375,242
+709,Erin Mills NHD,25,31253079,Fifth Line West,Medium Density,RM4,Village South Townhouses,2.26,5.584582,206,8863,95400.537960,0,0,8863,95400.537960,Townhouse,PCC,18,2,160,0,71,29,0.392168,243
+719,Hurontario NHD,37E,75,Strathaven Dr,Medium Density,RM4,,1.0423,2.575579,138,6970,75024.455560,0,0,6970,75024.455560,Townhouse,PCC,8,3,60,0,58,23,0.668713,244
+739,Clarkson Village CN,10,102010601080,Walden Cir,Medium Density,RM4,,2.86,7.067214,242,,,0,0,,,Townhouse,PCC,16,3,112,0,39,16,,245
+741,Clarkson Village CN,10,1200,Walden Cir,Medium Density,RM4,Walden Spinney Phase IV-III,0.98,2.421633,49,9853,106056.809300,0,0,9853,106056.809300,Townhouse,PCC,5,2,33,0,34,14,1.005408,246
+747,Cooksville NHD (East),14,2035,Asta Dr,Medium Density,RM4,Astra Park,2.23,5.51045,198,9427,101471.383400,0,0,9427,101471.383400,Townhouse,PCC,7,3,88,0,39,16,0.422735,247
+794,Erin Mills NHD,31,2097-2111,Farrier Mews,Low Density II,RM5,Townwood Homes,0.26,0.642474,18,1076,11581.967600,0,0,1076,11581.967600,Townhouse,Freehold,2,2,8,0,31,12,0.413846,248
+795,Erin Mills NHD,31,4040-4064,Farrier Crt,Low Density II,RM5,Townwood Homes,0.36,0.889579,32,1729,18610.801100,0,0,1729,18610.801100,Townhouse,Freehold,2,2,9,0,25,10,0.480278,249
+796,Erin Mills NHD,31,4035-4051,Farrier Crt,Low Density II,RM5,Townwood  Homes,0.26,0.642474,25,1469,15812.184390,0,0,1469,15812.184390,Townhouse,Freehold,2,2,7,0,27,11,0.565000,250
+806,Meadowvale NHD,46W,2572-2607,Inlake Crt,Medium Density,RM5,,0.912,2.253601,64,1276,13734.749680,0,0,1276,13734.749680,Townhouse,Freehold,2,2,32,0,35,14,0.139912,251
+814,Meadowvale NHD,46W,5931-6054,Chidham Cres,Medium Density,RM5,,1.97,4.867976,209,10521,113247.101400,0,0,10521,113247.101400,Townhouse,Freehold,11,2,83,0,42,17,0.534061,252
+827,Rathwood NHD,28,525,Meadows Blvd,Medium Density,RM4,Forestview Village,2.63,6.498872,180,9085,97790.126070,0,0,9085,97790.126070,Townhouse,PCC,10,2,75,0,29,12,0.345437,253
+834,Mississauga Valleys NHD,21,1330,Mississauga Valley Blvd,Medium Density,RM9,,1.42,3.508896,90,9702,104431.458800,0,0,9702,104431.458800,Townhouse,PCC,7,3,72,0,51,21,0.683239,254
+838,Applewood NHD,20,3130,Queen Frederica Dr,Medium Density,RM4,,0.6,1.482632,28,,,0,0,,,Townhouse,RNTL-PNP,2,2,21,0,35,14,,255
+848,Hurontario NHD,37E,80,Strathaven Dr,Medium Density,RM4,,1.29,3.187659,184,9444,101654.369900,0,0,9444,101654.369900,Townhouse,PCC,11,3,80,0,62,25,0.732093,256
+850,Port Credit NHD (West),9,1055,Shawnmarr Rd,Medium Density,RM4-22,,5,12.355269,442,,,0,0,,,Townhouse,PCC,15,3,221,0,44,18,,257
+873,Clarkson - Lorne Park NHD,9,1026-1036,Serdica Crt,Low Density II,RM5-3,,0.14,0.345948,12,,,0,0,,,Townhouse,Freehold,1,2,6,0,43,17,,258
+874,Hurontario NHD,29,4635,Regents Terr,Medium Density,RM4,,2.93,7.240188,211,14597,157120.800300,0,0,14597,157120.800300,Townhouse,PCC,12,3,91,0,31,13,0.498191,259
+876,Hurontario NHD,37W,5679-5711,Talaton Tr,Low Density II,RM5,,0.66,1.630896,54,,,0,0,,,Townhouse,Freehold,3,2,27,0,41,17,,260
+877,Clarkson Village CN,10,1010,Walden Cir,Medium Density,RM4,,0.327,0.808035,35,,,0,0,,,Townhouse,PCC,2,3,14,0,43,17,,261
+878,Erin Mills NHD,24,35003510,South Millway,Medium Density,RM4,Village North,4.315,10.662597,326,17235,185515.995900,0,0,17235,185515.995900,Townhouse,PCC,20,2,141,0,33,13,0.399421,262
+880,Hurontario NHD,36W,320365400,Tailfeather Cres,Medium Density,RM5,,1.04,2.569896,78,,,0,0,,,Townhouse,Freehold,4,2,39,0,38,15,,263
+882,Hurontario NHD,28,4784-4798,Full Moon Cir,Low Density II,RM5-7,,0.19,0.4695,16,1430,15392.391890,0,0,1430,15392.391890,Townhouse,Freehold,1,2,8,0,42,17,0.752632,264
+884,Erin Mills NHD,24,3420,South Millway,Medium Density,RM4,The Enclave,2.33,5.757555,187,11320,121847.465800,0,0,11320,121847.465800,Townhouse,PCC,10,2,71,0,30,12,0.485837,265
+885,Erin Mills NHD,25,2205,South Millway,Medium Density,RM4,Bellair Phase 11,3.83,9.464136,276,19038,204923.326400,0,0,19038,204923.326400,Townhouse,PCC,13,2,120,0,31,13,0.497076,266
+886,Hurontario NHD,36W,5020,Delaware Dr,Medium Density,RM4,,1.49,3.68187,125,7100,76423.763910,0,0,7100,76423.763910,Townhouse,PCC,8,2,54,0,36,15,0.476510,267
+893,Central Erin Mills NHD,31,1725,The Chase,Medium Density,RM4,,3.93,9.711241,408,17133,184418.077100,0,0,17133,184418.077100,Townhouse,PCC,15,2,102,0,26,11,0.435954,268
+902,Hurontario NHD,29,4618-4740,Westbourne Terr,Medium Density,RM5,,1.2,2.965265,106,7800,83958.501200,0,0,7800,83958.501200,Townhouse,Freehold,6,2,53,0,44,18,0.650000,269
+909,Hurontario NHD,29,343-364,Royal Mason Crt,Medium Density,RM5,,0.45,1.111974,28,,,0,0,,,Townhouse,Freehold,2,2,14,0,31,13,,270
+912,Hurontario NHD,37E,500,Silverthorne Cres,Medium Density,RM5,,0.23,0.568342,18,1458.800000,15702.392510,0,0,1458.800000,15702.392510,Townhouse,Freehold,3,2,9,0,39,16,0.634261,271
+913,East Credit NHD,38W,5014-5057,Rundle Crt,Medium Density,RM5,Rundle Court,1.23,3.039396,68,,,0,0,,,Townhouse,Freehold,10,3,34,0,28,11,,272
+914,Sheridan NHD,18,2355,Fifth Line West,Medium Density,RM4,Loyalist Creek,1.73,4.274923,153,8992,96789.082410,0,0,8992,96789.082410,Townhouse,PCC,11,2,66,0,38,15,0.519769,273
+915,Central Erin Mills NHD,32,4539-4602,Bay Villa Ave,Medium Density,RM5,,1.4,3.459475,122,9713,104549.861800,0,0,9713,104549.861800,Townhouse,Freehold,11,2,54,0,39,16,0.693786,274
+917,Central Erin Mills NHD,32,2645-2800,Lindholm Cres,Medium Density,RM5,,2.5,6.177635,202,15000,161458.656200,0,0,15000,161458.656200,Townhouse,Freehold,22,2,101,0,40,16,0.600000,275
+924,Central Erin Mills NHD,32,2275,Credit Valley Rd,Medium Density,RM4,The Avenues,3.63,8.969925,362,15864,170758.674700,0,0,15864,170758.674700,Townhouse,PCC,17,2,118,0,33,13,0.437025,276
+927,South Common CN,25,2199,Burnhamthorpe Rd W,Medium Density,RM4-2,Eagle Ridge Townhouses,4.22,10.427847,230,14333,154279.127900,0,0,14333,154279.127900,Townhouse,PCC,13,2,100,0,24,10,0.339645,277
+928,Central Erin Mills NHD,31,1724,The Chase,Medium Density,RM4,,2.04,5.04095,184,7907,85110.239610,0,0,7907,85110.239610,Townhouse,PCC,8,2,46,0,23,9,0.387598,278
+932,Central Erin Mills NHD,32,4605,Donegal Dr,Medium Density,RM4,Lionsgate Condominium Residences,1.03,2.545185,81,5014,53970.246800,0,0,5014,53970.246800,Townhouse,PCC,4,3,35,0,34,14,0.486796,279
+935,Erin Mills NHD,59,3600,Colonial Dr,Medium Density,RM4,Winston Churchill Townes,3.64,8.994636,417,16869,181576.404700,0,0,16869,181576.404700,Townhouse,PCC,17,2,126,0,35,14,0.463434,280
+936,Hurontario NHD,37E,307-391,Assiniboine Tr,Medium Density,RM5,,2.1,5.189213,154,,,0,0,,,Townhouse,Freehold,8,2,77,0,37,15,,281
+940,Uptown MN,37E,4997-5133,Salishan Cir,Medium Density,RM5,,0.886,2.189354,66,4900.500000,52748.542960,0,0,4900.500000,52748.542960,Townhouse,Freehold,4,2,33,0,37,15,0.553104,282
+943,Rathwood NHD,27,4101,Westminster Pl,Medium Density,RM4,Westminister Mews,1.34,3.311212,139,8985,96713.735030,0,0,8985,96713.735030,Townhouse,PCC,8,3,59,0,44,18,0.670522,283
+949,Hurontario NHD,37W,510-560/5012-5036/5009-5041,Galaxy Crt/Mariner Crt/Northern Lights Cir,Medium Density,RM5,,2.74,6.770687,198,,,0,0,,,Townhouse,Freehold,11,2,99,0,36,15,,284
+953,Hurontario NHD,37W,640-834,Constellation Dr,Medium Density,RM5,,2.03,5.016239,146,,,0,0,,,Townhouse,Freehold,13,2,73,0,36,15,,285
+956,Hurontario NHD,29,650-673,Dinsmore Crt,Medium Density,RM5,,0.88,2.174527,44,4400,47361.205800,0,0,4400,47361.205800,Townhouse,Freehold,2,2,22,0,25,10,0.500000,286
+957,Meadowvale NHD,56,6859,Edenwood Dr,Medium Density,RM4,Aquitaine Townhouses,0.85,2.100396,60,3778,40666.053530,0,0,3778,40666.053530,Townhouse,PCC,3,3,26,0,31,12,0.444471,287
+961,Hurontario NHD,37E,35,Ceremonial Dr,Medium Density,RM4,Sandlewood,1.8,4.447897,145,7595,81751.899560,0,0,7595,81751.899560,Townhouse,PCC,10,2,63,0,35,14,0.421944,288
+962,Erin Mills NHD,59,3313-3518,Fenwick Cres,Medium Density,RM5,,3.44,8.500425,242,18150,195364.973900,0,0,18150,195364.973900,Townhouse,Freehold,16,2,121,0,35,14,0.527616,289
+975,Hurontario NHD,37E,382-424,Wendron Cres,Medium Density,RM5,,1.02,2.520475,66,,,0,0,,,Townhouse,Freehold,4,2,33,0,32,13,,290
+976,Hurontario NHD,37W,718-750,Whitfield Terr,Medium Density,RM5,,0.58,1.433211,46,,,0,0,,,Townhouse,Freehold,3,2,23,0,40,16,,291
+977,Hurontario NHD,37E,5002-5065,Willowood Dr,Medium Density,RM5,,0.96,2.372212,90,3150,33906.317790,0,0,3150,33906.317790,Townhouse,Freehold,7,2,45,0,47,19,0.328125,292
+978,Lisgar NHD,56,"3859-3879,3813-3819/6901-6991/6918-6963",Allcroft Rd/Glory Crt/Guardian Crt,Medium Density,RM5,,3.9707,9.811813,174,,,0,0,,,Townhouse,Freehold,23,2,92,0,23,9,,293
+980,Lisgar NHD,56,6827-6905/6838-6900/3957-3993/6958-6988/6963-6985/3905-3985,Apex Crt/Dillingwood Dr/Discovery Crt/Dunnview Crt/Lisanne Crt/Zenith Crt,Medium Density,RM5-11,,4.2,10.378426,342,25800,277708.888600,0,0,25800,277708.888600,Townhouse,Freehold,43,2,171,0,41,16,0.614286,294
+987,Lisgar NHD,56,3895,Doug Leavens Blvd,Medium Density,RM9,,0.87,2.149817,135,2039,21947.613330,0,0,2039,21947.613330,Townhouse,PCC,6,3,54,0,62,25,0.234368,295
+991,Lisgar NHD,56,3333-3476,Nighthawk Tr,Low Density II,RM5,,3.9047,9.648724,212,,,0,0,,,Townhouse,Freehold,18,2,115,0,29,12,,296
+992,Lisgar NHD,56,6950,Tenth Line West,Medium Density,RM9,Avonlea Village Condominium,1.82,4.497318,237,11701,125948.515700,0,0,11701,125948.515700,Townhouse,PCC,13,3,103,0,57,23,0.642912,297
+1002,Central Erin Mills NHD,39W,5865,Dalebrook Cres,Medium Density,RM4,The Heights of Erin Mills,2.044,5.050834,162,8696,93602.964930,0,0,8696,93602.964930,Townhouse,PCC,12,2,70,0,34,14,0.425440,298
+1003,Central Erin Mills NHD,39W,5205,Glen Erin Dr,Medium Density,RM4,First Place,1.51,3.731291,126,7189,77381.751940,0,0,7189,77381.751940,Townhouse,PCC,9,2,52,0,34,14,0.476093,299
+1004,Central Erin Mills NHD,39W,5230,Glen Erin Dr,Medium Density,RM4,5230 Erin Grove,3.58,8.846373,282,16880,181694.807700,0,0,16880,181694.807700,Townhouse,PCC,22,2,122,0,34,14,0.471508,300
+1005,Central Erin Mills NHD,39W,5305,Glen Erin Dr,Medium Density,RM4,First Place,2.36,5.831687,191,10720,115389.119600,0,0,10720,115389.119600,Townhouse,PCC,13,2,81,0,34,14,0.454237,301
+1006,Central Erin Mills NHD,39W,54805490,Glen Erin Dr,Medium Density,RM4,Enclave on the Park,4.442,10.976421,284,19613,211112.574900,0,0,19613,211112.574900,Townhouse,PCC,29,2,120,0,27,11,0.441535,302
+1008,Central Erin Mills NHD,39W,5659,Glen Erin Dr,Medium Density,RM4,Erin Village,2.219,5.483268,169,8065,86810.937460,0,0,8065,86810.937460,Townhouse,PCC,12,2,73,0,33,13,0.363452,303
+1009,Central Erin Mills NHD,39W,5940,Glen Erin Dr,Medium Density,RM4,The Heights of Erin Mills,1.44,3.558317,114,6037,64981.727150,0,0,6037,64981.727150,Townhouse,PCC,8,2,50,0,35,14,0.419236,304
+1010,Central Erin Mills NHD,39W,5955,Glen Erin Dr,Medium Density,RM4,Lom Nava Co-Operative,2.276,5.624118,168,8277,89092.886460,0,0,8277,89092.886460,Townhouse,COOP-ROP,9,2,78,0,34,14,0.363664,305
+1015,Central Erin Mills NHD,39W,59585910,Greensboro Dr,Medium Density,RM4,,4.62,11.416269,400,,,0,0,,,Townhouse,PCC,28,2,160,0,35,14,,306
+1026,Hurontario NHD,36W,55,Barondale Dr,Medium Density,RM4,,1.8,4.447897,190,9698,104388.403200,0,0,9698,104388.403200,Townhouse,PCC,8,3,82,0,46,18,0.538778,307
+1027,Hurontario NHD,37E,460,Bristol Rd W,Medium Density,RM4,Bristol Mews,1.83,4.522028,188,9154,98532.835890,0,0,9154,98532.835890,Townhouse,PCC,9,3,80,0,44,18,0.500219,308
+1035,Erindale NHD,23,3024,Cedarglen Gate,High Density,RA1-25,Shalimar International Housing Corp,2.93,7.240188,131,7558,81353.634880,0,0,7558,81353.634880,Townhouse,RNTL-PRIVNP,8,3,78,0,27,11,0.257952,309
+1037,Central Erin Mills NHD,39W,2550,Thomas St,Medium Density,RM4,Thomas Grove,2.52,6.227056,206,12605,135679.090700,0,0,12605,135679.090700,Townhouse,PCC,10,2,87,0,35,14,0.500198,310
+1038,Central Erin Mills NHD,39W,2555,Thomas St,Medium Density,RM4,Thomas Grove,1.87,4.620871,276,17030,183309.394300,0,0,17030,183309.394300,Townhouse,PCC,13,2,117,0,63,25,0.910695,311
+1040,Erin Mills NHD,59,3050,Orleans Rd,Medium Density,RM4,Winston Manors Condo Townhouse,4.321,10.677424,324,20650,222274.750000,0,0,20650,222274.750000,Townhouse,PCC,19,2,141,0,33,13,0.477899,312
+1042,Meadowvale NHD,55,3097-3107,Augusta Dr,Medium Density,RM5,Barmont Homes,0.174,0.429963,12,668,7190.292154,0,0,668,7190.292154,Townhouse,Freehold,1,2,6,0,34,14,0.383908,313
+1045,East Credit NHD,38E,5955,Creditview Rd,Medium Density,RM4,Creditbend Terrace,1.3,3.21237,158,7422,79889.743060,0,0,7422,79889.743060,Townhouse,RNTL-PNP,8,3,69,0,53,21,0.570923,314
+1046,Erin Mills NHD,24,1905,Broad Hollow Gate,Medium Density,RM4,Townmanors of Sawmill Valley,2.49,6.152924,192,10419,112149.182600,0,0,10419,112149.182600,Townhouse,PCC,13,2,56,0,22,9,0.418434,315
+1049,East Credit NHD,30,4650-4690,Crosscreek Crt,Medium Density,RM5,Trengrove Development,0.69,1.705027,42,3500,37673.686440,0,0,3500,37673.686440,Townhouse,Freehold,3,2,21,0,30,12,0.507246,316
+1054,Hurontario NHD,37W,800/728-746,Constellation Dr/Winterton Way,Medium Density,RM4,,1.25,3.088817,,,,0,0,,,Townhouse,PCC,5,2,38,0,30,12,,317
+1055,East Credit NHD,45E,1256-1329,Killaby Dr,Medium Density,RM5,H and R Developments,1.597,3.946273,,,,0,0,,,Townhouse,Freehold,4,2,68,0,43,17,,318
+1058,East Credit NHD,38E,1050,Bristol Rd W,Medium Density,RM4,Huntingview Condominiums,2.319,5.730374,286,15847,170575.688300,0,0,15847,170575.688300,Townhouse,PCC,15,3,124,0,53,22,0.683355,319
+1059,Central Erin Mills NHD,39W,29452955,Thomas St,Medium Density,RM4,,2.96,7.314319,305,16349,175979.171300,0,0,16349,175979.171300,Townhouse,PCC,20,3,132,0,45,18,0.552331,320
+1070,Hurontario NHD,36W,455,Apache Crt,Medium Density,RM4-10,Highland Park Golf Community,3.77,9.315873,340,22599,243253.611400,0,0,22599,243253.611400,Townhouse,PCC,24,3,170,0,45,18,0.599443,321
+1071,Hurontario NHD,36W,450,Bristol Rd E,Medium Density,RM4,,0.91,2.248659,74,4710,50698.018030,0,0,4710,50698.018030,Townhouse,PCC,4,2,32,0,35,14,0.517582,322
+1072,Hurontario NHD,37W,5500,McLaughlin Rd,Medium Density,RM4-11,,0.23,0.568342,16,1501,16156.629530,0,0,1501,16156.629530,Townhouse,PCC,1,2,7,0,30,12,0.652609,323
+1073,Streetsville NHD,39E,2350,Britannia Rd W,Medium Density,RM4,Sugarbush Homes,1.808,4.467665,166,8674,93366.158900,0,0,8674,93366.158900,Townhouse,PCC,12,3,72,0,40,16,0.479757,324
+1077,Clarkson - Lorne Park NHD,10,1385,Lakeshore Rd W,Medium Density,RM4,Casgrain Developments,0.6953,1.718124,37,3486.500000,37528.373640,0,0,3486.500000,37528.373640,Townhouse,PCC,5,2,28,0,40,16,0.501438,325
+1078,Clarkson - Lorne Park NHD,10,1015,Johnsons Ln,Medium Density,RM4,Casgrain Developments,0.32,0.790737,31,1583.180000,17041.207680,0,0,1583.180000,17041.207680,Townhouse,PCC,2,3,13,0,41,16,0.494744,326
+1079,Uptown MN,36W,180190,Forum Dr,Medium Density,RM4-4,Uptown Classics,2.47,6.103503,246,13044.400000,140408.753000,0,0,13044.400000,140408.753000,Townhouse,PCC,14,3,106,0,43,17,0.528113,327
+1080,Lakeview NHD,6,1132-1182,Upper Village Dr,High Density,RM9-2,The West Village,0.5982,1.478184,56,3086.600000,33223.885870,0,0,3086.600000,33223.885870,Townhouse,PCC,3,2,24,0,40,16,0.515981,328
+1081,Lisgar NHD,56,"3215,3217,3219/3221,3223,3225",Coralbean Pl/Fanleaf Dr,Low Density II,RM5,,0.17,0.420079,,1044,11237.522470,0,0,1044,11237.522470,Townhouse,Freehold,2,2,6,0,35,14,0.614118,329
+1083,Lisgar NHD,56,6026-6127,Clover Ridge Cres,Low Density II,RM5-12,,0.08,0.197684,,454,4886.815326,0,0,454,4886.815326,Townhouse,Freehold,2,2,6,0,75,30,0.567500,330
+1084,Lisgar NHD,56,612961316133604186652672.000000,Snowy Owl Cres,Low Density II,RM5-12,,0.16,0.395369,,,,0,0,,,Townhouse,Freehold,2,2,6,0,38,15,,331
+1085,East Credit NHD,30,4920,Rathkeale Rd,Medium Density,RM4,Rosegate Townhomes,0.62,1.532053,53,2704,29105.613750,0,0,2704,29105.613750,Townhouse,PCC,3,3,23,0,37,15,0.436129,332
+1086,Lisgar NHD,56,6017-6043,Castlegrove Crt,Low Density II,RM5-12,,0.2643,0.6531,,1316,14165.306100,0,0,1316,14165.306100,Townhouse,Freehold,3,2,9,0,34,14,0.497919,333
+1088,Sheridan NHD,18,2385,Fifth Line West,Medium Density,RM4,Sheridan Woods,0.512,1.26518,46,2587,27846.236230,0,0,2587,27846.236230,Townhouse,PCC,3,2,20,0,39,16,0.505273,334
+1089,Lisgar NHD,56,6060,Snowy Owl Cres,Medium Density,RM4,Fanshaw Estates,1.37,3.385344,136,7020,75562.651080,0,0,7020,75562.651080,Townhouse,PCC,9,3,59,0,43,17,0.512409,335
+1090,Streetsville NHD,39,2398,Britannia Rd W,Medium Density,RM4,The Woodlands of Erin Mills,2.09,5.164502,164,11736.300000,126328.481700,0,0,11736.300000,126328.481700,Townhouse,PCC,14,3,71,0,34,14,0.561545,336
+1091,Clarkson - Lorne Park NHD,9,1084,Queen St W,Medium Density,RM4,Lorne Park Townhomes,1.5045,3.7177,116,8161.680000,87851.592320,0,0,8161.680000,87851.592320,Townhouse,PCC,7,2,50,0,33,13,0.542485,337
+1092,Clarkson - Lorne Park NHD,9,1064,Queen St W,Medium Density,RM4,Lorne Park Townhomes,1.4141,3.494317,116,8142.010000,87639.866200,0,0,8142.010000,87639.866200,Townhouse,PCC,8,2,50,0,35,14,0.575773,338
+1093,East Credit NHD,38E,1292,Sherwood Mills Blvd,Medium Density,RM4,Brookstone Marathon,2.9,7.166056,,,,0,0,,,Townhouse,PCC,19,2,140,0,48,20,,339
+1095,Lakeview NHD,6,813-825/1197-1247,Village Green Blvd/Upper Village Dr,High Density,RM9-2,The West Village,0.7369,1.82092,67,3953,42549.737850,0,0,3953,42549.737850,Townhouse,PCC,5,2,30,0,41,16,0.536436,340
+1096,Clarkson - Lorne Park NHD,9,928,Queen St W,Medium Density,RM4,Lorne Park Townhomes,1.9932,4.925304,138,9900.730000,106570.570700,0,0,9900.730000,106570.570700,Townhouse,PCC,10,3,60,0,30,12,0.496725,341
+1097,East Credit NHD,37W,5030,Heatherleigh Ave,Medium Density,RM4,Cherrywood,4.5958,11.356469,438,29296.560000,315345.547200,0,0,29296.560000,315345.547200,Townhouse,PCC,18,3,190,0,41,17,0.637464,342
+1100,Central Erin Mills NHD,39W,"5658,5662-5674",Glen Erin Dr,Medium Density,RM4,Daniels Grove,3.66,9.044057,435,17070.440000,183744.686800,0,0,17070.440000,183744.686800,Townhouse,PCC,18,2,126,0,34,14,0.466405,343
+1101,Hurontario NHD,37E,311-348/5116-5159,Sardinia Dr/Boardwalk Dr,Medium Density,RM5,,1.489,3.679399,,9600,103333.539900,0,0,9600,103333.539900,Townhouse,Freehold,8,2,64,0,43,17,0.644728,344
+1102,Meadowvale NHD,55,3114-3118,Pendleton Rd,Medium Density,RM5,,0.364,0.899464,,1893.300000,20379.311580,0,0,1893.300000,20379.311580,Townhouse,Freehold,1,2,3,0,8,3,0.520137,345
+1109,East Credit NHD,30,4991,Rathkeale Rd,Medium Density,RM4,Welton Developments Ltd.,0.666,1.645722,86,4749,51117.810540,0,0,4749,51117.810540,Townhouse,PCC,5,3,37,0,56,22,0.713063,346
+1110,Hurontario NHD,36E,"504-626, 587-629",Lumberton Cres,Low Density II,RM5-11,,2.0365,5.032301,,11893.740000,128023.151800,0,0,11893.740000,128023.151800,Townhouse,Freehold,11,3,78,0,38,15,0.584028,347
+1111,Central Erin Mills NHD,39W,5274-5390,Bushelgrove Cir,Medium Density,RM5,,0.5732,1.416408,66,2739.500000,29487.732570,0,0,2739.500000,29487.732570,Townhouse,Freehold,4,2,22,0,38,16,0.477931,348
+1115,East Credit NHD,38E,1285,Bristol Rd W,Medium Density,RM4,Sundial Homes(River Run) Ltd,1.307,3.229667,,5478.230000,58967.176930,0,0,5478.230000,58967.176930,Townhouse,PCC,6,2,45,0,34,14,0.419145,349
+1116,Hurontario NHD,37W,706-756,Four Winds Way,Low Density II,RM5,,0.5511,1.361798,,3029.110000,32605.068660,0,0,3029.110000,32605.068660,Townhouse,Freehold,3,2,20,0,36,15,0.549648,350
+1121,Clarkson - Lorne Park NHD,3,1010,Cristina Crt,High Density,RM4-24,Cottages of Turtle Creek,0.8302,2.051469,67,3341.800000,35970.835810,0,0,3341.800000,35970.835810,Townhouse,PCC,3,1,21,0,25,10,0.402530,351
+1122,Meadowvale Village NHD,53W,71017105,Branigan Gate,Medium Density,RM4,Levi Creek,2.2,5.436318,90,,,0,0,,,Townhouse,PCC,13,3,79,0,36,15,,352
+1123,East Credit NHD,30,1588,South Parade Crt,Medium Density,RM4,Bedford Park Phase 1,2.162,5.342418,164,11134,119845.378500,0,0,11134,119845.378500,Townhouse,PCC,13,2,82,0,38,15,0.514986,353
+1127,Applewood NHD,20,11641168,Arena Rd,Medium Density,RM4,Applewood on the Park,2.7845,6.880649,,20680,222597.667300,0,0,20680,222597.667300,Townhouse,PCC,9,4,155,0,56,23,0.742683,354
+1128,Meadowvale CN,46W,68106830,Meadowvale Town Centre Cir,Medium Density,RM4-13,,1.979,4.890215,183,10923.430000,117578.821900,0,0,10923.430000,117578.821900,Townhouse,PCC,15,3,79,0,40,16,0.551967,355
+1133,Meadowvale CN,46W,68606880,Meadowvale Town Centre Cir,Medium Density,RM4,,1.5948,3.940837,148,9478.860000,102029.599800,0,0,9478.860000,102029.599800,Townhouse,PCC,11,3,64,0,40,16,0.594360,356
+1134,East Credit NHD,30,1591,South Parade Crt,Medium Density,RM4,Bedford Park Phase II,1.7016,4.204745,126,8395,90363.027890,0,0,8395,90363.027890,Townhouse,PCC,11,2,63,0,37,15,0.493359,357
+1135,Central Erin Mills NHD,39W,5530,Glen Erin Dr,Medium Density,RM4,,4.272,10.556342,430,27351.600000,294410.172000,0,0,27351.600000,294410.172000,Townhouse,PCC,24,3,186,0,44,18,0.640253,358
+1139,East Credit NHD,30,4950,Rathkeale Rd,Medium Density,RM4,,0.46237,1.142541,63,3497,37641.394700,0,0,3497,37641.394700,Townhouse,PCC,4,3,27,0,58,24,0.756321,359
+1141,Sheridan NHD,18,20802088,Leanne Blvd,Medium Density,RM4,Sheridan Lane,1.9058,4.709334,205,11311.990000,121761.246900,0,0,11311.990000,121761.246900,Townhouse,PCC,10,3,88,0,46,19,0.593556,360
+1142,Central Erin Mills NHD,39E,5535,Glen Erin Dr,Medium Density,RM4,Daniels Dimensions,2.565,6.338253,284,13360.290000,143808.964600,0,0,13360.290000,143808.964600,Townhouse,PCC,13,3,95,0,37,15,0.520869,361
+1143,Erindale NHD,16,840,Dundas St W,Medium Density,RM4,Huron Ridge - Phase I,0.459,1.134214,59,4017.460000,43243.579520,0,0,4017.460000,43243.579520,Townhouse,PCC,3,3,25,0,54,22,0.875264,362
+1144,Erin Mills NHD,24,2000,The Collegeway,Medium Density,RM4,Towne Manors of Sawmill Valley,1.638,4.047586,158,8228,88565.454850,0,0,8228,88565.454850,Townhouse,PCC,11,2,38,0,23,9,0.502320,363
+1146,East Credit NHD,37W,5223/819-831,Fairford Cres/Winterton Way,Medium Density,RM4-1,The Artisan Collection,3.06,7.561425,248,14312.400000,154057.391400,0,0,14312.400000,154057.391400,Townhouse,PCC,15,2,107,0,35,14,0.467725,364
+1148,East Credit NHD,38E,1480,Britannia Rd W,Medium Density,RM4-65,Abbey Road on Britannia,3.8278,9.4587,381,24801.860000,266964.999000,0,0,24801.860000,266964.999000,Townhouse,PCC,75,2,165,0,43,17,0.647940,365
+1149,Streetsville NHD,39E,2360,Britannia Rd W,Medium Density,RM4-44,Britannia Oaks Townhouses,0.302,0.746258,,1988.920000,21408.556690,0,0,1988.920000,21408.556690,Townhouse,PCC,3,3,12,0,40,16,0.658583,366
+1150,Central Erin Mills NHD,39E,5525,Palmerston Cres,Medium Density,RM4,Credit Hills Condomiums,2.3,5.683424,224,13015.990000,140102.950300,0,0,13015.990000,140102.950300,Townhouse,PCC,13,3,97,0,42,17,0.565913,367
+1151,East Credit NHD,30,1575,South Parade Crt,Medium Density,RM4,Bedford Park,1.6119,3.983092,148,9586,103182.845200,0,0,9586,103182.845200,Townhouse,PCC,14,2,68,0,42,17,0.594702,368
+1152,Lakeview NHD,6,731-765/1172-1244,Village Green Blvd/Parkwest Pl,High Density,RM9-2,The West Village,0.8882,2.19479,103,5722,61591.095370,0,0,5722,61591.095370,Townhouse,PCC,7,3,45,0,51,21,0.644224,369
+1153,Hurontario NHD,37W,739-743,Mirage Pl,Low Density II,RM5-40,,0.087,0.214982,6,431.050000,4639.783582,0,0,431.050000,4639.783582,Townhouse,Freehold,1,2,3,0,34,14,0.495460,370
+1154,East Credit NHD,38E,5031,East Mill Rd,Medium Density,RM4,,1.29,3.187659,128,6934.050000,74637.492980,0,0,6934.050000,74637.492980,Townhouse,PCC,10,2,44,0,34,14,0.537523,371
+1156,East Credit NHD,30,1525,South Parade Crt,High Density,RA3-28,,0.5931,1.465582,76,4132.740000,44484.443110,0,0,4132.740000,44484.443110,Townhouse,PCC,4,3,33,0,56,23,0.696803,372
+1158,Clarkson - Lorne Park NHD,10,1780-1786/1566-1578,Christopher Rd/Clarkson Rd N,Medium Density,RM4,Towne Manors of Conventry,1.0405,2.571131,75,5194.640000,55914.639570,0,0,5194.640000,55914.639570,Townhouse,PCC,7,2,28,0,27,11,0.499245,373
+1160,Port Credit NHD (West),8,28,Front St S,Mixed Use,C4-1,Wilcox Landing Townhouses,0.1168,0.288619,15,1136.400000,12232.107790,0,0,1136.400000,12232.107790,Townhouse,Freehold,1,4,5,0,43,17,0.972945,374
+1161,Malton NHD,40E,7115,Rexwood Rd,Medium Density,RM4-25,Sonata Park Condo Townhouses,4.3215,10.678659,305,17710.440000,190633.589500,0,0,17710.440000,190633.589500,Townhouse,PCC,17,2,128,0,30,12,0.409822,375
+1162,Meadowvale Village NHD,53E,7271-7319/7236-7278,Bellshire Gate/Torrisdale Ln,Medium Density,RM5-16,Levi Creek,1.2349,3.051504,76,5021.380000,54049.684450,0,0,5021.380000,54049.684450,Townhouse,Freehold,6,2,38,0,31,12,0.406622,376
+1163,Central Erin Mills NHD,39W,5950,Glen Erin Dr,Medium Density,RM4,Daniels Britannia Terraces,1.6144,3.989269,138,7024.080000,75606.567830,0,0,7024.080000,75606.567830,Townhouse,PCC,10,2,60,0,37,15,0.435089,377
+1164,Central Erin Mills NHD,39W,2665,Thomas St,Medium Density,RM4,Thomas Park,2.797,6.911538,254,13972.920000,150403.259000,0,0,13972.920000,150403.259000,Townhouse,PCC,14,2,96,0,34,14,0.499568,378
+1165,East Credit NHD,38E,5985,Creditview Rd,Medium Density,RM4,Credit Valley,0.4019,0.993117,44,2636.100000,28374.744230,0,0,2636.100000,28374.744230,Townhouse,PCC,4,3,19,0,47,19,0.655909,379
+1166,DT Fairview,22,38,Fairview Rd W,Medium Density,RM4,Fairfield Village,0.771,1.905182,88,4913,52883.091840,0,0,4913,52883.091840,Townhouse,PCC,3,3,38,0,49,20,0.637224,380
+1167,Lakeview NHD,6,1107,Lakeshore Rd E,Low Density II,RM4-29,,0.6859,1.694896,44,2552.260000,27472.297980,0,0,2552.260000,27472.297980,Townhouse,Freehold,4,2,19,0,28,11,0.372104,381
+1168,Meadowvale Village NHD,53W,"1563-1591,1564-1594",Woodhenge Way,Medium Density,RM5-15,Levi Creek Ph II,0.9164,2.264474,58,4270.850000,45971.046770,0,0,4270.850000,45971.046770,Townhouse,Freehold,4,3,29,0,32,13,0.466046,382
+1170,Erindale NHD,16,800,Dundas St W,Medium Density,RM4-3,Huron Ridge Phase II,1.1163,2.758437,98,6526.500000,70250.661290,0,0,6526.500000,70250.661290,Townhouse,PCC,4,3,41,0,37,15,0.584655,383
+1171,Meadowvale Village NHD,53E,7190,Atwood Lane,Medium Density,RM4,Lattitudes Condominium,2.4937,6.162067,212,11236.370000,120947.280000,0,0,11236.370000,120947.280000,Townhouse,PCC,12,3,91,0,36,15,0.450590,384
+1172,Erindale NHD,23,3020,Cedarglen Gate,Medium Density,RM4,Cedarglen Gate,1.787,4.415773,160,10457.560000,112564.238900,0,0,10457.560000,112564.238900,Townhouse,PCC,11,3,69,0,39,16,0.585202,385
+1174,DT Cooksville,22,43/3057-3073,Agnes St/Cook St,High Density,RA4-27,BOCA Square,0.4414,1.090723,63,4765,51290.033100,0,0,4765,51290.033100,Townhouse,PCC,3,3,27,0,61,25,1.079520,386
+1175,Hurontario NHD,37W,5255/515-543,Guildwood Way/Ravenstone Crt,Medium Density,RM4,,3.347,8.270617,290,15633.590000,168278.562100,0,0,15633.590000,168278.562100,Townhouse,PCC,18,2,125,0,37,15,0.467093,387
+1176,Churchill Meadows NHD,57,"5530-5555/3859-3883,3898-3946",Linwell Pl/Talias Cres,Low Density II,RM5-21,,1.328,3.281559,116,7603.180000,81839.948350,0,0,7603.180000,81839.948350,Townhouse,Freehold,10,2,58,0,44,18,0.572529,388
+1178,Lakeview NHD,6,779-803/1183-1205,Village Green Blvd/Parkwest Pl,High Density,RM9-2,The West Village,0.4209,1.040067,54,2929,31527.493590,0,0,2929,31527.493590,Townhouse,PCC,4,3,23,0,55,22,0.695890,389
+1179,Uptown MN,28,80,Acorn Pl,Medium Density,RM4,,5.445263,13.455538,542,33303.580000,358476.751500,0,0,33303.580000,358476.751500,Townhouse,PCC,36,3,235,0,43,17,0.611606,390
+1181,East Credit NHD,37W,5055/838-892,Heatherleigh Ave/Scollard Crt,Medium Density,RM4,Villages at Century City,3.50191,8.653408,374,24351.300000,262115.211600,0,0,24351.300000,262115.211600,Townhouse,PCC,19,3,160,0,46,18,0.695372,391
+1186,Meadowvale NHD,46W,1-24,Moonstream Crt,Low Density II,R3-8,,1.22,3.014686,,,,0,0,,,Detached,PCC,0,2,24,0,20,8,,392
+1189,Churchill Meadows NHD,57,5847-5969/5956-5979/3081-3115/5886-5894/5951-5981/3180-3188,Chalfont Cres/Foxbridge Pl/Caulfield Cres/Shelford Terr/Tenth Line West/Britannia Rd W,Medium Density,RM5-21,,2.676,6.61254,190,14578.900000,156925.973500,0,0,14578.900000,156925.973500,Townhouse,Freehold,16,2,95,0,36,14,0.544802,393
+1190,Central Erin Mills NHD,39W,5625,Glen Erin Dr,Medium Density,RM4,The Annex,1.373,3.392757,138,6915.610000,74439.006470,0,0,6915.610000,74439.006470,Townhouse,PCC-RNTL,8,2,60,0,44,18,0.503686,394
+1191,Hurontario NHD,37W,545654585460,Starwood Dr,Low Density II,RM5-31,,0.09357,0.231217,6,486.900000,5240.947979,0,0,486.900000,5240.947979,Townhouse,Freehold,1,2,3,0,32,13,0.520359,395
+1193,Churchill Meadows NHD,57,5804-5864/5829-5867,Tenth Line West/Rainberry Dr,Low Density II,RM5-22{5},,1.314,3.246965,108,7921.280000,85263.948250,0,0,7921.280000,85263.948250,Townhouse,Freehold,8,2,54,0,41,17,0.602837,396
+1196,Meadowvale Village NHD,52W,761-793,Avocado Cres,Low Density II,RM5-27,Colonial Woods,0.3357,0.829533,28,,,0,0,,,Townhouse,Freehold,2,2,14,0,42,17,,397
+1301,Cooksville NHD (West),22,"601,605,615,625/3055",Shoreline Dr/Elmcreek Rd,Medium Density,RM9-1,High Park Village,5.1695,12.774113,587,41297.950000,444527.433900,0,0,41297.950000,444527.433900,Townhouse,PCC,32,3,315,0,61,25,0.798877,398
+1302,Churchill Meadows NHD,57,"3191-3968/3907,3909,3957-3971/5898-5939",Coachman Cir/Freeman Terrace/Questman Hollow,Medium Density,RM5-37,Villas of Monaco/Summerdale Village,3.016,7.452698,256,17724.240000,190782.131400,0,0,17724.240000,190782.131400,Townhouse,Freehold,11,2,128,0,42,17,0.587674,399
+1303,Meadowvale Village NHD,53W,"7284,7244-7280",Bellshire Gate,Medium Density,RM4,The Ravines at Levi Creek,2.011,4.969289,151,9137.100000,98350.925810,0,0,9137.100000,98350.925810,Townhouse,PCC,11,3,65,0,32,13,0.454356,400
+1304,Cooksville NHD (West),22,199,Hillcrest Ave,Medium Density,RM4-14,Confederation Park,1.4384,3.554364,103,6603.080000,71074.961550,0,0,6603.080000,71074.961550,Townhouse,PCC,7,2,44,0,31,12,0.459057,401
+1306,Meadowvale Village NHD,53W,"7220-7229,7231-7232,7234-7239,7234,7245,7249-7259",Pallett Crt,Medium Density,RM5-16,Levi Creek Townhouses,1.093,2.700862,52,3675.100000,39558.447150,0,0,3675.100000,39558.447150,Townhouse,Freehold,5,2,26,0,24,10,0.336240,402
+1307,Lisgar NHD,56,3256-3353,Bobwhite Mews,Low Density II,RM5,,2.7322,6.751413,,,,0,0,,,Townhouse,Freehold,11,2,63,0,23,9,,403
+1310,Meadowvale NHD,46W,2655,Gananoque Dr,Medium Density,RM4,,2.13,5.263345,,,,0,0,,,Townhouse,PCC,15,2,67,0,31,13,,404
+1311,Lakeview NHD,6,812-832/1146-1172/1105-1177,Village Green Blvd/West Shore Dr/Upper Village Dr,High Density,RM9-2,The West Village,1.05,2.594607,112,6552.300000,70528.370180,0,0,6552.300000,70528.370180,Townhouse,PCC,6,2,49,0,47,19,0.624029,405
+1324,Central Erin Mills MN,32,4600465046524654416870506496.000000,Kimbermount Ave,Medium Density,RM4-16,Kimbermount Renaissance Village,2.305,5.695779,234,11562.220000,124454.700200,0,0,11562.220000,124454.700200,Townhouse,PCC-RNTL,12,2,101,0,44,18,0.501615,406
+1330,Meadowvale Village NHD,44W,627629631,Dolly Bird Lane,Medium Density,RM5-27,Arrowsmith Village,0.09,0.222395,9,544.170000,5857.397128,0,0,544.170000,5857.397128,Townhouse,Freehold,1,3,3,0,33,13,0.604633,407
+1356,Clarkson - Lorne Park NHD,10,1205,Clarkson Rd N,Low Density II,R3-36,Creekbank,0.798,1.971901,16,1252.970000,13486.856830,0,0,1252.970000,13486.856830,Detached,PCC,0,1,8,0,10,4,0.157014,408
+1357,Clarkson - Lorne Park NHD,9,1405,Lorne Park Rd,Low Density II,R2-34,Estates of Lorne Park,1.967,4.860563,,,,0,0,,,Detached,PCC,0,1,24,0,12,5,,409
+1358,Hurontario NHD,37W,516-542,Steddick Crt,Medium Density,RM5,,0.239,0.590582,,,,0,0,,,Townhouse,Freehold,2,2,13,0,54,22,,410
+1359,Malton NHD,48W,3233,Derry Rd E,Mixed Use,C3-7,Malton Mobile Homes,0.87,2.149817,,,,0,0,,,Other (Mobile Homes),RNTL,0,1,24,0,28,11,,411
+1361,Malton NHD,49E,91113,Ripon,Low  Density I,R3,,0.1143,0.282441,,,,0,0,,,Townhouse,RNTL,1,1,3,0,26,11,,412
+1376,East Credit NHD,38E,5420,Fallingbrook Dr,Medium Density,RM4,Sundial Homes(River Run) Ltd,0.9957,2.460428,,4233.070000,45564.386240,0,0,4233.070000,45564.386240,Townhouse,PCC,4,2,34,0,34,14,0.425135,413
+1378,Hurontario NHD,36W,14-53,Andrika Crt,Medium Density,RM5-25,,0.836,2.065801,108,6261.600000,67399.301420,0,0,6261.600000,67399.301420,Townhouse,Freehold,6,3,36,0,43,17,0.748995,414
+1379,East Credit NHD,44W,860-996/815-833/793-823/805/6449,Delgado Dr/Escobar Cres/Cremens Cres/Nolan Rd/Torre Dr,Medium Density,RM5-23,,2.1708,5.364164,152,11263.060000,121234.568800,0,0,11263.060000,121234.568800,Townhouse,Freehold,11,2,76,0,35,14,0.518844,415
+1380,Lakeview NHD,6,1102-1191/728-762,Lower Village Cres/Village Green Blvd,High Density,RM9-2,The West Village,1.453,3.590441,142,8259.830000,88908.070120,0,0,8259.830000,88908.070120,Townhouse,PCC,9,2,62,0,43,17,0.568467,416
+1388,Hurontario NHD,37E,470,Faith Dr,Medium Density,RM4-12,Woods End,2.303,5.690837,190,14437.960000,155408.907900,0,0,14437.960000,155408.907900,Townhouse,PCC,13,2,82,0,36,14,0.626920,417
+1389,Hurontario NHD,37W,669-729,Four Winds Way,Medium Density,RM4,Heartland Village,1.7194,4.24873,188,9616.390000,103509.960400,0,0,9616.390000,103509.960400,Townhouse,PCC-RNTL,11,2,81,0,47,19,0.559288,418
+1390,Churchill Meadows NHD,57,5950-5978/3008-3016,Winston Churchill Blvd/Britannia Rd W,Medium Density,RM5-22{2},,0.864,2.13499,,4800.100000,51667.846360,0,0,4800.100000,51667.846360,Townhouse,Freehold,5,2,32,0,37,15,0.555567,419
+1391,Hurontario NHD,37E,463-485,Bristol Rd W,Medium Density,RM4,,0.5586,1.380331,61,4727.600000,50887.462850,0,0,4727.600000,50887.462850,Townhouse,PCC,2,3,23,0,41,17,0.846330,420
+1392,Meadowvale Village NHD,52W,7399-7471,Magistrate Terr,Medium Density,RM5-27,,0.8463,2.091253,,4851.810000,52224.448170,0,0,4851.810000,52224.448170,Townhouse,Freehold,4,2,34,0,40,16,0.573297,421
+1393,Meadowvale Village NHD,53W,1618-1702,Casablanca Cir,Medium Density,RM5-16,,1.652,4.082181,,6430.870000,69221.308540,0,0,6430.870000,69221.308540,Townhouse,Freehold,8,2,42,0,25,10,0.389278,422
+1395,Cooksville NHD (West),15,"2165,2175/2130",Stavebank Rd/Dickson Rd,Low  Density I,R1-19,The Colony,4.025,9.945992,160,8992.760000,96797.262980,0,0,8992.760000,96797.262980,Detached,PCC,0,1,40,0,10,4,0.223423,423
+1398,Hurontario NHD,37W,720,Avonwick Ave,Medium Density,RM4,Heartland Village,2.3297,5.756814,210,10763.950000,115862.193500,0,0,10763.950000,115862.193500,Townhouse,PCC,13,2,91,0,39,16,0.462032,424
+1399,Streetsville CN,39E,1-14,James St,Medium Density,RM5-35,,0.2979,0.736127,42,1670.480000,17980.897060,0,0,1670.480000,17980.897060,Townhouse,Freehold,2,2,14,0,47,19,0.560752,425
+1401,Port Credit CN,7,8-159/110-144/1-113,St. Lawrence Dr/Waterside Dr/Compass Way,Medium Density,RM4-19,Port Credit Village,4.427,10.939355,567,39348.280000,423541.360700,0,0,39348.280000,423541.360700,Townhouse,PCC,22,3,167,0,38,15,0.888825,426
+1408,Hurontario NHD,36E,530,Driftcurrent Dr,Low Density II,R5-28,,1.0236,2.529371,72,3501.100000,37685.526740,0,0,3501.100000,37685.526740,Detached,PCC,0,2,21,0,21,8,0.342038,427
+1420,Churchill Meadows NHD,57,5855-5865,Tenth Line West,Medium Density,RM5-22{3},,0.1544,0.381531,12,1116,12012.524020,0,0,1116,12012.524020,Townhouse,Freehold,1,3,6,0,39,16,0.722798,428
+1421,Churchill Meadows NHD,57,3225-3249/5952-5980/3218-3226,Equestrian Cres/Tenth Line West/Britannia Rd W,Medium Density,RM5-22{4},,0.8625,2.131284,66,4685.180000,50430.857770,0,0,4685.180000,50430.857770,Townhouse,Freehold,5,2,31,0,36,15,0.543209,429
+1423,Central Erin Mills NHD,39E,5260,McFarren Blvd,Medium Density,RM4-9,,4.3804,10.824204,418,28226.450000,303826.979000,0,0,28226.450000,303826.979000,Townhouse,PCC,25,2,181,0,41,17,0.644381,430
+1424,Cooksville NHD (West),22,280,Hillcrest Ave,Medium Density,RM4-1,,0.9746,2.408289,111,7171.280000,77191.015450,0,0,7171.280000,77191.015450,Townhouse,PCC,7,3,48,0,49,20,0.735818,431
+1425,East Credit NHD,38E,5019-5025,East Mill Rd,Medium Density,RM5-19,,0.098,0.242163,16,678.780000,7306.327108,0,0,678.780000,7306.327108,Townhouse,Freehold,1,2,4,0,41,17,0.692633,432
+1427,Meadowvale Village NHD,44W,"6507-6585/6455,6456",Skipper Way/Rallymaster Hts,Low Density II,RM5-27,,1.005,2.483409,108,5096.330000,54856.439540,0,0,5096.330000,54856.439540,Townhouse,Freehold,7,2,36,0,36,14,0.507098,433
+1429,Central Erin Mills MN,39W,2900/5142-5198,Rio Crt/Plantation Pl,Medium Density,RM4-17,,2.904,7.17594,316,16000.720000,172230.316600,0,0,16000.720000,172230.316600,Townhouse,PCC-RNTL,15,2,135,0,46,19,0.550989,434
+1431,Meadowvale Village NHD,52W,7385,Magistrate Terr,Medium Density,RM4-15,Symphony Manors,1.9435,4.802493,141,9156.200000,98556.516500,0,0,9156.200000,98556.516500,Townhouse,PCC,9,3,60,0,31,12,0.471119,435
+1432,Clarkson - Lorne Park NHD,89,710-864,Hidden Grove Lane,Low  Density I,R2-31{1},Watercolours Condominiums,4.45,10.996189,214,,,0,0,,,Detached,PCC,0,2,50,0,11,5,,436
+1433,Churchill Meadows NHD,57,3039-3095/3069-3083,Wrigglesworth Cres/Hawktail Cres,Medium Density,RM5-21,,1.147,2.834299,104,7897.760000,85010.781080,0,0,7897.760000,85010.781080,Townhouse,Freehold,7,2,52,0,45,18,0.688558,437
+1434,Meadowvale Village NHD,44W,6538-6646/6559-6645,Opera Glass Cres/Jazzy Mews,Medium Density,RM5-30,,2.1503,5.313507,170,13712.300000,147597.968700,0,0,13712.300000,147597.968700,Townhouse,Freehold,13,3,85,0,40,16,0.637692,438
+1436,East Credit NHD,38E,5980,Whitehorn Ave,Medium Density,RM4,Creditview Country Club,2.886,7.131461,283,20137.500000,216758.245900,0,0,20137.500000,216758.245900,Townhouse,PCC,18,3,125,0,43,18,0.697765,439
+1438,Sheridan NHD,18,2401,Fifth Line West,Medium Density,RM4-28,Sheridan Lane,0.35,0.864869,31,2087.480000,22469.447700,0,0,2087.480000,22469.447700,Townhouse,PCC,2,2,14,0,40,16,0.596423,440
+1439,Streetsville NHD,38W,231-239,Church St,Low Density II,RM5-33,,0.1279,0.316048,20,931.110000,10022.384620,0,0,931.110000,10022.384620,Townhouse,Freehold,1,3,5,0,39,16,0.727998,441
+1440,Churchill Meadows NHD,57,3033-3146,Turbine Cres,Medium Density,RM5-21,,1.8236,4.506214,,11888.450000,127966.210700,0,0,11888.450000,127966.210700,Townhouse,Freehold,12,3,85,0,47,19,0.651922,442
+1442,Uptown MN,28,159-183/4950,Trudeau Ave/Albina Way,Medium Density,RM4,,3.219,7.954322,332,21095.300000,227067.919300,0,0,21095.300000,227067.919300,Townhouse,PCC,18,3,144,0,45,18,0.655337,443
+1443,Streetsville NHD,38W,19-29/85,Ellen St/Church St,Medium Density,RM4-21,Trinity Falls,0.7134,1.76285,52,4889.606000,52631.280920,0,0,4889.606000,52631.280920,Townhouse,PCC,5,3,22,0,31,12,0.685395,444
+1444,Churchill Meadows NHD,57,5771-5845,Tenth Line West,Medium Density,RM5-22{3},,0.6682,1.651158,52,4895.860000,52698.598420,0,0,4895.860000,52698.598420,Townhouse,Freehold,4,3,26,0,39,16,0.732694,445
+1445,Hurontario NHD,29,651-675/4540-4546,Huntington Ridge Dr/Guildwood Way,Medium Density,RM4-7,Huntington Ridge,2.146,5.302881,213,10860.340000,116899.726800,0,0,10860.340000,116899.726800,Townhouse,PCC-RNTL,10,2,94,0,44,18,0.506074,446
+1447,Erindale NHD,16,11281152,Dundas St W,Medium Density,RM4,Dundas Village,1.84727,4.564704,204,13093.356000,140935.711000,0,0,13093.356000,140935.711000,Townhouse,PCC,15,3,87,0,47,19,0.708795,447
+1451,Churchill Meadows NHD,58,"3315-3625/3328-3578/4950,4988,4989/4990,4991/4992,4949-4997",Southwick St/Eglinton Ave W/Sebastian Dr/Middlesex Gate/Long Acre Dr,Medium Density,RM5-21,,5.7755,14.271571,502,40369.940000,434538.417400,0,0,40369.940000,434538.417400,Townhouse,Freehold,34,3,251,0,43,18,0.698986,448
+1452,Erindale NHD,16,2417,Old Carriage Rd,Low  Density I,R2-32,Stone Grove,1.1006,2.719642,68,,,0,0,,,Detached,PCC,0,1,17,0,15,6,,449
+1453,Hurontario NHD,28,4720-4939/4837-4887/201-219,James Austin Dr/Vienna Crt/Trudeau Ave,Low Density II,RM5-24,,3.9024,9.64304,306,23704.870000,255157.097000,0,0,23704.870000,255157.097000,Townhouse,Freehold,20,2,153,0,39,16,0.607443,450
+1454,East Credit NHD,45E,6035-6125/6079-6176/1025-1029/6069-6156/6016-6060,Coxswain Cres/Rowers Cres/Swift Lane/Windfleet Cres/Silken Laumann Way,Medium Density,RM5,,5.200449,12.850588,,32921.380000,354362.784900,0,0,32921.380000,354362.784900,Townhouse,Freehold,36,2,243,0,47,19,0.633049,451
+1455,Churchill Meadows NHD,58,3146-3480,Angel Pass Dr,Medium Density,RM5-37,,2.74815,6.790827,208,14742.260000,158684.365900,0,0,14742.260000,158684.365900,Townhouse,Freehold,14,,104,0,38,15,0.536443,452
+1456,Hurontario NHD,29,4620,Guildwood Way,High Density,RA1-20,,1.0431,2.577556,133,6484.010000,69793.302740,0,0,6484.010000,69793.302740,Townhouse,PCC,4,3,92,0,88,36,0.621610,453
+1458,Churchill Meadows NHD,58,3035,Artesian Dr,Medium Density,RM4-18,,2.2701,5.609539,,11478.730000,123556.021300,0,0,11478.730000,123556.021300,Townhouse,PCC-RNTL,12,2,93,0,41,17,0.505649,454
+1459,Meadowvale Village NHD,52W,770,Othello Crt,Medium Density,RM4,,2.15086,5.314891,160,9653.960000,103914.360500,0,0,9653.960000,103914.360500,Townhouse,PCC,12,2,69,0,32,13,0.448842,455
+1461,Cooksville NHD (West),22,"3223,3251/3150-3190",Parkerhill Rd/Pinto Pl,Medium Density,RM4-52,,0.999536,2.469907,96,6870.890000,73957.644400,0,0,6870.890000,73957.644400,Townhouse,PCC,6,,47,0,47,19,0.687408,456
+1462,Meadowvale Village NHD,44W,520525,Novo Star Dr,Medium Density,RM4,Laurelwood Chase,3.954,9.770547,314,19585.320000,210814.629800,0,0,19585.320000,210814.629800,Townhouse,PCC,21,3,136,0,34,14,0.495329,457
+1463,Meadowvale Village NHD,52W,7155,Magistrate Terr,Medium Density,RM4,,2.654,6.558177,,15481.220000,166638.465100,0,0,15481.220000,166638.465100,Semi-Detached,PCC,48,3,96,0,36,15,0.583317,458
+1464,Meadowvale Village NHD,44W,6379-6399,Spinnaker Cir,Medium Density,RM4,Laurelwood Gardens,3.27973,8.104389,253,14725.960000,158508.914100,0,0,14725.960000,158508.914100,Townhouse,PCC,18,2,106,0,32,13,0.448999,459
+1466,Cooksville NHD (East),21,435,Hensall Cir,Medium Density,RM4,,3.0962,7.650877,324,22146.900000,238387.247500,0,0,22146.900000,238387.247500,Townhouse,PCC,10,4,144,0,47,19,0.715293,460
+1467,Rathwood NHD,27,4222,Dixie Rd,Medium Density,RM6-5,Stone Manor,2.0966,5.180811,221,13891.200000,149523.632300,0,0,13891.200000,149523.632300,Townhouse,Freehold-Common Element Condo,13,3,98,0,47,19,0.662558,461
+1468,Mineola NHD,7,1130,Cawthra Rd,Medium Density,RM4-38,,1.5875,3.922798,120,11125,119748.503300,0,0,11125,119748.503300,Townhouse,PCC,6,3,52,0,33,13,0.700787,462
+1469,Cooksville NHD (West),22,303030443045304647286784.000000,Breakwater Crt,Medium Density,RM4-32,Pennylane,4.5199,11.168916,516,30552.610000,328865.556800,0,0,30552.610000,328865.556800,Townhouse,PCC,30,3,221,0,49,20,0.675958,463
+1470,Clarkson - Lorne Park NHD,9,"1149-1188,1203-1223",Burrowhill Lane,Low  Density I,R2-31{2},Watercolours,1.962,4.848208,82,4750,51128.574450,0,0,4750,51128.574450,Detached,PCC,0,2,19,0,10,4,0.242100,464
+1471,Erin Mills NHD,24,1915,Broad Hollow Gate,Medium Density,RM4,Manor Gates In Sawmill Valley,0.7684,1.898758,,3823.290000,41153.551030,0,0,3823.290000,41153.551030,Townhouse,PCC,2,3,16,0,21,8,0.497565,465
+1472,Churchill Meadows NHD,57,5175-5233,Preservation Cir,Medium Density,RM5-42{1},,0.6436,1.59037,50,4822.680000,51910.895460,0,0,4822.680000,51910.895460,Townhouse,Freehold,4,3,25,0,39,16,0.749329,466
+1473,Churchill Meadows NHD,57,3252-3298,Flagstone Dr,Medium Density,RM5-37,,0.46755,1.155341,38,3463.240000,37278.005090,0,0,3463.240000,37278.005090,Townhouse,Freehold,3,3,19,0,41,16,0.740721,467
+1475,Churchill Meadows NHD,57,3453-3559,Eglinton Ave W,Medium Density,RM5-41{2},,1.1489,2.838994,92,7074.400000,76148.207800,0,0,7074.400000,76148.207800,Townhouse,Freehold,6,3,46,0,40,16,0.615754,468
+1476,Clarkson - Lorne Park NHD,9,1155,Birchview Dr,Low Density II,RM1-18,,0.5867,1.449767,,2013.792000,21676.276670,0,0,2013.792000,21676.276670,Detached,PCC,0,2,8,0,14,6,0.343240,469
+1478,Streetsville NHD,39E,2270,Britannia Rd W,Low Density II,RM2-43,,0.80611,1.991941,65,4448.720000,47885.623520,0,0,4448.720000,47885.623520,Semi-Detached,PCC,14,2,28,0,35,14,0.551875,470
+1479,Streetsville NHD,39E,86-100,Joymar Dr,Medium Density,RM4-43,,1.827,4.514615,188,10234.590000,110164.209800,0,0,10234.590000,110164.209800,Townhouse,PCC,12,,81,0,44,18,0.560186,471
+1480,Hurontario NHD,36W,520652085210,Thornwood Dr,Low Density II,RM5,,0.0768,0.189777,6,465.600000,5011.676687,0,0,465.600000,5011.676687,Townhouse,Freehold,1,3,3,0,39,16,0.606250,472
+1483,Churchill Meadows NHD,57,3150,Erin Centre Blvd,Medium Density,RM4-33,Picket Fences,2.36485,5.843672,225,13854.260000,149126.013400,0,0,13854.260000,149126.013400,Townhouse,PCC,14,,100,0,42,17,0.585841,473
+1485,Streetsville NHD,45E,"6430-6436,6447-6481",Rivergate Pl,Low Density II,RM4-39,River Gate,1.2895,3.186424,,2924.050000,31474.212230,0,0,2924.050000,31474.212230,Townhouse,PCC,6,1,21,0,16,7,0.226758,474
+1486,Meadowvale Village NHD,52W,7360,Zinnia Pl,Medium Density,RM4,Townwood Homes,7.01,17.322087,414,24752.900000,266437.998000,0,0,24752.900000,266437.998000,Townhouse,PCC,31,2,179,0,26,10,0.353108,475
+1487,Port Credit CN,7,100-130/34-60,Park St E/Rosewood Ave,Medium Density,RM4-34,,1.05479,2.606443,113,8569.170000,92237.778170,0,0,8569.170000,92237.778170,Townhouse,PCC,9,3,50,0,47,19,0.812405,476
+1488,Malton NHD,40E,7035,Rexwood Rd,Medium Density,RM6-6,,3.19435,7.893411,306,19895.600000,214154.456000,0,0,19895.600000,214154.456000,Townhouse,Freehold-Common Element Condo,20,3,135,0,42,17,0.622837,477
+1493,Lisgar NHD,55,3215-3452/7087-7133/7184-7230/7053-7163,Redpath Cir/Chatham Crt/Deanlee Crt/Fairmeadow Cres,Medium Density,RM6-2,,4.489378,11.093495,531,34727.800000,373806.927900,0,0,34727.800000,373806.927900,Townhouse,Freehold-Common Element Condo,33,3,236,0,53,21,0.773555,478
+1494,Churchill Meadows NHD,57,3709-3771/3938-3999/5010/5010-5060/3883-3941,Nightstar Dr/Stardust Dr/Churchill Meadows Blvd/Intrepid Dr/Eglinton Ave W,Medium Density,RM5-37,,3.792047,9.370352,312,22628.300000,243568.993900,0,0,22628.300000,243568.993900,Townhouse,Freehold,22,2,156,0,41,17,0.596730,479
+1495,Churchill Meadows NHD,57,3329-3417/5015/5014/3106-3200,Eglinton Ave W/Tenth Line West/Dubonet Dr/Eclipse Ave,Medium Density,RM5-42{3},,2.151914,5.317495,172,15454.050000,166346.009700,0,0,15454.050000,166346.009700,Townhouse,Freehold,11,3,86,0,40,16,0.718154,480
+1496,East Credit NHD,45E,6035,Bidwell Tr,Medium Density,RM4-27,,2.638,6.51864,181,12015.300000,129331.612700,0,0,12015.300000,129331.612700,Townhouse,PCC,13,2,78,0,30,12,0.455470,481
+1497,Applewood NHD,19,3071,Treadwells Dr,Medium Density,RM4-51,,0.38592,0.953629,,3792.400000,40821.053840,0,0,3792.400000,40821.053840,Townhouse,PCC,3,3,23,0,60,24,0.982691,482
+1498,Cooksville NHD (West),22,700-794/560-648/3019-3031/555-645/3020-3038,Neighbourhood Cir/Shoreline Dr/Elmcreek Rd/Dundas St W/Clayhill Rd,High Density,RA2-19,,3.327,8.221196,725,38294.750000,412201.258200,0,0,38294.750000,412201.258200,Townhouse,PCC,23,3,336,0,101,41,1.151029,483
+1499,Churchill Meadows NHD,58,4965-4985/3046-3108/4950-4970/4855-4869,Southampton Dr/Eglinton Ave W/Winston Churchill Blvd/Half Moon Grov,High Density,RA2-29,,4.6197,11.415527,499,29466.765000,317177.618500,0,0,29466.765000,317177.618500,Townhouse,PCC,24,3,354,0,77,31,0.637850,484
+1500,Hurontario NHD,36W,"30-50,61-69/5247-5272",Breton Ave/Pedalina Dr,Medium Density,RM4-1,,1.196165,2.955788,64,5558.440000,59830.550180,0,0,5558.440000,59830.550180,Townhouse,Freehold,6,2,32,0,27,11,0.464688,485
+1501,Churchill Meadows NHD,57,3950,Erin Centre Blvd,Medium Density,RM4-42,,1.31,3.23708,119,8282.600000,89153.164360,0,0,8282.600000,89153.164360,Townhouse,PCC,9,2,52,0,40,16,0.632260,486
+1503,Lakeview NHD,6,1633,Northmount Ave,Low Density II,RM4-56,,0.993232,2.45433,78,5339.120000,57469.809350,0,0,5339.120000,57469.809350,Townhouse,PCC,6,2,30,0,30,12,0.537550,487
+1504,Churchill Meadows NHD,57,3731-3770,Bloomington  Cres,Medium Density,RM5-43,,0.257501,0.636299,22,1662.490000,17894.893420,0,0,1662.490000,17894.893420,Townhouse,Freehold,2,2,11,0,43,17,0.645625,488
+1508,Churchill Meadows NHD,57,"5025,5035/3975,3985/5050",Ninth Line/Eglinton Ave W/Intrepid Dr,High Density,RA2-39,,2.11,5.213924,223,13965,150318.008900,0,0,13965,150318.008900,Townhouse,PCC,9,3,158,0,75,30,0.661848,489
+1510,Churchill Meadows NHD,57,5255,Palmetto Pl,Medium Density,RM4-33,,2.76,6.820109,247,14930.060000,160705.828300,0,0,14930.060000,160705.828300,Townhouse,PCC,17,,107,0,39,16,0.540944,490
+1511,Churchill Meadows NHD,57,5261-5309,Palmetto Pl,Medium Density,RM5-37,,0.895134,2.211924,,5919.020000,63711.800990,0,0,5919.020000,63711.800990,Townhouse,Freehold,5,,40,0,45,18,0.661244,491
+1512,Churchill Meadows NHD,57,"3122-3132,3136-3148,3151-3167,",Cabano Cres,Medium Density,RM5-37,,0.524747,1.296678,,3250.330000,34986.260920,0,0,3250.330000,34986.260920,Townhouse,Freehold,3,2,22,0,42,17,0.619409,492
+1513,South Common CN,32,4009-4021/2635-2639,Glen Erin Dr/Rogers Rd,Medium Density,RM4-60,,0.3365,0.83151,23,2149,23131.643470,0,0,2149,23131.643470,Townhouse,PCC,2,3,10,0,30,12,0.638633,493
+1514,Erin Mills NHD,25,3040,Fifth Line West,Medium Density,RM4-55,,0.3972,0.981503,31,1927.200000,20744.208140,0,0,1927.200000,20744.208140,Townhouse,PCC,3,,13,0,33,13,0.485196,494
+1515,Cooksville NHD (West),15,215-290,Winterborne Gate,Low  Density I,R16-1,,1.34047,3.312374,59,4967.300000,53467.572180,0,0,4967.300000,53467.572180,Detached,PCC,0,2,11,0,8,3,0.370564,495
+1516,East Credit NHD,38E,1015,Galesway Blvd,Medium Density,RM4-45,,0.959036,2.36983,90,5580.090000,60063.588840,0,0,5580.090000,60063.588840,Townhouse,PCC,6,2,39,0,41,16,0.581844,496
+1517,Cooksville NHD (West),15,230,Paisley Blvd W,Medium Density,RM4-62,,0.862,2.130048,83,5386.900000,57984.108990,0,0,5386.900000,57984.108990,Townhouse,PCC,5,3,36,0,42,17,0.624930,497
+1520,Hurontario NHD,37W,5749-5845/5633-5757/713-730/729-746,Tiz Rd/Retreat St/Horning St/Maxman St,Medium Density,RM6-1,,3.711,9.170081,,23031.130000,247905.020000,0,0,23031.130000,247905.020000,Townhouse,Freehold-Common Element Condo,18,3,133,0,36,15,0.620618,498
+1521,Churchill Meadows NHD,57,5512-5552/5502-5598,Tenth Line West/Waterwind Cres,High Density,RM5-46,,1.73,4.274923,,12588,135496.104200,0,0,12588,135496.104200,Townhouse,Freehold,13,,81,0,47,19,0.727630,499
+1523,East Credit NHD,38E,1048-1097/5037-5047,Felicity Cres/Warwickshire Way,Medium Density,RM6-3,,0.95924,2.370334,101,7022.400000,75588.484460,0,0,7022.400000,75588.484460,Townhouse,Freehold-Common Element Condo,7,3,42,0,44,18,0.732080,500
+1524,Lisgar NHD,56,6995,Glory Crt,Medium Density,RM4-50,,0.259678,0.641678,23,1914.820000,20610.950930,0,0,1914.820000,20610.950930,Townhouse,PCC,1,3,10,0,39,16,0.737382,501
+1525,Clarkson - Lorne Park NHD,9,1001-1011,Lorne Park Rd,Medium Density,RM4-46,,0.220608,0.545134,23,984,10591.687840,0,0,984,10591.687840,Townhouse,PCC,1,,6,0,27,11,0.446040,502
+1526,DT Core,28,97-131/4121-4157,Robert Speck Pky/Shipp Dr,Mixed Use,CC3-1,,2.4425,6.035549,160,19992.560000,215198.124700,0,0,19992.560000,215198.124700,Townhouse,PCC,12,3,69,0,28,11,0.818529,503
+1527,Hurontario NHD,36E,514-795,Candlestick Cir,Medium Density,RM6-8,,4.3509,10.751308,359,31484.650000,338897.951900,0,0,31484.650000,338897.951900,Townhouse,Freehold-Common Element Condo,21,3,157,0,36,15,0.723635,504
+1528,Applewood NHD,20,3060-3213,Joel Kerbel Pl,Medium Density,RM6-4,,1.64817,4.072717,161,10900,117326.623500,0,0,10900,117326.623500,Townhouse,Freehold-Common Element Condo,11,3,71,0,43,17,0.661340,505
+1529,Churchill Meadows NHD,57,5280-5356,Roadside Way,Low Density II,RM5-37,,0.46359,1.145556,38,3441.700000,37046.150460,0,0,3441.700000,37046.150460,Townhouse,Freehold,3,2,19,0,41,17,0.742402,506
+1530,Churchill Meadows NHD,57,"3200,3250/5725,5755/3335-3395/5700,5750",Bentley Dr/Tenth Line West/Thomas St/ToscaDr,High Density,RM9-4,,2.727,6.738564,302,23214.800000,249882.027400,920,9902.797577,24134.800000,259784.825000,Townhouse,PCC,13,4,194,8,74,30,0.885031,507
+1533,Churchill Meadows NHD,57,5715/3350-3390,Tenth Line West/Thomas St,Medium Density,RM4-66,,0.8317,2.055175,69,6250.400000,67278.745630,0,0,6250.400000,67278.745630,Townhouse,PCC,5,3,31,0,37,15,0.751521,508
+1534,Churchill Meadows NHD,57,"5700,5710/3215-3265/5725",Long Valley Rd/Thomas St/Tosca Dr,Medium Density,RM4-68,,1.3499,3.335676,121,10490.450000,112918.264000,0,0,10490.450000,112918.264000,Townhouse,PCC,8,3,55,0,41,16,0.777128,509
+1535,Churchill Meadows NHD,57,5005-5055,Oscar Peterson Blvd,High Density,RM9-5,,2.117339,5.232059,224,14775,159036.776300,0,0,14775,159036.776300,Townhouse,PCC,13,,157,0,74,30,0.697810,510
+1539,Applewood NHD,20,3038,Haines Rd,Medium Density,RM6-7,,1.62938,4.026286,160,11282.200000,121440.590000,0,0,11282.200000,121440.590000,Townhouse,Freehold-Common Element Condo,10,3,71,0,44,18,0.692423,511
+1540,Erindale NHD,16,2456-2462,Glengarry Rd,Low  Density I,R2-51,,0.682,1.685259,47,2361.400000,25417.898040,0,0,2361.400000,25417.898040,Detached,PCC,0,2,11,0,16,7,0.346246,512
+1541,Churchill Meadows NHD,57,5116-5204,Angel Stone Dr,Medium Density,RM5-37,,1.8586,4.592701,,11744.850000,126420.513200,0,0,11744.850000,126420.513200,Townhouse,Freehold,12,,79,0,43,17,0.631919,513
+1542,Applewood NHD,19,"1812,1820,1846-1868",Burnhamthorpe Rd E,Medium Density,RM6-9,,1.410846,3.486276,218,16183.370000,174196.344800,0,0,16183.370000,174196.344800,Townhouse,Freehold-Common Element Condo,11,,96,0,68,28,1.147068,514
+1543,Erindale NHD,16,2592-2600,Glengarry Rd,Medium Density,RM4-6,,0.5751,1.421103,52,3787.800000,40771.539850,0,0,3787.800000,40771.539850,Townhouse,PCC,5,3,23,0,40,16,0.658633,515
+1544,East Credit NHD,30,621-677,Courtney Valley Rd,Medium Density,RM5-50,,0.43,1.062553,,,,0,0,,,Townhouse,Freehold,4,,21,0,49,20,,516
+1545,Clarkson - Lorne Park NHD,3,"2007-2011,2014-2024/1988-1999/952-981/2010-2040/993-997/1980-1995",Lushes Ave/Oana Dr/Toscana Pl/Lakeshore Rd W/Southdown Rd/Rackus Cres,Medium Density,RM6-10,,1.72078,4.25214,,11958.100000,128715.917100,0,0,11958.100000,128715.917100,Townhouse,Freehold-Common Element Condo,15,3,66,0,38,16,0.694923,517
+1548,Meadowvale Village NHD,52E,317-454,Aspendale Cres,Medium Density,RM6-11,,1.756058,4.339314,171,14294.760000,153867.516000,0,0,14294.760000,153867.516000,Townhouse,Freehold-Common Element Condo,10,,74,0,42,17,0.814026,518
+1549,East Credit NHD,38W,1549-1591,Eglinton Ave W,Medium Density,RM5-47,,0.42264,1.044366,68,4334,46650.787720,0,0,4334,46650.787720,Townhouse,Freehold,3,2,18,0,43,17,1.025459,519
+1550,Lisgar NHD,55,7102-7258,Triumph Lane,Medium Density,RM4-37,Derry Chase,1.714294,4.236113,181,12103.680000,130282.927200,0,0,12103.680000,130282.927200,Townhouse,PCC,11,3,80,0,47,19,0.706045,520
+1697,Port Credit CN,7,143-179,Lakeshore Rd E,Mixed Use,C4-5,,0.3373,0.833486,69,3036.620000,32685.905630,693.16,7461.11214,3729.780000,40147.017770,Townhouse,PCC,3,3,18,18,107,43,1.105775,521
+1703,Port Credit NHD (West),8,188-198/8,Lakeshore Rd W/Wesley Ave,Mixed Use,C4-22,The Light House Court,0.2066,0.51052,33,1951.280000,21003.403100,171.65,1847.625222,2122.920000,22850.920690,Townhouse,PCC,2,3,12,6,87,35,1.027551,522
+1709,Lakeview NHD,6,885,Lakeshore Rd E,Mixed Use,C4-29,,0.204637,0.505669,28,1135.920000,12226.941110,150,1614.586562,1285.920000,13841.527670,Townhouse,PCC,1,3,12,6,88,36,0.628391,523
+1713,Lakeview NHD,5,1437/1011,Lakeshore Rd E/Deta Rd,Mixed Use,C4-56,,0.51478,1.272049,68,4306.830000,46358.332270,177.06,1905.857977,4483.890000,48264.190250,Townhouse,PCC,2,3,47,9,109,44,0.871030,524
+1714,Meadowvale NHD,54W,2301,Derry Rd W,Medium Density,RM4,2301 Derry Glenderry Townhouse,1.665,4.114305,,5097.400000,54867.956920,0,0,5097.400000,54867.956920,Townhouse,PCC,7,2,51,0,31,12,0.306150,525
+1715,Meadowvale NHD,46W,2660,Aquitaine Ave,Medium Density,RM4,Masons Landing,0.63,1.556764,,3400,36597.295390,0,0,3400,36597.295390,Townhouse,RNTL-PNP,4,3,30,0,48,19,0.539683,526
+1716,South Common CN,25,2280,South Millway,High Density,RA2-43,Erinwood Estates,0.1681,0.415384,8,670,7211.819975,0,0,670,7211.819975,Townhouse,RNTL,1,2,4,0,24,10,0.398572,527
+1717,Erin Mills NHD,59,3480,Colonial Dr,Medium Density,RM9-3,Colonial Terrace,1.7,4.200791,,11000,118403.014500,0,0,11000,118403.014500,Townhouse,RNTL-PNP,7,3,126,0,74,30,0.647059,528
+1718,Lakeview NHD,6,1035,Fergus Ave,High Density,RA3-23,Lakeview Promenade Non-Profit,0.1771,0.437624,,1058,11388.217210,0,0,1058,11388.217210,Townhouse,RNTL-PNP,2,2,10,0,56,23,0.597403,529
+1719,DT Core,22,3567-3597,Kariya Dr,Mixed Use,H-CC2{2},The Towne Townhouses,0.438,1.082322,,2287.500000,24622.445060,0,0,2287.500000,24622.445060,Townhouse,PCC,2,3,12,0,27,11,0.522260,530
+1720,DT Core,22,57-67,Elm Dr W,Mixed Use,H-CC2{2},Towne 2 Townhouses,0.2314,0.571802,,1345.180000,14479.397010,0,0,1345.180000,14479.397010,Townhouse,PCC,1,2,6,0,26,10,0.581322,531
+1721,Lakeview NHD,6,1030,Greaves Ave,High Density,RA2-15,Lakeside Court,0.2335,0.576991,,1020,10979.188620,0,0,1020,10979.188620,Townhouse,RNTL-PNP,2,2,10,0,43,17,0.436831,532
+1722,Streetsville NHD,39E,2370,Britannia Rd W,Medium Density,RM4,Britannia Oaks Townhouses,0.6087,1.50413,,3757.400000,40444.316970,0,0,3757.400000,40444.316970,Townhouse,PCC,3,3,25,0,41,17,0.617283,533
+1723,Applewood NHD,19,1749,Dundas St E,Low Density II,R4-51,Twin Pines Mobile Home Park,8.909,22.014618,,,,0,0,,,Other (Mobile Homes),RNTL-PNP,0,1,239,0,27,11,,534
+1724,Hurontario NHD,37E,50,Strathaven Dr,Medium Density,RM4,Strathaven Village,1.7922,4.428623,,13458.700000,144868.241000,0,0,13458.700000,144868.241000,Townhouse,PCC,11,2,98,0,55,22,0.750960,535
+1725,Rathwood-Applewood CN,27,1341-1355,Rathburn Rd E,High Density,RA5-19,,0.8928,2.206157,,5738.100000,61764.394320,0,0,5738.100000,61764.394320,Townhouse,PCC,6,2,31,0,35,14,0.642708,536
+1726,Churchill Meadows NHD,58,48474849,Half Moon Grov,Medium Density,RM4-18,,0.0569,0.140603,,251.580000,2707.984581,0,0,251.580000,2707.984581,Semi-Detached,PCC-RNTL,1,2,2,0,35,14,0.442144,537
+1727,Meadowvale Village NHD,52W,7155,Magistrate Terr,Medium Density,RM4,,0.465,1.14904,,2572.680000,27692.097030,0,0,2572.680000,27692.097030,Townhouse,PCC,5,3,17,0,37,15,0.553265,538
+1728,Erin Mills NHD,24,1915,Broad Hollow Gate,Medium Density,RM4,Manor Gates In Sawmill Valley,0.21,0.518921,,1048.460000,11285.529510,0,0,1048.460000,11285.529510,Semi-Detached,PCC,2,3,4,0,19,8,0.499267,539
+1729,Clarkson - Lorne Park NHD,9,1155,Birchview Dr,Low Density II,RM1-18,,0.2515,0.62147,,955.478000,10284.679590,0,0,955.478000,10284.679590,Semi-Detached,PCC,2,2,4,0,16,6,0.379912,540
+1730,Streetsville NHD,45E,6425-6439,Rivergate Pl,Low Density II,RM4-39,River Gate,0.3675,0.908112,,829.140000,8924.788677,0,0,829.140000,8924.788677,Semi-Detached,PCC,3,1,6,0,16,7,0.225616,541
+1731,Applewood NHD,19,"3059-3067,3075-3095",Treadwells Dr,Medium Density,RM4-51,,0.38592,0.953629,,1683.680000,18122.980680,0,0,1683.680000,18122.980680,Detached,PCC,0,2,9,0,23,9,0.436277,542
+1732,Churchill Meadows NHD,57,3030-3046,Turbine Crescent,High Density,RA1-37,,0.2037,0.503354,,1673.890000,18017.602000,0,0,1673.890000,18017.602000,Townhouse,Freehold,2,2,8,0,39,16,0.821743,543
+1733,Churchill Meadows NHD,57,5610-5650,Winston Churchill Blvd,High Density,RA1-37,,1.53,3.780712,,9787.380000,105350.481500,0,0,9787.380000,105350.481500,Townhouse,PCC,11,3,96,0,63,25,0.639698,544
+1734,Churchill Meadows NHD,57,3010-3050,Erin Centre Blvd,High Density,RA2-53,,2.61,6.44945,,17661.980000,190111.970400,0,0,17661.980000,190111.970400,Townhouse,PCC,22,3,156,0,60,24,0.676704,545
+1735,Applewood NHD,19,1799-1863,Pagehurst Ave,Medium Density,RM6-9,,0.325,0.803092,48,4848.430000,52188.066150,0,0,4848.430000,52188.066150,Semi-Detached,Freehold-Common Element Condo,12,,24,0,74,30,1.491825,546
+1736,Clarkson - Lorne Park NHD,3,"2023-2029,2028-2038",Lushes Ave,Medium Density,RM5-49,,0.23542,0.581735,,1964.300000,21143.549220,0,0,1964.300000,21143.549220,Townhouse,Freehold,2,3,10,0,42,17,0.834381,547
+1737,Clarkson - Lorne Park NHD,3,985989,Southdown Rd,Medium Density,RM6-10,,0.11653,0.287952,,437,4703.828849,0,0,437,4703.828849,Detached,Freehold-Common Element Condo,0,2,2,0,17,7,0.375011,548
+1744,Streetsville NHD,39E,2356,Britannia Rd W,Medium Density,RM4,,0.12167,0.300653,,1150,12378.496970,0,0,1150,12378.496970,Townhouse,PCC,1,,6,0,49,20,0.945180,549
+1745,Streetsville NHD,38W,43-61,Main St,Low Density II,RM5-34,,0.270088,0.667402,20,2306,24821.577410,0,0,2306,24821.577410,Townhouse,Freehold,2,,10,0,37,15,0.853796,550
+1746,Central Erin Mills MN,39W,2891/2875-2935/5100,Rio Crt/Hazelton Pl/Plantation Pl,Medium Density,RM9-6,Hazelton Place,2.3775,5.87493,267,17492,188282.320900,0,0,17492,188282.320900,Townhouse,PCC,11,3,186,0,78,32,0.735731,551
+1750,Streetsville NHD,39E,5970-5992/2288,Turney Dr/Britannia Rd W,Medium Density,RM4-72,,0.89904,2.221576,74,5678,61117.483310,0,0,5678,61117.483310,Townhouse,"CDM, PCC",7,3,37,0,41,17,0.631563,552
+1751,Churchill Meadows NHD,57,3070-3100/5585-5625,Thomas St/Oscar Peterson Blvd,High Density,RA1-38,,1.3382,3.306764,149,11109.700000,119583.815500,0,0,11109.700000,119583.815500,Townhouse,PCC,8,3,94,0,70,28,0.830197,553
+1752,Streetsville NHD,45W,6625,Falconer Dr,Medium Density,RM4-73,,1.262504,3.119715,149,10124.430000,108978.457500,0,0,10124.430000,108978.457500,Townhouse,PCC,10,3,66,0,52,21,0.801933,554
+1753,Clarkson - Lorne Park NHD,9,1199,Lorne Park Rd,Low Density II,RM4-71,,0.2208,0.545609,11,1191.310000,12823.154110,0,0,1191.310000,12823.154110,Townhouse,PCC,1,2,5,0,23,9,0.539543,555
+1754,Clarkson - Lorne Park NHD,9,1191-1203,Lorne Park Rd,Low Density II,RM4-71,,0.2208,0.545609,9,992.380000,10681.889410,0,0,992.380000,10681.889410,Semi-Detached,PCC,2,2,4,0,18,7,0.449447,556
+1755,DT Hospital,15,17-29,Premium Way,Low Density II,RM5-52,,0.20616,0.509432,,1488.100000,16017.775080,0,0,1488.100000,16017.775080,Townhouse,Freehold,1,,7,0,34,14,0.721818,557
+1756,DT Hospital,15,2075-2085,Grange Dr,Low Density I,RM5-51,,0.140887,0.348139,,1409.600000,15172.808110,0,0,1409.600000,15172.808110,Townhouse,Freehold,1,,6,0,43,17,1.000518,558
+1757,Meadowvale Village NHD,45E,6910-6995,Rayah Court,Low Density I,"R16-3, R16-4",,1.13826,2.812702,62,5730.300000,61680.435820,0,0,5730.300000,61680.435820,Detached,Freehold-Common Element Condo,,,9,0,8,3,0.503426,559
+1762,Clarkson Village CN,11,2375,Truscott Dr,Medium Density,RM4-40,,0.2361,0.583416,23,1614.810000,17381.670170,0,0,1614.810000,17381.670170,Townhouse,PCC,1,3,9,0,38,15,0.683952,560
+1765,Churchill Meadows NHD,57,3227-3432/5587-5611/5618-5622,Stoney Cres/Bonnie St/Lucy Dr,"Low Density II, Medium Density",RM5-54,,1.31681,3.253908,88,9091.450000,97859.553300,0,0,9091.450000,97859.553300,Townhouse,Freehold,8,2,44,0,33,14,0.690415,561
+1768,Applewood NHD,20,3071-3083,Cawthra Rd,Medium Density,RM9-7,,0.343332,0.848392,61,2244.960000,24164.548310,0,0,2244.960000,24164.548310,Townhouse,PCC,3,,27,0,79,32,0.653874,562
+1770,East Credit NHD,38E,1300-1451,Granrock Cres,Medium Density,RM6-14,,1.934,4.779018,234,16587.570000,178547.117400,0,0,16587.570000,178547.117400,Townhouse,Freehold-Common Element Condo,15,,104,0,54,22,0.857682,563
+1773,East Credit NHD,30,817-823,Millworks Cres,Medium Density,RM5,,0.10585,0.261561,8,782.080000,8418.239053,0,0,782.080000,8418.239053,Townhouse,Freehold,1,2,4,0,38,15,0.738857,564
+1774,Churchill Meadows NHD,57,3100-3190/5030-5070,Boxford Cres/Harvard Rd,High Density,RM9-8,,2.8936,7.150241,297,20971.290000,225733.086700,0,0,20971.290000,225733.086700,Townhouse,CDM,18,3,149,0,51,21,0.724747,565
+1775,Meadowvale Village NHD,52E,481-495,Briggs Crt,Low Density II,RM5-29,,0.28729,0.709909,24,2272.400000,24459.910020,0,0,2272.400000,24459.910020,Townhouse,Freehold,1,3,8,0,28,11,0.790978,566
+1777,East Credit NHD,37W,840-997,Francine Cres,Low Density II,RM3-1,,1.87474,4.632583,148,11589.560000,124748.985500,0,0,11589.560000,124748.985500,Semi-Detached,Freehold-Common Element Condo,32,2,64,0,34,14,0.618196,567
+1778,Uptown MN,37E,70-160/5020-5060,Little Creek Rd/Four Springs Ave,Medium Density,RM4-74,,1.95837,4.839238,219,18812,202490.682600,0,0,18812,202490.682600,Townhouse,CDM,14,3,100,0,51,21,0.960595,568
+1779,DT Core,29,4010-4080,Parkside Village Dr,Mixed Use,"CC4-5, CCOS",Parkside Village Townhouses,0.76677,1.89473,154,10805.900000,116313.739500,0,0,10805.900000,116313.739500,Townhouse,CDM,6,3,68,0,89,36,1.409275,569
+1780,Lakeview NHD,6,1111-1139,Haig Blvd,Medium Density,RM4-75,,1.6627,4.108621,174,12413.800000,133621.031000,0,0,12413.800000,133621.031000,Townhouse,CDM,11,3,77,0,46,19,0.746605,570
+1783,Central Erin Mills NHD,31,2005-2099,Queensborough Gate,Medium Density,RM4-70,,1.0421,2.575085,125,9852.380000,106050.135600,0,0,9852.380000,106050.135600,Townhouse,CDM,9,3,57,0,55,22,0.945435,571
+1784,Central Erin Mills NHD,31,4382-4396,Mississauga Rd,Medium Density,RM4-70,,0.1135,0.280465,18,1501.780000,16165.025380,0,0,1501.780000,16165.025380,Semi-Detached,CDM,4,3,8,0,70,29,1.323154,572
+1786,Port Credit NHD (West),8,3-43,Godfreys Lane,Medium Density,RM6-17,,0.3967,0.980267,41,4308.500000,46376.308000,0,0,4308.500000,46376.308000,Townhouse,CDM,3,4,18,0,45,18,1.086085,573
+1788,Uptown MN,36W,51-55,Preston Meadow Ave,Medium Density,RM5-53,,0.07972,0.196992,6,555.290000,5977.091812,0,0,555.290000,5977.091812,Townhouse,Freehold,1,2,3,0,38,15,0.696550,574
+1789,Cooksville NHD (East),14,347-438/2051-2061/2050-2062,Ladycroft Terrace/Cliff Rd/Excalibur Way,"Medium Density, HighDensity","RA4-28, C1-24",,1.430736,3.535426,149,10141.200000,109158.968200,0,0,10141.200000,109158.968200,Townhouse,CDM,10,3,66,0,46,19,0.708810,575
